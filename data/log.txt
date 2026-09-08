@@ -1,4 +1,4 @@
-run 2026-09-08 23:19 UTC
+run 2026-09-08 23:28 UTC
   SWDA: 503 barre, ultima 2026-09-08 close nan
   XSPX: 503 barre, ultima 2026-09-08 close nan
   A500: 503 barre, ultima 2026-09-08 close nan
