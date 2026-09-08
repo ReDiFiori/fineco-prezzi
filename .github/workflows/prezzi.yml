@@ -1,0 +1,30 @@
+name: Prezzi ETF Borsa Italiana
+
+on:
+  schedule:
+    # UTC. 16:50 e 17:20 UTC = 18:50/19:20 con l'ora legale, 17:50/18:20 con l'ora solare (Borsa chiude alle 17:30)
+    - cron: "50 16 * * 1-5"
+    - cron: "20 17 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scarica:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet yfinance pandas
+      - name: Scarica le chiusure
+        run: python scarica_prezzi.py
+      - name: Salva nel repository
+        run: |
+          git config user.name "prezzi-bot"
+          git config user.email "prezzi-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "prezzi $(date -u +%Y-%m-%d_%H:%M)"
+          git push
