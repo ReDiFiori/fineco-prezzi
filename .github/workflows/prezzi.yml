@@ -2,9 +2,13 @@ name: Prezzi ETF Borsa Italiana
 
 on:
   schedule:
-    # UTC. 16:50 e 17:20 UTC = 18:50/19:20 con l'ora legale, 17:50/18:20 con l'ora solare (Borsa chiude alle 17:30)
-    - cron: "50 16 * * 1-5"
-    - cron: "20 17 * * 1-5"
+    # UTC. Borsa chiude alle 17:30 ora italiana (15:30 UTC con l'ora legale, 16:30 con l'ora solare); il segnale serale gira alle 17:45 UTC.
+    # Piu' orari perche' GitHub puo' ritardare o saltare uno schedule (il 9/9/2026 non e' partito nessuno dei due previsti).
+    # Un run che non trova dati nuovi non produce commit (git diff --cached --quiet).
+    - cron: "40 16 * * 1-5"
+    - cron: "55 16 * * 1-5"
+    - cron: "10 17 * * 1-5"
+    - cron: "25 17 * * 1-5"
   workflow_dispatch:
     inputs:
       rigenera_mappa:
