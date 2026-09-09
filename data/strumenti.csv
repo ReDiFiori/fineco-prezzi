@@ -1,56 +1,391 @@
 ticker,tipo,isin,nome,yahoo,mercato
-FAMMAI,etf_promo,IE000VYO9NT0,FINECO AM MSCI ACWI IMI Cyber Security UCITS ETF A EUR Acc,FAMMAI.MI,Borsa Italiana
-FAMEUS,etf_promo,IE000O2G7VL0,Fineco AM MSCI EUR HY SRI P-Series Corporate Bond UCITS ETF A EUR Acc,FAMEUS.MI,Borsa Italiana
-FAMSF3,etf_promo,IE000W6ZFH20,Fineco AM MSCI EUR IG SRI P-Series ex Fossil Fuel (1-3Y) Corporate Bond UCITS ETF A EUR Acc,FAMSF3.MI,Borsa Italiana
-FAMSFF,etf_promo,IE000NPK2VI6,Fineco AM MSCI EUR IG SRI P-Series ex Fossil Fuel Corporate Bond UCITS ETF A EUR Acc,FAMSFF.MI,Borsa Italiana
-FAMUSS,etf_promo,IE0000JVOLK2,Fineco AM MSCI USD HY SRI P-Series Corporate Bond UCITS ETF A EUR Acc,FAMUSS.MI,Borsa Italiana
-FAMLSS,etf_promo,IE000WMJVNE9,Fineco AM MSCI USD IG Liquid SRI P-Series Corporate Bond UCITS ETF A EUR Acc,FAMLSS.MI,Borsa Italiana
-FAMWCS,etf_promo,IE0006XQ3YX3,Fineco AM MSCI World Consumer Staples Sustainable Selection P-Series UCITS ETF A EUR Acc,FAMWCS.MI,Borsa Italiana
-FAMMWF,etf_promo,IE000VDP6OY8,Fineco AM MSCI World Financials Sustainable Selection P-Series UCITS ETF A EUR Acc,FAMMWF.MI,Borsa Italiana
-FAMAMW,etf_promo,IE000EE3Q489,Fineco AM MSCI World Metals and Mining UCITS ETF A EUR Acc,FAMAMW.MI,Borsa Italiana
-FAMMWS,etf_promo,IE000C87OS21,Fineco AM MSCI World Semiconductors and Semiconductor Equipment 20% Capped UCITS ETF A EUR Acc,FAMMWS.MI,Borsa Italiana
-AI4UJ,etf_promo,IE000J8VOMQ9,Fineco AM MarketVector Artificial Intelligence Sustainable UCITS ETF J,AI4UJ.MI,Borsa Italiana
-AI4U,etf_promo,IE000QU8JEH5,Fineco AM MarketVector Artificial Intelligence Sustainable UCITS ETF A Acc,AI4U.MI,Borsa Italiana
-BTECH,etf_promo,IE000RWFQT12,Fineco AM MarketVector Bioproduction Tech and Tools Sustainable UCITS ETF A Acc,BTECH.MI,Borsa Italiana
-BTECJ,etf_promo,IE000YXUZAN8,Fineco AM MarketVector Bioproduction Tech and Tools Sustainable UCITS ETF J Acc,BTECJ.MI,Borsa Italiana
-EMOVJ,etf_promo,IE000VAKCHT4,Fineco AM MarketVector Global Clean Energy Transition Sustainable UCITS ETF J Acc,EMOVJ.MI,Borsa Italiana
-EMOVE,etf_promo,IE000PN3F926,Fineco AM MarketVector Global Clean Energy Transition Sustainable UCITS ETF A Acc,EMOVE.MI,Borsa Italiana
-METAA,etf_promo,IE000WCPJOV4,Fineco AM MarketVector Global Metaverse and e-Games Sustainable UCITS ETF A Acc,METAA.MI,Borsa Italiana
-METAJ,etf_promo,IE000HA0OM03,Fineco AM MarketVector Global Metaverse and e-Games Sustainable UCITS ETF J Acc,METAJ.MI,Borsa Italiana
-JPMQ,etf_promo,IE000QCDDND5,Fineco AM MarketVector Japan Quality Tilt Sustainable UCITS ETF A Acc,JPMQ.MI,Borsa Italiana
-JPMQJ,etf_promo,IE000SM6I1K9,Fineco AM MarketVector Japan Quality Tilt Sustainable UCITS ETF J Acc,JPMQJ.MI,Borsa Italiana
-XMK9,etf_promo,LU0659580079,Xtrackers MSCI Japan UCITS ETF 4C EUR Hedged,XMK9.MI,Borsa Italiana
-XMAW,etf_promo,IE00BGHQ0G80,Xtrackers MSCI AC World Screened UCITS ETF 1C,XMAW.MI,Borsa Italiana
-XZEG,etf_promo,LU2385068593,Xtrackers II ESG Global Government Bond UCITS ETF 4D EUR Income Hedged,XZEG.MI,Borsa Italiana
+FAMMAI,etf_promo,IE000VYO9NT0,FINECO AM MSCI ACWI IMI CYBER SECURITY UCITS ETF,FAMMAI.MI,Borsa Italiana
+FAMEUS,etf_promo,IE000O2G7VL0,FINECO AM MSCI EUR HY SRI SUSTAINABLE CORPORATE BOND UCITS ETF,FAMEUS.MI,Borsa Italiana
+FAMSF3,etf_promo,IE000W6ZFH20,EUR Corporate Bond - Short Term,FAMSF3.MI,Borsa Italiana
+FAMSFF,etf_promo,IE000NPK2VI6,FINECO AM MSCI EUR IG SRI SUSTAINABLE EX FOSSIL FUEL CORPORATE BOND UCITS ETF,FAMSFF.MI,Borsa Italiana
+FAMUSS,etf_promo,IE0000JVOLK2,FINECO AM MSCI USD HY SRI SUSTAINABLE CORPORATE BOND UCITS ETF,FAMUSS.MI,Borsa Italiana
+FAMLSS,etf_promo,IE000WMJVNE9,FINECO AM MSCI USD IG LIQUID SRI SUSTAINABLE CORPORATE BOND UCITS ETF,FAMLSS.MI,Borsa Italiana
+FAMWCS,etf_promo,IE0006XQ3YX3,FINECO AM MSCI WORLD CONSUMER STAPLES ESG LEADERS UCITS ETF,FAMWCS.MI,Borsa Italiana
+FAMMWF,etf_promo,IE000VDP6OY8,FINECO AM MSCI WORLD FINANCIALS ESG LEADERS UCITS ETF,FAMMWF.MI,Borsa Italiana
+FAMTEL,etf_promo,IE000SACNHU2,Other Equity,FAMTEL.MI,Borsa Italiana
+FAMAMW,etf_promo,IE000EE3Q489,FINECO AM MSCI WORLD METALS AND MINING UCITS ETF,FAMAMW.MI,Borsa Italiana
+FAMMWS,etf_promo,IE000C87OS21,Other Equity,FAMMWS.MI,Borsa Italiana
+AI4UJ,etf_promo,IE000J8VOMQ9,FINECOAM MKTVECTOR AI ESG UCITS ETF,AI4UJ.MI,Borsa Italiana
+AI4U,etf_promo,IE000QU8JEH5,FINECOAM MKTVECTOR AI ESG UCITS ETF,AI4U.MI,Borsa Italiana
+BTECH,etf_promo,IE000RWFQT12,FINECOAM MKTVECTOR BIOTECHTOOLS ETF,BTECH.MI,Borsa Italiana
+BTECJ,etf_promo,IE000YXUZAN8,FINECOAM MKTVECTOR BIOTECHTOOLS ETF,BTECJ.MI,Borsa Italiana
+EMOVJ,etf_promo,IE000VAKCHT4,FINECOAM MKTVECTOR GLOCLEANENRGY ETF,EMOVJ.MI,Borsa Italiana
+EMOVE,etf_promo,IE000PN3F926,FINECOAM MKTVECTOR GLOCLEANENRGY ETF,EMOVE.MI,Borsa Italiana
+METAA,etf_promo,IE000WCPJOV4,FINECOAM MKTVECTOR GLOMTA EGAME ETF,METAA.MI,Borsa Italiana
+METAJ,etf_promo,IE000HA0OM03,FINECOAM MKTVECTOR GLOMTA EGAME ETF,METAJ.MI,Borsa Italiana
+JPMQ,etf_promo,IE000QCDDND5,FINECOAM MKTVECTOR JAP QUALTILT ETF,JPMQ.MI,Borsa Italiana
+JPMQJ,etf_promo,IE000SM6I1K9,FINECOAM MKTVECTOR JAP QUALTILT ETF,JPMQJ.MI,Borsa Italiana
+XAXJ,etf_promo,LU0322252171,Xtrackers MSCI AC Asia ex Japan ESG Swap UCITS,XAXJ.MI,Borsa Italiana
+XDBC,etf_promo,LU0292106167,Xtrackers Bloomberg Commodity ex-Agriculture & Livestock Swap UCITS ETF 1C EUR Hedged,XDBC.MI,Borsa Italiana
+XWEH,etf_promo,LU0659579733,LU0292106167 Xtrackers MSCI World Swap UCITS ETF 4C - EUR Hedged,XWEH.MI,Borsa Italiana
+XEON,etf_promo,LU0290358497,Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C,XEON.MI,Borsa Italiana
+XCHA,etf_promo,LU0779800910,LU0290358497 Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C Xtrackers CSI300 Swap UCITS ETF 1C,XCHA.MI,Borsa Italiana
+XDAX,etf_promo,LU0274211480,Xtrackers DAX UCITS ETF 1C,XDAX.MI,Borsa Italiana
+XESC,etf_promo,LU0380865021,Xtrackers Euro Stoxx 50 UCITS ETF 1C,XESC.MI,Borsa Italiana
+XESX,etf_promo,LU0274211217,Xtrackers Euro Stoxx 50 UCITS ETF 1D,XESX.MI,Borsa Italiana
+XD3E,etf_promo,LU0292095535,LU0274211217 Xtrackers Euro Stoxx 50 UCITS ETF 1D Xtrackers Euro Stoxx Quality Dividend UCITS ETF,XD3E.MI,Borsa Italiana
+XDER,etf_promo,LU0489337690,Xtrackers FTSE Developed Europe Real Estate UCITS ETF 1C,XDER.MI,Borsa Italiana
+XMIB,etf_promo,LU0274212538,Xtrackers FTSE MIB UCITS ETF 1D,XMIB.MI,Borsa Italiana
+XFVT,etf_promo,LU0322252924,Xtrackers FTSE Vietnam Swap UCITS ETF 1C,XFVT.MI,Borsa Italiana
+XCTE,etf_promo,LU2376679564,Xtrackers Harvest MSCI China Tech 100 UCITS ETF 1C,XCTE.MI,Borsa Italiana
+RQFI,etf_promo,LU0875160326,Xtrackers Harvest CSI300 UCITS ETF 1D,RQFI.MI,Borsa Italiana
+XLPE,etf_promo,LU0322250712,Xtrackers LPX Private Equity Swap UCITS ETF 1C,XLPE.MI,Borsa Italiana
+XMBR,etf_promo,LU0292109344,LU0322250712 Alternatives Xtrackers MSCI Brazil UCITS ETF 1C,XMBR.MI,Borsa Italiana
+XCS6,etf_promo,LU0514695690,Xtrackers MSCI Brazil UCITS ETF 1C Xtrackers MSCI China UCITS ETF 1C,XCS6.MI,Borsa Italiana
+XCS7,etf_promo,LU2456436083,Xtrackers MSCI China UCITS ETF 1D,XCS7.MI,Borsa Italiana
+XMEM,etf_promo,LU0292107645,Xtrackers MSCI Emerging Markets Swap UCITS ETF 1C,XMEM.MI,Borsa Italiana
+XD5E,etf_promo,LU0846194776,LU0292107645 Xtrackers MSCI Emerging Markets Swap UCITS ETF 1C Xtrackers MSCI EMU UCITS ETF 1D,XD5E.MI,Borsa Italiana
+XXSC,etf_promo,LU0322253906,Xtrackers MSCI EMU UCITS ETF 1D Xtrackers MSCI Europe Small Cap UCITS ETF 1C,XXSC.MI,Borsa Italiana
+XMEU,etf_promo,LU0274209237,Xtrackers MSCI Europe Small Cap UCITS ETF 1C Xtrackers MSCI Europe UCITS ETF 1C,XMEU.MI,Borsa Italiana
+XMIN,etf_promo,LU0476289623,Xtrackers MSCI Indonesia Swap UCITS ETF 1C,XMIN.MI,Borsa Italiana
+XMK9,etf_promo,LU0659580079,Xtrackers MSCI Japan UCITS ETF 4C - EUR Hedged,XMK9.MI,Borsa Italiana
+XMJP,etf_promo,LU0274209740,LU0659580079 Xtrackers MSCI Japan UCITS ETF 4C - EUR Hedged Xtrackers MSCI Japan UCITS ETF 1C,XMJP.MI,Borsa Italiana
+XMEX,etf_promo,LU0476289466,Xtrackers MSCI Mexico UCITS ETF 1C,XMEX.MI,Borsa Italiana
+XMUS,etf_promo,LU0274210672,Xtrackers MSCI USA Swap UCITS ETF 1C,XMUS.MI,Borsa Italiana
+XMWO,etf_promo,LU0274208692,Xtrackers MSCI World Swap UCITS ETF 1C,XMWO.MI,Borsa Italiana
+XNIF,etf_promo,LU0292109690,Xtrackers Nifty 50 Swap UCITS ETF 1C,XNIF.MI,Borsa Italiana
+XQUI,etf_promo,LU0397221945,Xtrackers Portfolio UCITS ETF 1C,XQUI.MI,Borsa Italiana
+XSXD,etf_promo,LU2009147757,Xtrackers S&P 500 Swap UCITS ETF 1D,XSXD.MI,Borsa Italiana
+XSPX,etf_promo,LU0490618542,Xtrackers S&P 500 Swap UCITS ETF 1C,XSPX.MI,Borsa Italiana
+XS5E,etf_promo,LU2196472984,Xtrackers S&P 500 Swap UCITS ETF 5C EUR Hedged,XS5E.MI,Borsa Italiana
+XSGI,etf_promo,LU0322253229,Xtrackers S&P Global Infrastructure Swap UCITS ETF 1C,XSGI.MI,Borsa Italiana
+XSFR,etf_promo,LU0328476410,LU0322253229 Xtrackers S&P Global Infrastructure Swap UCITS ETF 1C Xtrackers S&P Select Frontier Swap UCITS ETF 1C,XSFR.MI,Borsa Italiana
+XSX6,etf_promo,LU0328475792,Xtrackers S&P Select Frontier Swap UCITS ETF 1C Xtrackers Stoxx Europe 600 UCITS ETF 1C,XSX6.MI,Borsa Italiana
+XSMI,etf_promo,LU0274221281,Xtrackers Stoxx Europe 600 UCITS ETF 1C Xtrackers Switzerland UCITS ETF 1D,XSMI.MI,Borsa Italiana
+XCSI,etf_promo,LU2788421340,Xtrackers Switzerland UCITS ETF 1D Xtrackers CSI500 Swap UCITS ETF 1C,XCSI.MI,Borsa Italiana
+XCAN,etf_promo,LU0476289540,Xtrackers CSI500 Swap UCITS ETF 1C Xtrackers MSCI Canada ESG Screened UCITS ETF 1C,XCAN.MI,Borsa Italiana
+XX25,etf_promo,LU0292109856,Xtrackers FTSE China 50 UCITS ETF 1C,XX25.MI,Borsa Italiana
+XMAS,etf_promo,LU0292107991,Xtrackers MSCI EM Asia ESG Screened Swap UCITS ETF,XMAS.MI,Borsa Italiana
+XS8R,etf_promo,LU0292104469,Xtrackers MSCI Europe In. T. Sc. UCITS ETF,XS8R.MI,Borsa Italiana
+XEUM,etf_promo,LU0322253732,Xtrackers MSCI Europe Screened UCITS ETF,XEUM.MI,Borsa Italiana
+XCS5,etf_promo,LU0514695187,Xtrackers MSCI India Swap UCITS ETF 1C,XCS5.MI,Borsa Italiana
+XPXJ,etf_promo,LU0322252338,Xtrackers MSCI Pacific ex Japan ESG Screened UCITS ETF 1C,XPXJ.MI,Borsa Italiana
+XDJE,etf_promo,LU1875395870,LU0322252338 Xtrackers MSCI Pacific ex Japan ESG Screened UCITS ETF 1C Xtrackers Nikkei 225 UCITS ETF 2D EUR Hedged Securities Lending Transactions,XDJE.MI,Borsa Italiana
+XYLD,etf_promo,IE00BF8J5974,Xtrackers Nikkei 225 UCITS ETF 2D EUR Hedged Securities Lending Transactions,XYLD.MI,Borsa Italiana
+XZBU,etf_promo,IE00BL58LJ19,Xtrackers USD Corporate Bond SRI PAB UCITS ETF,XZBU.MI,Borsa Italiana
+XQUE,etf_promo,IE00BD4DXB77,Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF 2D - EUR Hedged,XQUE.MI,Borsa Italiana
+XQUA,etf_promo,IE00BD4DX952,Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF 1D,XQUA.MI,Borsa Italiana
+XDEP,etf_promo,IE00BYPHT736,Xtrackers iBoxx EUR Corporate Bond Yield Plus UCITS ETF 1D,XDEP.MI,Borsa Italiana
+XAIX,etf_promo,IE00BGV5VN51,IE00BYPHT736 Xtrackers Artificial Intelligence & Big Data UCITS ETF,XAIX.MI,Borsa Italiana
+XZEU,etf_promo,IE00BFMNHK08,Xtrackers MSCI Europe ESG UCITS ETF,XZEU.MI,Borsa Italiana
+XGBE,etf_promo,IE000MCVFK47,IE00BFMNHK08 Xtrackers MSCI Europe ESG UCITS ETF,XGBE.MI,Borsa Italiana
+XMOV,etf_promo,IE00BGV5VR99,Xtrackers Future Mobility UCITS ETF,XMOV.MI,Borsa Italiana
+XIGB,etf_promo,IE000QVYFUT7,Xtrackers II India Government Bond UCITS ETF 1C,XIGB.MI,Borsa Italiana
+XMME,etf_promo,IE00BTJRMP35,Xtrackers MSCI Emerging Markets UCITS ETF 1C,XMME.MI,Borsa Italiana
+XZEM,etf_promo,IE00BG370F43,Xtrackers MSCI Emerging Markets ESG UCITS ETF,XZEM.MI,Borsa Italiana
+XFNT,etf_promo,IE000YDOORK7,IE00BG370F43 Xtrackers MSCI Emerging Markets ESG UCITS ETF Xtrackers MSCI Fintech Innovation UCITS ETF 1C,XFNT.MI,Borsa Italiana
+XGEN,etf_promo,IE000KD0BZ68,Xtrackers MSCI Genomic Healthcare Innovation UCITS 1C,XGEN.MI,Borsa Italiana
+XDG3,etf_promo,IE00036F4K40,IE000KD0BZ68 Xtrackers MSCI Genomic Healthcare Innovation UCITS 1C Xtrackers MSCI Global SDG 3 Good Health UCITS ETF,XDG3.MI,Borsa Italiana
+XNNV,etf_promo,IE0006FFX5U1,Xtrackers MSCI Global SDG 3 Good Health UCITS ETF Xtrackers MSCI Innovation UCITS ETF 1C,XNNV.MI,Borsa Italiana
+XZMJ,etf_promo,IE00BG36TC12,Xtrackers MSCI Japan ESG UCITS ETF,XZMJ.MI,Borsa Italiana
+XNGI,etf_promo,IE000XOQ9TK4,IE00BG36TC12 Xtrackers MSCI Japan ESG UCITS ETF Xtrackers MSCI Next Generation Internet Innovation UCITS ETF 1C,XNGI.MI,Borsa Italiana
+XZMU,etf_promo,IE00BFMNPS42,Xtrackers MSCI USA ESG UCITS ETF,XZMU.MI,Borsa Italiana
+XZME,etf_promo,IE0000MMQ5M5,Xtrackers MSCI USA ESG UCITS ETF 2C – EUR Hedged,XZME.MI,Borsa Italiana
+XUTC,etf_promo,IE00BGQYRS42,Xtrackers MSCI USA Information Tech. UCITS ETF 1D,XUTC.MI,Borsa Italiana
+XD9U,etf_promo,IE00BJ0KDR00,Xtrackers MSCI USA UCITS ETF 1C,XD9U.MI,Borsa Italiana
+XWTS,etf_promo,IE00BM67HR47,IE00BJ0KDR00 Xtrackers MSCI USA UCITS ETF 1C Xtrackers MSCI World Telecom Services UCITS ETF 1C,XWTS.MI,Borsa Italiana
+XDWC,etf_promo,IE00BM67HP23,Xtrackers MSCI World Telecom Services UCITS ETF 1C Xtrackers MSCI World Consumer Discretionary UCITS ETF 1C,XDWC.MI,Borsa Italiana
+XDWS,etf_promo,IE00BM67HN09,Xtrackers MSCI World Consumer Discretionary UCITS ETF 1C Xtrackers MSCI World Consumer Staples UCITS ETF 1C,XDWS.MI,Borsa Italiana
+XDW0,etf_promo,IE00BM67HM91,Xtrackers MSCI World Energy UCITS ETF 1C,XDW0.MI,Borsa Italiana
+XZW0,etf_promo,IE00BZ02LR44,IE00BM67HM91 Xtrackers MSCI World Energy UCITS ETF 1C Xtrackers MSCI World ESG UCITS ETF,XZW0.MI,Borsa Italiana
+XZWE,etf_promo,IE00BMY76136,Xtrackers MSCI World ESG UCITS ETF 2C - EUR hedged,XZWE.MI,Borsa Italiana
+XDWF,etf_promo,IE00BM67HL84,Xtrackers MSCI World Financials UCITS ETF 1C,XDWF.MI,Borsa Italiana
+XDWH,etf_promo,IE00BM67HK77,IE00BM67HL84 Xtrackers MSCI World Financials UCITS ETF 1C Xtrackers MSCI World Health Care UCITS ETF 1C,XDWH.MI,Borsa Italiana
+XDWI,etf_promo,IE00BM67HV82,Xtrackers MSCI World Industrials UCITS ETF 1C,XDWI.MI,Borsa Italiana
+XDWT,etf_promo,IE00BM67HT60,Xtrackers MSCI World Information Technology UCITS ETF 1C,XDWT.MI,Borsa Italiana
+XDWM,etf_promo,IE00BM67HS53,IE00BM67HT60 Xtrackers MSCI World Information Technology UCITS ETF 1C Xtrackers MSCI World Materials UCITS ETF 1C,XDWM.MI,Borsa Italiana
+XDEB,etf_promo,IE00BL25JN58,Xtrackers MSCI World Materials UCITS ETF 1C Xtrackers MSCI World Minimum Volatility UCITS ETF 1C,XDEB.MI,Borsa Italiana
+XDEM,etf_promo,IE00BL25JP72,Xtrackers MSCI World Minimum Volatility UCITS ETF 1C Xtrackers MSCI World Momentum UCITS ETF 1C,XDEM.MI,Borsa Italiana
+XDEQ,etf_promo,IE00BL25JL35,Xtrackers MSCI World Quality UCITS ETF 1C,XDEQ.MI,Borsa Italiana
+XDWD,etf_promo,IE00BJ0KDQ92,Xtrackers MSCI World UCITS ETF 1C,XDWD.MI,Borsa Italiana
+XDWU,etf_promo,IE00BM67HQ30,Xtrackers MSCI World Utilities UCITS ETF 1C,XDWU.MI,Borsa Italiana
+XDEV,etf_promo,IE00BL25JM42,Xtrackers MSCI World Value UCITS ETF 1C,XDEV.MI,Borsa Italiana
+XNAS,etf_promo,IE00BMFKG444,Xtrackers NASDAQ 100 UCITS ETF,XNAS.MI,Borsa Italiana
+XS7W,etf_promo,IE00B3Y8D011,Xtrackers Portfolio Income UCITS ETF 1D,XS7W.MI,Borsa Italiana
+XRS2,etf_promo,IE00BJZ2DD79,Xtrackers Russell 2000 UCITS ETF 1C,XRS2.MI,Borsa Italiana
+XDEE,etf_promo,IE0002EI5AG0,IE00BJZ2DD79 Xtrackers Russell 2000 UCITS ETF 1C Xtrackers S&P 500 Equal Weight UCITS ETF 2C - EUR Hedged,XDEE.MI,Borsa Italiana
+XDEW,etf_promo,IE00BLNMYC90,Xtrackers S&P 500 Equal Weight UCITS ETF 1C,XDEW.MI,Borsa Italiana
+XDPE,etf_promo,IE00BM67HW99,Xtrackers S&P 500 UCITS ETF 1C - EUR Hedged,XDPE.MI,Borsa Italiana
+XDGE,etf_promo,IE00BZ036J45,Xtrackers USD Corporate Bond UCITS ETF 2D - EUR Hedged,XDGE.MI,Borsa Italiana
+XDGU,etf_promo,IE00BZ036H21,Xtrackers USD Corporate Bond UCITS ETF 1D,XDGU.MI,Borsa Italiana
+XUHY,etf_promo,IE00BDR5HM97,Xtrackers USD High Yield Corporate Bond UCITS ETF 1D,XUHY.MI,Borsa Italiana
+XMAE,etf_promo,IE000VXC51U5,Xtrackers MSCI AC World ESG Screened UCITS ETF 2C – EUR Hedged,XMAE.MI,Borsa Italiana
+XMAW,etf_promo,IE00BGHQ0G80,Xtrackers MSCI AC World ESG Screened UCITS ETF 1C,XMAW.MI,Borsa Italiana
+XDEX,etf_promo,IE00BM67HJ62,Xtrackers MSCI Emerging Markets ESG Screened UCITS ETF 1C,XDEX.MI,Borsa Italiana
+XDNY,etf_promo,IE00BPVLQD13,IE00BM67HJ62 Xtrackers MSCI Emerging Markets ESG Screened UCITS ETF 1C Xtrackers MSCI Japan ESG Screened UCITS ETF,XDNY.MI,Borsa Italiana
+XDNE,etf_promo,IE00BRB36B93,Xtrackers MSCI Japan ESG Screened UCITS ETF Xtrackers MSCI Japan ESG Screened UCITS ETF – EUR Hedged,XDNE.MI,Borsa Italiana
+XRME,etf_promo,IE000TSML5I8,Xtrackers MSCI USA ESG Screened UCITS ETF 2C - Eur Hedged,XRME.MI,Borsa Italiana
+XRSM,etf_promo,IE00BJZ2DC62,Xtrackers MSCI USA ESG Screened UCITS ETF,XRSM.MI,Borsa Italiana
+XWEQ,etf_promo,IE0003NQ0IY5,IE00BJZ2DC62 Xtrackers MSCI USA ESG Screened UCITS ETF Xtrackers MSCI World Quality ESG UCITS ETF 1C Securities Lending Transactions,XWEQ.MI,Borsa Italiana
+XDWY,etf_promo,IE00BCHWNQ94,Xtrackers MSCI World ESG Screened UCITS ETF,XDWY.MI,Borsa Italiana
+XWEV,etf_promo,IE000LAUZQT6,Xtrackers MSCI World Value ESG UCITS ETF 1C,XWEV.MI,Borsa Italiana
+EXUS,etf_promo,IE0006WW1TQ4,Xtrackers MSCI World ex USA UCITS ETF 1C Securities Lending Transactions,EXUS.MI,Borsa Italiana
+XZEW,etf_promo,IE0004MFRED4,Xtrackers MSCI World ex USA UCITS ETF 1C Securities Lending Transactions Xtrackers S&P 500 Equal Weight ESG UCITS ETF 1C,XZEW.MI,Borsa Italiana
+XEWE,etf_promo,IE000IDLWOL4,Xtrackers S&P 500 Equal Weight Scored & Screened UCITS ETF 2C EUR Hdg,XEWE.MI,Borsa Italiana
+XT01,etf_promo,IE00BM97MR69,Xtrackers US Treasuries Ultrashort Bond UCITS ETF 1C,XT01.MI,Borsa Italiana
+XZE5,etf_promo,LU2178481649,Xtrackers II EUR Corporate Bond Short Duration SRI PAB UCITS ETF,XZE5.MI,Borsa Italiana
+XYP1,etf_promo,LU0925589839,LU2178481649,XYP1.MI,Borsa Italiana
+XHYG,etf_promo,LU1109942653,Xtrackers II EUR High Yield Corporate Bond UCITS ETF 1D,XHYG.MI,Borsa Italiana
+XGII,etf_promo,LU0962078753,Xtrackers II Global Inflation-Linked Bond UCITS ETF 1D - EUR Hedged,XGII.MI,Borsa Italiana
+XZEG,etf_promo,LU2385068593,Xtrackers II ESG Global Government Bond UCITS ETF 4D - EUR Hedged,XZEG.MI,Borsa Italiana
+XZWG,etf_promo,LU2385068163,Xtrackers II ESG Global Government Bond UCITS ETF 1D,XZWG.MI,Borsa Italiana
+XB4F,etf_promo,LU0484968812,Xtrackers II ESG EUR Corporate Bond SRI PAB UCITS ETF 1D,XB4F.MI,Borsa Italiana
+XEZB,etf_promo,LU2504537445,Xtrackers II Eurozone Government Bond ESG Tilted UCITS ETF 1D,XEZB.MI,Borsa Italiana
+XCS2,etf_promo,LU0494592974,Xtrackers II Australia Government Bond UCITS ETF 1C,XCS2.MI,Borsa Italiana
+XBLC,etf_promo,LU0478205379,Xtrackers II EUR Corporate Bond UCITS ETF 1C,XBLC.MI,Borsa Italiana
+X15E,etf_promo,LU0290357507,LU0478205379,X15E.MI,Borsa Italiana
+X25E,etf_promo,LU0290357846,Xtrackers II Eurozone Government Bond 25+ UCITS ETF 1C,X25E.MI,Borsa Italiana
+X35E,etf_promo,LU0290356954,Xtrackers II Eurozone Government Bond 3-5 UCITS ETF 1C,X35E.MI,Borsa Italiana
+X57E,etf_promo,LU0290357176,Xtrackers II Eurozone Government Bond 5-7 UCITS ETF 1C,X57E.MI,Borsa Italiana
+X710,etf_promo,LU0290357259,Xtrackers II Eurozone Government Bond 7-10 UCITS ETF 1C,X710.MI,Borsa Italiana
+XGLE,etf_promo,LU0290355717,Xtrackers II Eurozone Government Bond UCITS ETF 1C,XGLE.MI,Borsa Italiana
+XEIN,etf_promo,LU0290358224,Xtrackers II Eurozone Inflation-Linked Bond UCITS ETF 1C,XEIN.MI,Borsa Italiana
+XGSH,etf_promo,LU0378818131,LU0290358224,XGSH.MI,Borsa Italiana
+XGVD,etf_promo,LU0690964092,Xtrackers II Global Government Bond UCITS ETF 1D - EUR Hedged,XGVD.MI,Borsa Italiana
+XGIN,etf_promo,LU0290357929,Xtrackers II Global Inflation-Linked Bond UCITS ETF 1C - EUR Hedged,XGIN.MI,Borsa Italiana
+XGIU,etf_promo,LU0908508814,Xtrackers II Global Inflation-Linked Bond UCITS ETF 5C,XGIU.MI,Borsa Italiana
+XG7S,etf_promo,LU0908508731,Xtrackers II Global Government Bond UCITS ETF 5C,XG7S.MI,Borsa Italiana
+CGB,etf_promo,LU1094612022,Xtrackers II Harvest China Government Bond UCITS ETF 1D,CGB.MI,Borsa Italiana
 XBOT,etf_promo,LU0613540268,Xtrackers II Italy Government Bond 0-1 Swap UCITS ETF 1C,XBOT.MI,Borsa Italiana
+XJSE,etf_promo,LU0952581584,Xtrackers II Japan Government Bond UCITS ETF 1C,XJSE.MI,Borsa Italiana
+XUEM,etf_promo,LU0677077884,Xtrackers II J.P. Morgan USD Emerging Markets Bond UCITS ETF 2D,XUEM.MI,Borsa Italiana
+XTIP,etf_promo,LU2504532131,Xtrackers II TIPS US Inflation-,XTIP.MI,Borsa Italiana
+XY4P,etf_promo,LU0524480265,Xtrackers II iBoxx Eurozone Government Bond Yield Plus UCITS ETF 1C,XY4P.MI,Borsa Italiana
+XEMB,etf_promo,LU0321462953,Xtrackers II J.P. Morgan USD Emerging Markets Bond UCITS ETF 1C - EUR Hedged,XEMB.MI,Borsa Italiana
+XHY1,etf_promo,LU1109939865,Xtrackers II Rolling Target Maturity Sept 2027 EUR High Yield UCITS ETF 1D,XHY1.MI,Borsa Italiana
+XHYA,etf_promo,LU1109943388,Xtrackers II EUR High Yield Corporate Bond UCITS ETF 1C,XHYA.MI,Borsa Italiana
+XBAT,etf_promo,LU0484969463,Xtrackers II Eurozone AAA Gov Bd Swap UCITS ETF,XBAT.MI,Borsa Italiana
+XEML,etf_promo,LU2158769930,Xtrackers II Eurozone AAA Gov Bd Swap UCITS ETF,XEML.MI,Borsa Italiana
+XB27,etf_promo,LU2673523218,Xtrackers II Target Maturity Sept 2027 EUR Corporate Bond UCITS ETF 1D,XB27.MI,Borsa Italiana
+XB29,etf_promo,LU2673523309,Xtrackers II Target Maturity Sept 2029 EUR Corporate Bond UCITS ETF 1D,XB29.MI,Borsa Italiana
+XB31,etf_promo,LU2673523481,Xtrackers II Target Maturity Sept 2031 EUR Corporate Bond UCITS ETF 1D,XB31.MI,Borsa Italiana
+XB33,etf_promo,LU2673523564,Xtrackers II Target Maturity Sept 2033 EUR Corporate Bond UCITS ETF 1D,XB33.MI,Borsa Italiana
+XM29,etf_promo,LU2673522913,Xtrackers II Target Maturity Sept 2029 EUR Corporate Bond UCITS ETF 1C,XM29.MI,Borsa Italiana
+XM31,etf_promo,LU2673523135,Xtrackers II Target Maturity Sept 2031 EUR Corporate Bond UCITS ETF 1C,XM31.MI,Borsa Italiana
+XM33,etf_promo,LU2673523051,Xtrackers II Target Maturity Se,XM33.MI,Borsa Italiana
+XB34,etf_promo,LU2809864619,Xtrackers II Target Maturity Sept 2034 EUR Corporate Bond UCITS ETF 1D,XB34.MI,Borsa Italiana
+XUT3,etf_promo,LU0429458895,Xtrackers II US Treasuries 1-3 UCITS ETF 1D,XUT3.MI,Borsa Italiana
+XEEW,etf_promo,IE00094GSCQ4,Xtrackers World Equity Enhanced Active UCITS ETF 1C,XEEW.MI,Borsa Italiana
+XEEE,etf_promo,IE00002ZKAP0,Xtrackers Europe Equity Enhanced Active UCITS ETF 1C,XEEE.MI,Borsa Italiana
+XEEU,etf_promo,IE0002PGSLZ5,Xtrackers US Equity Enhanced Active UCITS ETF 1C,XEEU.MI,Borsa Italiana
+XNDQ,etf_promo,IE000472H9T4,Xtrackers NASDAQ 100 Swap UCITS ETF 1C,XNDQ.MI,Borsa Italiana
+XRTM,etf_promo,LU1109941689,Xtrackers II Rolling Target Mat. Sept 2027 EUR HY UCITS ETF 1C,XRTM.MI,Borsa Italiana
+XDJP,etf_promo,LU0839027447,Xtrackers Nikkei 225 UCITS ETF 1D,XDJP.MI,Borsa Italiana
+XD9E,etf_promo,IE00BG04M077,Xtrackers MSCI USA UCITS ETF 2C - EUR Hedged,XD9E.MI,Borsa Italiana
+XBAG,etf_promo,LU0942970103,Xtrackers II ESG Global Aggregate Bond UCITS ETF 1D,XBAG.MI,Borsa Italiana
+XBAE,etf_promo,LU0942970798,Xtrackers II ESG Global Aggregate Bond UCITS ETF 5C - EUR Hedged,XBAE.MI,Borsa Italiana
+X13E,etf_promo,LU0290356871,Xtrackers II Eurozone Government Bond 1-3 UCITS ETF 1C,X13E.MI,Borsa Italiana
+XUTE,etf_promo,LU1399300455,Xtrackers II US Treasuries UCITS ETF 2D - EUR Hedged,XUTE.MI,Borsa Italiana
+XUTD,etf_promo,LU0429459356,Xtrackers II US Treasuries UCITS ETF 1D,XUTD.MI,Borsa Italiana
+XFFE,etf_promo,LU0321465469,Xtrackers II USD Overnight Rate Swap UCITS ETF 1C,XFFE.MI,Borsa Italiana
+X03G,etf_promo,LU0643975161,Xtrackers II Germany Government Bond UCITS ETF 1C,X03G.MI,Borsa Italiana
+XM27,etf_promo,LU2673522830,Xtrackers II Target Maturity Sept 2027 EUR Corporate Bond UCITS ETF 1C,XM27.MI,Borsa Italiana
+XB28,etf_promo,LU2810185665,Xtrackers II Target Maturity Sept 2028 EUR Corporate Bond UCITS ETF 1D,XB28.MI,Borsa Italiana
+XB30,etf_promo,LU2809864296,Xtrackers II Target Maturity Sept 2030 EUR Corporate Bond UCITS ETF 1D,XB30.MI,Borsa Italiana
+XB32,etf_promo,LU2809864452,Xtrackers II Target Maturity Sept 2032 EUR Corporate Bond UCITS ETF 1D,XB32.MI,Borsa Italiana
+XEQ2,etf_promo,LU3116008346,Xtrackers Diversified Portfolio 20% Equity UCITS ETF,XEQ2.MI,Borsa Italiana
+XEQ4,etf_promo,LU3116008429,Xtrackers Diversified Portfolio 40% Equity UCITS ETF,XEQ4.MI,Borsa Italiana
+XEQ6,etf_promo,LU3116008692,Xtrackers Diversified Portfolio 60% Equity UCITS ETF,XEQ6.MI,Borsa Italiana
+XEQ8,etf_promo,LU3116008775,Xtrackers Diversified Portfolio 80% Equity UCITS ETF,XEQ8.MI,Borsa Italiana
+XFLN,etf_promo,IE000F04HGE5,Xtrackers Floating Rate Notes Active UCITS ETF,XFLN.MI,Borsa Italiana
+XDEF,etf_promo,LU3061478973,Xtrackers Europe Defence Technologies UCITS ETF 1C,XDEF.MI,Borsa Italiana
+XGSD,etf_promo,LU0292096186,Xtrackers Stoxx Global Select Dividend 100 Swap UCITS ETF 1D,XGSD.MI,Borsa Italiana
+ALLW,etf_promo,IE000L6ZMMC4,Xtrackers FTSE All-World UCITS ETF,ALLW.MI,Borsa Italiana
+AWEX,etf_promo,IE000YKHGYN2,Xtrackers FTSE All-World ex US UCITS ETF,AWEX.MI,Borsa Italiana
+WIMI,etf_promo,IE000X1GW0A7,Xtrackers MSCI World IMI UCITS ETF,WIMI.MI,Borsa Italiana
+WIRE,etf_promo,IE000O7Q2E56,Xtrackers Electrification Technologies & Smart Grid UCITS ETF,WIRE.MI,Borsa Italiana
+XGLA,etf_promo,IE000M8F3JA6,Xtrackers Global Growth Leaders Active UCITS ETF,XGLA.MI,Borsa Italiana
+XTAX,etf_promo,IE000X4A4GV2,Xtrackers Global Equity Top Active UCITS ETF,XTAX.MI,Borsa Italiana
+SWDA,etf_promo,IE00B4L5Y983,iShares Core MSCI World UCITS ETF,SWDA.MI,Borsa Italiana
+YCSH,etf_promo,IE000JJPY166,iShares € Cash UCITS ETF EUR (Acc),YCSH.MI,Borsa Italiana
 WOEH,etf_promo,IE000P1IQS65,iShares World Equity Enhanced Active UCITS ETF EUR Hedged (Acc),WOEH.MI,Borsa Italiana
-EMBHI,etf_promo,LU1686831030,Amundi Index Solutions - Amundi USD Emerging Markets Government Bond UCITS ETF EUR Hedged Dist,EMBHI.MI,Borsa Italiana
-GHYEH,etf_promo,LU2099296274,Amundi Global High Yield Corporate Bond ESG Monthly Hedged to EUR Acc,GHYEH.MI,Borsa Italiana
-WLDC,etf_promo,FR0014003IY1,Amundi MSCI World Swap II UCITS ETF Acc,WLDC.MI,Borsa Italiana
+MAGR,etf_promo,IE00BLLZQ805,iShares Growth Portfolio UCITS ETF EUR (Acc),MAGR.MI,Borsa Italiana
+MACV,etf_promo,IE00BLP53M98,iShares Conservative Portfolio UCITS ETF EUR (Acc),MACV.MI,Borsa Italiana
+MODR,etf_promo,IE00BLLZQS08,iShares Moderate Portfolio UCITS ETF EUR (Acc),MODR.MI,Borsa Italiana
+DGTL,etf_promo,IE00BYZK4883,iShares Digitalisation UCITS ETF USD (Acc),DGTL.MI,Borsa Italiana
+LOCK,etf_promo,IE00BG0J4C88,iShares Digital Security UCITS ETF,LOCK.MI,Borsa Italiana
+METL,etf_promo,IE000ROSD5J6,iShares Essential Metals Producers UCITS ETF USD (Acc),METL.MI,Borsa Italiana
+ST4R,etf_promo,IE000A9G9R73,iShares Space Technologies UCITS ETF USD (Acc),ST4R.MI,Borsa Italiana
+AINF,etf_promo,IE000X59ZHE2,iShares AI Infrastructure UCITS ETF USD (Acc),AINF.MI,Borsa Italiana
+AGED,etf_promo,IE00BYZK4669,iShares Ageing Population UCITS ETF USD (Acc),AGED.MI,Borsa Italiana
+HEAL,etf_promo,IE00BYZK4776,iShares MSCI World Health Care Sector Advanced UCITS ETF USD (Acc),HEAL.MI,Borsa Italiana
+ISAG,etf_promo,IE00B6R52143,iShares Agribusiness UCITS ETF USD (Acc),ISAG.MI,Borsa Italiana
+CHM,etf_promo,LU1834983634,Amundi STOXX Europe 600 Basic Materials UCITS ETF Acc,CHM.MI,Borsa Italiana
+X13G,etf_promo,LU1681046345,Fixed Income,X13G.MI,Borsa Italiana
+EMBHI,etf_promo,LU1686831030,Amundi J.P. Morgan USD Emerging Markets Bond UCITS ETF EUR Hedged Dist,EMBHI.MI,Borsa Italiana
+GHYEH,etf_promo,LU2099296274,Fixed Income,GHYEH.MI,Borsa Italiana
+USYH,etf_promo,LU1435356495,Amundi USD High Yield Corporate Bond ESG UCITS ETF EUR Hedged Dist,USYH.MI,Borsa Italiana
+WLD,etf_promo,FR0010315770,Amundi MSCI World II UCITS ETF Dist,WLD.MI,Borsa Italiana
+WLDH,etf_promo,FR0011660927,Amundi MSCI World II UCITS ETF EUR Hedged Dist,WLDH.MI,Borsa Italiana
+CM9,etf_promo,FR0010756114,Amundi MSCI World Ex EMU UCITS ETF,CM9.MI,Borsa Italiana
+MGT,etf_promo,FR0007075494,Amundi DJ Global Titans 50 UCITS ETF Dist,MGT.MI,Borsa Italiana
+ACWI,etf_promo,LU1829220216,Amundi MSCI All Country World UCITS ETF EUR Acc,ACWI.MI,Borsa Italiana
+WLDC,etf_promo,FR0014003IY1,Amundi MSCI World II UCITS ETF Acc,WLDC.MI,Borsa Italiana
+WLDX,etf_promo,FR0013209921,Amundi MSCI World Ex EMU SRI Climate Paris Aligned UCITS ETF Acc,WLDX.MI,Borsa Italiana
+CW8,etf_promo,LU1681043599,Amundi MSCI World UCITS ETF - EUR (C),CW8.MI,Borsa Italiana
 FINSW,etf_promo,LU0533032859,Amundi MSCI World Financials UCITS ETF EUR Acc,FINSW.MI,Borsa Italiana
+REWLD,etf_promo,LU1832418773,Amundi FTSE EPRA NAREIT Global Developed - UCITS ETF Dist,REWLD.MI,Borsa Italiana
 TNOW,etf_promo,LU0533033667,Amundi MSCI World Information Technology UCITS ETF EUR Acc,TNOW.MI,Borsa Italiana
 HLTW,etf_promo,LU0533033238,Amundi MSCI World Health Care UCITS ETF EUR Acc,HLTW.MI,Borsa Italiana
+CWE,etf_promo,LU1681046006,Amundi Global Bioenergy UCITS ETF EUR Acc,CWE.MI,Borsa Italiana
+MILL,etf_promo,LU2023678449,Amundi MSCI Millennials UCITS ETF Acc,MILL.MI,Borsa Italiana
+WATC,etf_promo,FR0014002CH1,Amundi MSCI Water UCITS ETF Acc,WATC.MI,Borsa Italiana
+ENER,etf_promo,FR0010524777,Amundi MSCI New Energy UCITS ETF Dist,ENER.MI,Borsa Italiana
+EBUY,etf_promo,LU2023678878,Amundi MSCI Digital Economy UCITS ETF Acc,EBUY.MI,Borsa Italiana
+WAT,etf_promo,FR0010527275,Amundi MSCI Water UCITS ETF Dist,WAT.MI,Borsa Italiana
+CHIP,etf_promo,LU1900066033,Amundi MSCI Semiconductors UCITS ETF Acc,CHIP.MI,Borsa Italiana
 NRJC,etf_promo,FR0014002CG3,Amundi MSCI New Energy UCITS ETF Acc,NRJC.MI,Borsa Italiana
-GLUX,etf_promo,LU1681048630,Amundi Index Solutions - Amundi Global Luxury UCITS ETF EUR Acc,GLUX.MI,Borsa Italiana
-TNO,etf_promo,LU1834988518,Multi Units Luxembourg - Amundi STOXX Europe 600 Technology UCITS ETF Acc,TNO.MI,Borsa Italiana
-EPRE,etf_promo,LU1681039480,Amundi Index Solutions - Amundi FTSE EPRA Europe Real Estate UCITS ETF-C,EPRE.MI,Borsa Italiana
-UTI,etf_promo,LU1834988864,Multi Units Luxembourg - Amundi STOXX Europe 600 Utilities UCITS ETF Acc,UTI.MI,Borsa Italiana
-VAL,etf_promo,LU1598690169,Amundi MSCI EMU Value Factor ETF Distribution,VAL.MI,Borsa Italiana
+ELCR,etf_promo,LU2023679090,Amundi MSCI Smart Mobility UCITS ETF Acc,ELCR.MI,Borsa Italiana
+UNIC,etf_promo,LU2023678282,Amundi MSCI Disruptive Technology UCITS ETF Acc,UNIC.MI,Borsa Italiana
+CATH,etf_promo,LU2216829809,Amundi MSCI World Catholic Principles UCITS ETF Acc,CATH.MI,Borsa Italiana
+GLUX,etf_promo,LU1681048630,Amundi S&P Global Luxury UCITS ETF - EUR (C),GLUX.MI,Borsa Italiana
+DAXX,etf_promo,LU0252633754,Amundi DAX III UCITS ETF Acc,DAXX.MI,Borsa Italiana
+ETFMIB,etf_promo,FR0010010827,Amundi FTSE MIB UCITS ETF Dist,ETFMIB.MI,Borsa Italiana
+DAXESG,etf_promo,LU2240851688,Amundi DAX 50 ESG UCITS ETF DR - EUR (C),DAXESG.MI,Borsa Italiana
+C40,etf_promo,LU1681046931,Amundi CAC 40 ESG UCITS ETF DR - EUR (C),C40.MI,Borsa Italiana
+MIBA,etf_promo,FR0014002H76,Amundi FTSE MIB UCITS ETF Acc,MIBA.MI,Borsa Italiana
+PABEZ,etf_promo,LU2195226068,Amundi S&P Eurozone Climate Paris Aligned UCITS ETF Acc,PABEZ.MI,Borsa Italiana
+CMU,etf_promo,LU1602144575,Amundi MSCI EMU ESG Selection UCITS ETF DR - EUR (C),CMU.MI,Borsa Italiana
+CMUSRI,etf_promo,LU2109787635,Amundi MSCI EMU SRI Climate Paris Aligned UCITS ETF DR (C),CMUSRI.MI,Borsa Italiana
+MSE,etf_promo,FR0007054358,Amundi EURO STOXX 50 II UCITS ETF Acc,MSE.MI,Borsa Italiana
+EUSRI,etf_promo,LU1861137484,Amundi MSCI Europe SRI Climate Paris Aligned UCITS ETF DR (C),EUSRI.MI,Borsa Italiana
+ESGE,etf_promo,LU1940199711,Amundi MSCI Europe ESG Selection UCITS ETF Acc,ESGE.MI,Borsa Italiana
+CEU,etf_promo,LU1681042609,Amundi MSCI Europe ESG Broad Transition UCITS ETF DR - EUR (C),CEU.MI,Borsa Italiana
+CN1,etf_promo,LU1681044647,Amundi MSCI Nordic UCITS ETF - EUR (C),CN1.MI,Borsa Italiana
+LWCE,etf_promo,LU2130768844,Amundi MSCI Europe Climate Paris Aligned UCITS ETF Acc,LWCE.MI,Borsa Italiana
+MEU,etf_promo,FR0010261198,Amundi MSCI Europe II UCITS ETF Acc,MEU.MI,Borsa Italiana
+EDSRI,etf_promo,LU2059756598,Amundi MSCI Europe SRI Climate Paris Aligned UCITS ETF DR (D),EDSRI.MI,Borsa Italiana
+ESGH,etf_promo,LU1940199984,Amundi MSCI Europe ESG Selection UCITS ETF EUR Hedged Acc,ESGH.MI,Borsa Italiana
+ENRG,etf_promo,LU1834988278,Amundi STOXX Europe 600 Energy Screened UCITS ETF Acc,ENRG.MI,Borsa Italiana
+HLT,etf_promo,LU1834986900,Amundi STOXX Europe 600 Healthcare UCITS ETF Acc,HLT.MI,Borsa Italiana
+REEU,etf_promo,LU1812091194,Amundi FTSE Epra Europe Real Estate UCITS ETF - EUR (D),REEU.MI,Borsa Italiana
+TRVL,etf_promo,LU1834988781,Amundi STOXX Europe 600 Consumer Discretionary UCITS ETF Acc,TRVL.MI,Borsa Italiana
+INS,etf_promo,LU1834987973,Amundi STOXX Europe 600 Insurance UCITS ETF Acc,INS.MI,Borsa Italiana
+BNK,etf_promo,LU1834983477,Amundi STOXX Europe 600 Banks UCITS ETF Acc,BNK.MI,Borsa Italiana
+INDG,etf_promo,LU1834987890,Amundi STOXX Europe 600 Industrials UCITS ETF Acc,INDG.MI,Borsa Italiana
+TNO,etf_promo,LU1834988518,Amundi STOXX Europe 600 Technology UCITS ETF Acc,TNO.MI,Borsa Italiana
+EPRE,etf_promo,LU1681039480,Amundi FTSE Epra Europe Real Estate UCITS ETF - EUR (C),EPRE.MI,Borsa Italiana
+UTI,etf_promo,LU1834988864,Amundi STOXX Europe 600 Utilities UCITS ETF Acc,UTI.MI,Borsa Italiana
+TELE,etf_promo,LU1834988609,Amundi STOXX Europe 600 Telecommunications UCITS ETF Acc,TELE.MI,Borsa Italiana
+BNKE,etf_promo,LU1829219390,Amundi Euro Stoxx Banks UCITS ETF Acc,BNKE.MI,Borsa Italiana
+FOO,etf_promo,LU1834985845,Amundi STOXX Europe 600 Consumer Staples UCITS ETF Acc,FOO.MI,Borsa Italiana
+BRES,etf_promo,LU1834983550,Amundi STOXX Europe 600 Basic Resources UCITS ETF Acc,BRES.MI,Borsa Italiana
+SEL,etf_promo,LU1812092168,Amundi Stoxx Europe Select Dividend 30 - UCITS ETF Dist,SEL.MI,Borsa Italiana
+VCEU,etf_promo,LU1681042518,Amundi MSCI Europe Value Factor UCITS ETF - EUR (C),VCEU.MI,Borsa Italiana
+GWT,etf_promo,LU1598688189,Amundi MSCI Europe Growth UCITS ETF Dist,GWT.MI,Borsa Italiana
+VAL,etf_promo,LU1598690169,Amundi MSCI EMU Value Factor UCITS ETF Dist,VAL.MI,Borsa Italiana
+QCEU,etf_promo,LU1681041890,Amundi MSCI Europe Quality Factor UCITS ETF - EUR (C),QCEU.MI,Borsa Italiana
 MMS,etf_promo,LU1598689153,Amundi MSCI EMU Small Cap ESG Broad Transition UCITS ETF DIST,MMS.MI,Borsa Italiana
+DJE,etf_promo,FR0007056841,Amundi Dow Jones Industrial Average UCITS ETF Dist,DJE.MI,Borsa Italiana
+NDXH,etf_promo,LU1681038599,Amundi NASDAQ-100 UCITS ETF - Daily Hedged EUR (C),NDXH.MI,Borsa Italiana
+UST,etf_promo,LU1829221024,Amundi Nasdaq-100 II UCITS ETF Acc,UST.MI,Borsa Italiana
+500H,etf_promo,LU1681049109,Amundi S&P 500 UCITS ETF - DAILY HEDGED EUR (C),500H.MI,Borsa Italiana
+A500,etf_promo,LU1681048804,Amundi S&P 500 UCITS ETF - EUR (C),A500.MI,Borsa Italiana
+ANX,etf_promo,LU1681038243,Amundi NASDAQ-100 UCITS ETF - EUR (C),ANX.MI,Borsa Italiana
+RS2K,etf_promo,LU1681038672,Amundi Russell 2000 UCITS ETF - EUR (C),RS2K.MI,Borsa Italiana
+B500,etf_promo,LU1681048127,Amundi S&P 500 Buyback UCITS ETF - EUR (C),B500.MI,Borsa Italiana
+JPN,etf_promo,FR0010245514,Amundi Japan TOPIX II UCITS ETF EUR Dist,JPN.MI,Borsa Italiana
+AUST,etf_promo,LU0496786905,Amundi Australia S&P/ASX 200 UCITS ETF Dist,AUST.MI,Borsa Italiana
+CJ1,etf_promo,LU1602144732,Amundi MSCI Japan ESG Broad Transition UCITS ETF EUR Acc,CJ1.MI,Borsa Italiana
+TPXH,etf_promo,LU1681037864,Amundi Japan Topix UCITS ETF - DAILY HEDGED EUR (C),TPXH.MI,Borsa Italiana
+JPNH,etf_promo,FR0011475078,Amundi Japan TOPIX II UCITS ETF EUR Hedged Dist,JPNH.MI,Borsa Italiana
+AEJ,etf_promo,LU1900068328,Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc,AEJ.MI,Borsa Italiana
+APEX,etf_promo,LU1900068161,Amundi MSCI AC Asia Ex Japan UCITS ETF Acc,APEX.MI,Borsa Italiana
+EMXC,etf_promo,LU2009202107,Amundi MSCI Emerging Ex China UCITS ETF Acc,EMXC.MI,Borsa Italiana
+CLEM,etf_promo,LU2109787049,Amundi MSCI Emerging Markets ESG Broad Transition UCITS ETF DR (C),CLEM.MI,Borsa Italiana
+EMSRI,etf_promo,LU1861138961,Amundi MSCI Emerging Markets SRI Climate Paris Aligned UCITS ETF DR (C),EMSRI.MI,Borsa Italiana
+EMESG,etf_promo,LU2109787551,Amundi MSCI Emerging Markets ESG Selection UCITS ETF DR (C),EMESG.MI,Borsa Italiana
+EMKT,etf_promo,FR0010429068,Amundi MSCI Emerging Markets III UCITS ETF EUR Acc,EMKT.MI,Borsa Italiana
+CINA,etf_promo,LU1900068914,Amundi MSCI China ESG Selection Extra UCITS ETF Acc,CINA.MI,Borsa Italiana
+HK,etf_promo,LU1900067940,Amundi MSCI China ESG Selection Extra UCITS ETF Dist,HK.MI,Borsa Italiana
+CI2,etf_promo,LU1681043086,Amundi MSCI India UCITS ETF - EUR (C),CI2.MI,Borsa Italiana
+KOR,etf_promo,LU1900066975,Amundi MSCI Korea UCITS ETF Acc,KOR.MI,Borsa Italiana
+INDO,etf_promo,LU1900065811,Amundi MSCI Indonesia UCITS ETF Acc,INDO.MI,Borsa Italiana
+TUR,etf_promo,LU1900067601,Amundi MSCI Turkey UCITS ETF Acc,TUR.MI,Borsa Italiana
+CNAA,etf_promo,FR0011720911,Amundi MSCI China A UCITS ETF Acc,CNAA.MI,Borsa Italiana
+GRC,etf_promo,FR0010405431,Amundi MSCI Greece UCITS ETF Dist,GRC.MI,Borsa Italiana
+INDI,etf_promo,FR0010361683,Amundi MSCI India II UCITS ETF EUR Acc,INDI.MI,Borsa Italiana
+BRA,etf_promo,LU1900066207,Amundi MSCI Brazil UCITS ETF Acc,BRA.MI,Borsa Italiana
+EST,etf_promo,LU1900066462,Amundi MSCI Eastern Europe Ex Russia UCITS ETF Acc,EST.MI,Borsa Italiana
+AASI,etf_promo,LU1681044480,Amundi MSCI Em Asia UCITS ETF - EUR (C),AASI.MI,Borsa Italiana
 LAFRI,etf_promo,LU1287022708,Amundi Pan Africa UCITS ETF Acc,LAFRI.MI,Borsa Italiana
+CC1,etf_promo,LU1681043912,Amundi MSCI China Tech UCITS ETF EUR,CC1.MI,Borsa Italiana
+EGOV,etf_promo,LU1437018598,Amundi Euro Government Bond UCITS ETF Acc,EGOV.MI,Borsa Italiana
+MTIG,etf_promo,LU1737653714,Amundi Euro Government Bond UCITS ETF Dist,MTIG.MI,Borsa Italiana
+C3M,etf_promo,FR0010754200,Amundi Govies 0-6 Months Euro Investment Grade UCITS ETF DR (C),C3M.MI,Borsa Italiana
 EM1015,etf_promo,LU1650489385,Amundi Euro Government Bond 10-15Y UCITS ETF Acc,EM1015.MI,Borsa Italiana
+AAA35,etf_promo,LU1829219713,Fixed Income,AAA35.MI,Borsa Italiana
+X1G,etf_promo,LU1681046774,Fixed Income,X1G.MI,Borsa Italiana
+AM3A,etf_promo,LU1681046691,Fixed Income,AM3A.MI,Borsa Italiana
 EM13,etf_promo,LU1650487413,Amundi Euro Government Bond 1-3Y UCITS ETF Acc,EM13.MI,Borsa Italiana
+EM57,etf_promo,LU1287023003,Amundi Euro Government Bond 5-7Y UCITS ETF Acc,EM57.MI,Borsa Italiana
+EM15,etf_promo,LU1287023268,Amundi Euro Government Bond 15+Y UCITS ETF Acc,EM15.MI,Borsa Italiana
 BTP10,etf_promo,LU1598691217,Amundi Italy BTP Government Bond 10Y UCITS ETF Acc,BTP10.MI,Borsa Italiana
+EMAAA,etf_promo,LU1287023342,Amundi Euro Highest Rated Macro-Weighted Government Bond UCITS ETF Acc,EMAAA.MI,Borsa Italiana
+ERTH,etf_promo,LU2356220926,Amundi Euro Government Green Bond UCITS ETF Acc,ERTH.MI,Borsa Italiana
+CB3,etf_promo,LU1681046261,Amundi Euro Government Tilted Green Bond UCITS ETF Acc,CB3.MI,Borsa Italiana
 EM35,etf_promo,LU1650488494,Amundi Euro Government Bond 3-5Y UCITS ETF Acc,EM35.MI,Borsa Italiana
-BTP13,etf_promo,LU1598691050,Amundi Italy BTP Government Bond 1-3Y UCITS ETF Acc,BTP13.MI,Borsa Italiana
+EM710,etf_promo,LU1287023185,Amundi Euro Government Bond 7-10Y UCITS ETF Acc,EM710.MI,Borsa Italiana
+AAA13,etf_promo,LU1829219556,Fixed Income,AAA13.MI,Borsa Italiana
+BTP13,etf_promo,LU1598691050,Amundi Italy BTP Government Bond 1-3Y UCITS ETF Dist,BTP13.MI,Borsa Italiana
+GGOV,etf_promo,LU1437016204,Amundi Index J.P. Morgan GBI Global Govies UCITS ETF DR (C),GGOV.MI,Borsa Italiana
+GOVH,etf_promo,LU1708330235,Fixed Income,GOVH.MI,Borsa Italiana
+AGEB,etf_promo,LU1681041205,Amundi J.P. Morgan USD Emerging Markets Bond UCITS ETF Acc,AGEB.MI,Borsa Italiana
+EMKTB,etf_promo,LU1686830909,Amundi J.P. Morgan USD Emerging Markets Bond UCITS ETF Dist,EMKTB.MI,Borsa Italiana
 EMI,etf_promo,LU1650491282,Amundi Euro Government Inflation-Linked Bond UCITS ETF Acc,EMI.MI,Borsa Italiana
-HYS,etf_promo,LU1617164998,Amundi EUR Short Term High Yield Corporate Bond ESG UCITS ETF D,HYS.MI,Borsa Italiana
+ECRP,etf_promo,LU1437018168,Amundi EUR Corporate Bond ESG UCITS ETF DR (C),ECRP.MI,Borsa Italiana
+EBBB,etf_promo,LU1525418643,Amundi EUR Corporate Bond 1-5Y ESG UCITS ETF Acc,EBBB.MI,Borsa Italiana
+AHYE,etf_promo,LU1681040496,Amundi Euro High Yield Bond ESG UCITS ETF Acc,AHYE.MI,Borsa Italiana
+ECRP3,etf_promo,LU2037748774,Amundi EUR Corporate Bond 0-3Y ESG UCITS ETF DR (C),ECRP3.MI,Borsa Italiana
+HYS,etf_promo,LU1617164998,Amundi EUR Short Term High Yield Corporate Bond ESG UCITS ETF Dist,HYS.MI,Borsa Italiana
+CRPE,etf_promo,LU1829219127,Amundi EUR Corporate Bond Climate Paris Aligned UCITS ETF Acc,CRPE.MI,Borsa Italiana
 CBEF,etf_promo,LU1829218822,Amundi EUR Corporate Bond ex-Financials ESG UCITS ETF Acc,CBEF.MI,Borsa Italiana
+CC4,etf_promo,LU1681039647,Amundi EUR Corporate Bond ESG UCITS ETF 2 DR - EUR (C),CC4.MI,Borsa Italiana
+AFRN,etf_promo,LU1681041114,Amundi EUR Floating Rate Corporate Bond ESG UCITS ETF Acc,AFRN.MI,Borsa Italiana
+HYBB,etf_promo,LU1215415214,Amundi Euro High Yield Bond ESG UCITS ETF Dist,HYBB.MI,Borsa Italiana
+PLAN,etf_promo,LU2370241684,Amundi Corporate Proceeds Bond UCITS ETF Acc,PLAN.MI,Borsa Italiana
+GHYE,etf_promo,LU2099295466,Amundi Global High Yield Corporate Bond ESG UCITS ETF DR - USD (C),GHYE.MI,Borsa Italiana
+UBBB,etf_promo,LU1525418726,Amundi Global Corporate Bond 1-5Y ESG UCITS ETF DR (C),UBBB.MI,Borsa Italiana
+USIG,etf_promo,LU1285959703,Amundi USD Corporate Bond Climate Paris Aligned UCITS ETF Dist,USIG.MI,Borsa Italiana
+USFRN,etf_promo,LU1681040900,Amundi USD Floating Rate Corporate Bond ESG UCITS ETF Acc,USFRN.MI,Borsa Italiana
+HFRN,etf_promo,LU1681041031,Amundi USD Floating Rate Corporate Bond ESG UCITS ETF EUR Hedged Acc,HFRN.MI,Borsa Italiana
+USHY,etf_promo,LU1435356149,Amundi USD High Yield Corporate Bond ESG UCITS ETF Dist,USHY.MI,Borsa Italiana
+UCRP,etf_promo,LU1806495575,Amundi USD Corporate Bond ESG UCITS ETF DR (C),UCRP.MI,Borsa Italiana
+USIC,etf_promo,LU1285959885,Amundi USD Corporate Bond Climate Paris Aligned UCITS ETF Acc,USIC.MI,Borsa Italiana
+USIH,etf_promo,LU1285960032,Fixed Income,USIH.MI,Borsa Italiana
+USHYC,etf_promo,LU1435356065,Amundi USD High Yield Corporate Bond ESG UCITS ETF Acc,USHYC.MI,Borsa Italiana
+EGRI,etf_promo,LU2182388236,Amundi Euro Aggregate Bond ESG UCITS ETF DR (C),EGRI.MI,Borsa Italiana
+CLIM,etf_promo,LU1563454310,Amundi Global Aggregate Green Bond UCITS ETF Acc,CLIM.MI,Borsa Italiana
 CLMD,etf_promo,LU1563454401,Amundi Global Aggregate Green Bond UCITS ETF Dist,CLMD.MI,Borsa Italiana
-COMH,etf_promo,LU1900069219,Amdi Blg Eql-wght Com ex-Agrc U,COMH.MI,Borsa Italiana
-FMI,etf_promo,LU1681037518,Amundi Index Solutions - Amundi ITALY MIB ESG UCITS ETF DR - EUR C,FMI.MI,Borsa Italiana
+COMH,etf_promo,LU1900069219,Broad Commodities,COMH.MI,Borsa Italiana
+COMO,etf_promo,LU1829218749,Amundi Bloomberg Equal-weight Commodity ex-Agriculture UCITS ETF Acc,COMO.MI,Borsa Italiana
+LWCR,etf_promo,IE0001GSQ2O9,Amundi MSCI World ESG Broad Transition UCITS ETF Acc,LWCR.MI,Borsa Italiana
+GOAI,etf_promo,LU1861132840,Amundi MSCI Robotics & AI UCITS ETF Acc,GOAI.MI,Borsa Italiana
+SCITY,etf_promo,LU2037748345,Amundi MSCI Smart Cities UCITS ETF ACC,SCITY.MI,Borsa Italiana
+FMI,etf_promo,LU1681037518,Amundi Italy MIB ESG UCITS ETF DR - EUR (C),FMI.MI,Borsa Italiana
 MFDD,etf_promo,LU0908501132,Amundi MSCI EMU ESG Broad Transition UCITS ETF DIST,MFDD.MI,Borsa Italiana
-USRIH,etf_promo,IE0000U24AJ9,Amundi MSCI USA SRI Climate Paris Aligned UCITS ETF Acc EUR HEDGED,USRIH.MI,Borsa Italiana
+CEU2,etf_promo,LU1437015735,Amundi Index MSCI Europe UCITS ETF DR (C),CEU2.MI,Borsa Italiana
+DEFS,etf_promo,LU3038520774,Amundi Stoxx Europe Defense UCITS ETF Acc,DEFS.MI,Borsa Italiana
+S500,etf_promo,IE000KXCEXR3,Amundi S&P 500 Screened UCITS ETF - Acc,S500.MI,Borsa Italiana
+ESGUSA,etf_promo,IE000PEAJOT0,Amundi MSCI USA ESG Selection UCITS ETF Acc,ESGUSA.MI,Borsa Italiana
+UESG,etf_promo,IE0008TKP6O7,Amundi MSCI USA ESG Selection Extra UCITS ETF DR - USD (D),UESG.MI,Borsa Italiana
+WELE,etf_promo,IE000LAP5Z18,Amundi S&P 500 Equal Weight ESG UCITS ETF Acc,WELE.MI,Borsa Italiana
+USRI,etf_promo,IE000R85HL30,Amundi MSCI USA SRI Climate Paris Aligned UCITS ETF Acc,USRI.MI,Borsa Italiana
+USRIH,etf_promo,IE0000U24AJ9,Amundi MSCI USA SRI Climate Paris Aligned UCITS ETF Acc EUR Hedged,USRIH.MI,Borsa Italiana
+USTH,etf_promo,LU1954152853,Amundi Nasdaq-100 II UCITS ETF EUR Hedged Acc,USTH.MI,Borsa Italiana
+S500H,etf_promo,IE00058MW3M8,Amundi S&P 500 Screened UCITS ETF - Acc EUR Hedged,S500H.MI,Borsa Italiana
+XMGA,etf_promo,IE000XL4IXU1,Amundi MSCI USA Ex Mega Cap UCITS ETF Acc,XMGA.MI,Borsa Italiana
+AEME,etf_promo,LU1437017350,Amundi Index MSCI Emerging Markets UCITS ETF DR (C),AEME.MI,Borsa Italiana
+AEMD,etf_promo,LU1737652583,Amundi Index MSCI Emerging Markets UCITS ETF DR (D),AEMD.MI,Borsa Italiana
+GAGG,etf_promo,LU1437024729,Amundi Global Aggregate Bond UCITS ETF DR (C),GAGG.MI,Borsa Italiana
+SMART,etf_promo,LU1190417599,Amundi Smart Overnight Return UCITS ETF Acc,SMART.MI,Borsa Italiana
+LEONIA,etf_promo,FR0010510800,Amundi EUR Overnight Return UCITS ETF Acc,LEONIA.MI,Borsa Italiana
+ITAMID,etf_promo,FR0011758085,Amundi FTSE Italia PMI PIR 2020 UCITS ETF Acc,ITAMID.MI,Borsa Italiana
 LVO,etf_promo,LU0832435464,Amundi S&P 500 VIX Futures Enhanced Roll UCITS ETF Acc,LVO.MI,Borsa Italiana
 CSSPX,etf,,iShares Core S&P 500,CSSPX.MI,Borsa Italiana
 CSNDX,etf,,iShares Nasdaq 100,CSNDX.MI,Borsa Italiana
@@ -64,7 +399,6 @@ IWMO,etf,,iShares MSCI World Momentum,IWMO.MI,Borsa Italiana
 IWQU,etf,,iShares MSCI World Quality,IWQU.MI,Borsa Italiana
 INRG,etf,,iShares Global Clean Energy,INRG.MI,Borsa Italiana
 ECAR,etf,,iShares Electric Vehicles,ECAR.MI,Borsa Italiana
-HEAL,etf,,iShares Healthcare Innovation,HEAL.MI,Borsa Italiana
 IHYG,etf,,iShares Euro High Yield,IHYG.MI,Borsa Italiana
 SGLD,etf,,Invesco Physical Gold,SGLD.MI,Borsa Italiana
 PHAU,etf,,WisdomTree Physical Gold,PHAU.MI,Borsa Italiana
@@ -80,11 +414,13 @@ WCLD,etf,,WisdomTree Cloud Computing,WCLD.MI,Borsa Italiana
 EMQQ,etf,,EMQQ Emerging Markets Internet,EMQQ.MI,Borsa Italiana
 CSKR,etf,,iShares MSCI Korea,CSKR.MI,Borsa Italiana
 CSJP,etf,,iShares Core MSCI Japan,CSJP.MI,Borsa Italiana
+NDIA,etf,,iShares MSCI India,NDIA.MI,Borsa Italiana
 FXC,etf,,iShares China Large Cap,FXC.MI,Borsa Italiana
 IBZL,etf,,iShares MSCI Brazil,IBZL.MI,Borsa Italiana
 ITKY,etf,,iShares MSCI Turkey,ITKY.MI,Borsa Italiana
 EXSA,etf,,iShares Stoxx Europe 600,EXSA.MI,Borsa Italiana
 LEVMIB,etf,,Lyxor FTSE MIB Daily 2x Leveraged,LEVMIB.MI,Borsa Italiana
+DJLEV,etf,,Amundi Euro Stoxx 50 Daily 2x Leveraged,DJLEV.MI,Borsa Italiana
 LQQ,etf,,Amundi Nasdaq-100 Daily 2x Leveraged,LQQ.MI,Borsa Italiana
 3USL,etf,,WisdomTree S&P 500 3x Daily Leveraged,3USL.MI,Borsa Italiana
 3ITL,etf,,WisdomTree FTSE MIB 3x Daily Leveraged,3ITL.MI,Borsa Italiana

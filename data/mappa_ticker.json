@@ -1,1914 +1,3348 @@
 {
  "IE000VYO9NT0": {
-  "yahoo": "FAMMAI.MI",
-  "nome": "FINECO AM MSCI ACWI IMI Cyber Security UCITS ETF A EUR Acc"
+  "nome": "FINECO AM MSCI ACWI IMI CYBER SECURITY UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMMAI",
+  "yahoo": "FAMMAI.MI"
  },
  "IE000O2G7VL0": {
-  "yahoo": "FAMEUS.MI",
-  "nome": "Fineco AM MSCI EUR HY SRI P-Series Corporate Bond UCITS ETF A EUR Acc"
+  "nome": "FINECO AM MSCI EUR HY SRI SUSTAINABLE CORPORATE BOND UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMEUS",
+  "yahoo": "FAMEUS.MI"
  },
  "IE000W6ZFH20": {
-  "yahoo": "FAMSF3.MI",
-  "nome": "Fineco AM MSCI EUR IG SRI P-Series ex Fossil Fuel (1-3Y) Corporate Bond UCITS ETF A EUR Acc"
+  "nome": "EUR Corporate Bond - Short Term",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMSF3",
+  "yahoo": "FAMSF3.MI"
  },
  "IE000NPK2VI6": {
-  "yahoo": "FAMSFF.MI",
-  "nome": "Fineco AM MSCI EUR IG SRI P-Series ex Fossil Fuel Corporate Bond UCITS ETF A EUR Acc"
+  "nome": "FINECO AM MSCI EUR IG SRI SUSTAINABLE EX FOSSIL FUEL CORPORATE BOND UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMSFF",
+  "yahoo": "FAMSFF.MI"
  },
  "IE0000JVOLK2": {
-  "yahoo": "FAMUSS.MI",
-  "nome": "Fineco AM MSCI USD HY SRI P-Series Corporate Bond UCITS ETF A EUR Acc"
+  "nome": "FINECO AM MSCI USD HY SRI SUSTAINABLE CORPORATE BOND UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMUSS",
+  "yahoo": "FAMUSS.MI"
  },
  "IE000WMJVNE9": {
-  "yahoo": "FAMLSS.MI",
-  "nome": "Fineco AM MSCI USD IG Liquid SRI P-Series Corporate Bond UCITS ETF A EUR Acc"
+  "nome": "FINECO AM MSCI USD IG LIQUID SRI SUSTAINABLE CORPORATE BOND UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMLSS",
+  "yahoo": "FAMLSS.MI"
  },
  "IE0006XQ3YX3": {
-  "yahoo": "FAMWCS.MI",
-  "nome": "Fineco AM MSCI World Consumer Staples Sustainable Selection P-Series UCITS ETF A EUR Acc"
+  "nome": "FINECO AM MSCI WORLD CONSUMER STAPLES ESG LEADERS UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMWCS",
+  "yahoo": "FAMWCS.MI"
  },
  "IE000VDP6OY8": {
-  "yahoo": "FAMMWF.MI",
-  "nome": "Fineco AM MSCI World Financials Sustainable Selection P-Series UCITS ETF A EUR Acc"
+  "nome": "FINECO AM MSCI WORLD FINANCIALS ESG LEADERS UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMMWF",
+  "yahoo": "FAMMWF.MI"
  },
  "IE000SACNHU2": {
-  "yahoo": "FAMTEL.MI",
-  "nome": "Fineco AM MSCI World Information Technology Sustainable Selection P-Series 20% Capped UCITS ETF AEUR"
+  "nome": "Other Equity",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMTEL",
+  "yahoo": "FAMTEL.MI"
  },
  "IE000EE3Q489": {
-  "yahoo": "FAMAMW.MI",
-  "nome": "Fineco AM MSCI World Metals and Mining UCITS ETF A EUR Acc"
+  "nome": "FINECO AM MSCI WORLD METALS AND MINING UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMAMW",
+  "yahoo": "FAMAMW.MI"
  },
  "IE000C87OS21": {
-  "yahoo": "FAMMWS.MI",
-  "nome": "Fineco AM MSCI World Semiconductors and Semiconductor Equipment 20% Capped UCITS ETF A EUR Acc"
+  "nome": "Other Equity",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FAMMWS",
+  "yahoo": "FAMMWS.MI"
  },
  "IE000J8VOMQ9": {
-  "yahoo": "AI4UJ.MI",
-  "nome": "Fineco AM MarketVector Artificial Intelligence Sustainable UCITS ETF J"
+  "nome": "FINECOAM MKTVECTOR AI ESG UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AI4UJ",
+  "yahoo": "AI4UJ.MI"
  },
  "IE000QU8JEH5": {
-  "yahoo": "AI4U.MI",
-  "nome": "Fineco AM MarketVector Artificial Intelligence Sustainable UCITS ETF A Acc"
+  "nome": "FINECOAM MKTVECTOR AI ESG UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AI4U",
+  "yahoo": "AI4U.MI"
  },
  "IE000RWFQT12": {
-  "yahoo": "BTECH.MI",
-  "nome": "Fineco AM MarketVector Bioproduction Tech and Tools Sustainable UCITS ETF A Acc"
+  "nome": "FINECOAM MKTVECTOR BIOTECHTOOLS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "BTECH",
+  "yahoo": "BTECH.MI"
  },
  "IE000YXUZAN8": {
-  "yahoo": "BTECJ.MI",
-  "nome": "Fineco AM MarketVector Bioproduction Tech and Tools Sustainable UCITS ETF J Acc"
+  "nome": "FINECOAM MKTVECTOR BIOTECHTOOLS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "BTECJ",
+  "yahoo": "BTECJ.MI"
  },
  "IE000VAKCHT4": {
-  "yahoo": "EMOVJ.MI",
-  "nome": "Fineco AM MarketVector Global Clean Energy Transition Sustainable UCITS ETF J Acc"
+  "nome": "FINECOAM MKTVECTOR GLOCLEANENRGY ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMOVJ",
+  "yahoo": "EMOVJ.MI"
  },
  "IE000PN3F926": {
-  "yahoo": "EMOVE.MI",
-  "nome": "Fineco AM MarketVector Global Clean Energy Transition Sustainable UCITS ETF A Acc"
+  "nome": "FINECOAM MKTVECTOR GLOCLEANENRGY ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMOVE",
+  "yahoo": "EMOVE.MI"
  },
  "IE000WCPJOV4": {
-  "yahoo": "METAA.MI",
-  "nome": "Fineco AM MarketVector Global Metaverse and e-Games Sustainable UCITS ETF A Acc"
+  "nome": "FINECOAM MKTVECTOR GLOMTA EGAME ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "METAA",
+  "yahoo": "METAA.MI"
  },
  "IE000HA0OM03": {
-  "yahoo": "METAJ.MI",
-  "nome": "Fineco AM MarketVector Global Metaverse and e-Games Sustainable UCITS ETF J Acc"
+  "nome": "FINECOAM MKTVECTOR GLOMTA EGAME ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "METAJ",
+  "yahoo": "METAJ.MI"
  },
  "IE000QCDDND5": {
-  "yahoo": "JPMQ.MI",
-  "nome": "Fineco AM MarketVector Japan Quality Tilt Sustainable UCITS ETF A Acc"
+  "nome": "FINECOAM MKTVECTOR JAP QUALTILT ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "JPMQ",
+  "yahoo": "JPMQ.MI"
  },
  "IE000SM6I1K9": {
-  "yahoo": "JPMQJ.MI",
-  "nome": "Fineco AM MarketVector Japan Quality Tilt Sustainable UCITS ETF J Acc"
+  "nome": "FINECOAM MKTVECTOR JAP QUALTILT ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "JPMQJ",
+  "yahoo": "JPMQJ.MI"
  },
  "LU0322252171": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI AC Asia ex Japan ESG Swap UCITS"
+  "nome": "Xtrackers MSCI AC Asia ex Japan ESG Swap UCITS",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XAXJ",
+  "yahoo": "XAXJ.MI"
  },
  "LU0292106167": {
-  "yahoo": null,
-  "nome": "Xtrackers Bloomberg Commodity ex-Agriculture & Livestock Swap UCITS ETF 1C EUR Hedged"
+  "nome": "Xtrackers Bloomberg Commodity ex-Agriculture & Livestock Swap UCITS ETF 1C EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDBC",
+  "yahoo": "XDBC.MI"
  },
  "LU0659579733": {
-  "yahoo": null,
-  "nome": "LU0292106167 Xtrackers MSCI World Swap UCITS ETF 4C - EUR Hedged"
+  "nome": "LU0292106167 Xtrackers MSCI World Swap UCITS ETF 4C - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XWEH",
+  "yahoo": "XWEH.MI"
  },
  "LU0290358497": {
-  "yahoo": null,
-  "nome": "Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C"
+  "nome": "Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEON",
+  "yahoo": "XEON.MI"
  },
  "LU0779800910": {
-  "yahoo": null,
-  "nome": "LU0290358497 Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C Xtrackers CSI300 Swap UCITS ETF 1C"
+  "nome": "LU0290358497 Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C Xtrackers CSI300 Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XCHA",
+  "yahoo": "XCHA.MI"
  },
  "LU0274211480": {
-  "yahoo": null,
-  "nome": "Xtrackers DAX UCITS ETF 1C"
+  "nome": "Xtrackers DAX UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDAX",
+  "yahoo": "XDAX.MI"
  },
  "LU0380865021": {
-  "yahoo": null,
-  "nome": "Xtrackers Euro Stoxx 50 UCITS ETF 1C"
+  "nome": "Xtrackers Euro Stoxx 50 UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XESC",
+  "yahoo": "XESC.MI"
  },
  "LU0274211217": {
-  "yahoo": null,
-  "nome": "Xtrackers Euro Stoxx 50 UCITS ETF 1D"
+  "nome": "Xtrackers Euro Stoxx 50 UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XESX",
+  "yahoo": "XESX.MI"
  },
  "LU0292095535": {
-  "yahoo": null,
-  "nome": "LU0274211217 Xtrackers Euro Stoxx 50 UCITS ETF 1D Xtrackers Euro Stoxx Quality Dividend UCITS ETF"
+  "nome": "LU0274211217 Xtrackers Euro Stoxx 50 UCITS ETF 1D Xtrackers Euro Stoxx Quality Dividend UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XD3E",
+  "yahoo": "XD3E.MI"
  },
  "LU0489337690": {
-  "yahoo": null,
-  "nome": "Xtrackers FTSE Developed Europe Real Estate UCITS ETF 1C"
+  "nome": "Xtrackers FTSE Developed Europe Real Estate UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDER",
+  "yahoo": "XDER.MI"
  },
  "LU0274212538": {
-  "yahoo": null,
-  "nome": "Xtrackers FTSE MIB UCITS ETF 1D"
+  "nome": "Xtrackers FTSE MIB UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMIB",
+  "yahoo": "XMIB.MI"
  },
  "LU0322252924": {
-  "yahoo": null,
-  "nome": "Xtrackers FTSE Vietnam Swap UCITS ETF 1C"
+  "nome": "Xtrackers FTSE Vietnam Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XFVT",
+  "yahoo": "XFVT.MI"
  },
  "LU2376679564": {
-  "yahoo": null,
-  "nome": "Xtrackers Harvest MSCI China Tech 100 UCITS ETF 1C"
+  "nome": "Xtrackers Harvest MSCI China Tech 100 UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XCTE",
+  "yahoo": "XCTE.MI"
  },
  "LU0875160326": {
-  "yahoo": null,
-  "nome": "Xtrackers Harvest CSI300 UCITS ETF 1D"
+  "nome": "Xtrackers Harvest CSI300 UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "RQFI",
+  "yahoo": "RQFI.MI"
  },
  "LU0322250712": {
-  "yahoo": null,
-  "nome": "Xtrackers LPX Private Equity Swap UCITS ETF 1C"
+  "nome": "Xtrackers LPX Private Equity Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XLPE",
+  "yahoo": "XLPE.MI"
  },
  "LU0292109344": {
-  "yahoo": null,
-  "nome": "LU0322250712 Alternatives Xtrackers MSCI Brazil UCITS ETF 1C"
+  "nome": "LU0322250712 Alternatives Xtrackers MSCI Brazil UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMBR",
+  "yahoo": "XMBR.MI"
  },
  "LU0514695690": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Brazil UCITS ETF 1C Xtrackers MSCI China UCITS ETF 1C"
+  "nome": "Xtrackers MSCI Brazil UCITS ETF 1C Xtrackers MSCI China UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XCS6",
+  "yahoo": "XCS6.MI"
  },
  "LU2456436083": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI China UCITS ETF 1D"
+  "nome": "Xtrackers MSCI China UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XCS7",
+  "yahoo": "XCS7.MI"
  },
  "LU0292107645": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Emerging Markets Swap UCITS ETF 1C"
+  "nome": "Xtrackers MSCI Emerging Markets Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMEM",
+  "yahoo": "XMEM.MI"
  },
  "LU0846194776": {
-  "yahoo": null,
-  "nome": "LU0292107645 Xtrackers MSCI Emerging Markets Swap UCITS ETF 1C Xtrackers MSCI EMU UCITS ETF 1D"
+  "nome": "LU0292107645 Xtrackers MSCI Emerging Markets Swap UCITS ETF 1C Xtrackers MSCI EMU UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XD5E",
+  "yahoo": "XD5E.MI"
  },
  "LU0322253906": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI EMU UCITS ETF 1D Xtrackers MSCI Europe Small Cap UCITS ETF 1C"
+  "nome": "Xtrackers MSCI EMU UCITS ETF 1D Xtrackers MSCI Europe Small Cap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XXSC",
+  "yahoo": "XXSC.MI"
  },
  "LU0274209237": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Europe Small Cap UCITS ETF 1C Xtrackers MSCI Europe UCITS ETF 1C"
+  "nome": "Xtrackers MSCI Europe Small Cap UCITS ETF 1C Xtrackers MSCI Europe UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMEU",
+  "yahoo": "XMEU.MI"
  },
  "LU0476289623": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Indonesia Swap UCITS ETF 1C"
+  "nome": "Xtrackers MSCI Indonesia Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMIN",
+  "yahoo": "XMIN.MI"
  },
  "LU0659580079": {
-  "yahoo": "XMK9.MI",
-  "nome": "Xtrackers MSCI Japan UCITS ETF 4C EUR Hedged"
+  "nome": "Xtrackers MSCI Japan UCITS ETF 4C - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMK9",
+  "yahoo": "XMK9.MI"
  },
  "LU0274209740": {
-  "yahoo": null,
-  "nome": "LU0659580079 Xtrackers MSCI Japan UCITS ETF 4C - EUR Hedged Xtrackers MSCI Japan UCITS ETF 1C"
+  "nome": "LU0659580079 Xtrackers MSCI Japan UCITS ETF 4C - EUR Hedged Xtrackers MSCI Japan UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMJP",
+  "yahoo": "XMJP.MI"
  },
  "LU0476289466": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Mexico UCITS ETF 1C"
+  "nome": "Xtrackers MSCI Mexico UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMEX",
+  "yahoo": "XMEX.MI"
  },
  "LU0274210672": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI USA Swap UCITS ETF 1C"
+  "nome": "Xtrackers MSCI USA Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMUS",
+  "yahoo": "XMUS.MI"
  },
  "LU0274208692": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Swap UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMWO",
+  "yahoo": "XMWO.MI"
  },
  "LU0292109690": {
-  "yahoo": null,
-  "nome": "Xtrackers Nifty 50 Swap UCITS ETF 1C"
+  "nome": "Xtrackers Nifty 50 Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XNIF",
+  "yahoo": "XNIF.MI"
  },
  "LU0397221945": {
-  "yahoo": null,
-  "nome": "Xtrackers Portfolio UCITS ETF 1C"
+  "nome": "Xtrackers Portfolio UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XQUI",
+  "yahoo": "XQUI.MI"
  },
  "LU2009147757": {
-  "yahoo": null,
-  "nome": "Xtrackers S&P 500 Swap UCITS ETF 1D"
+  "nome": "Xtrackers S&P 500 Swap UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XSXD",
+  "yahoo": "XSXD.MI"
  },
  "LU0490618542": {
-  "yahoo": null,
-  "nome": "Xtrackers S&P 500 Swap UCITS ETF 1C"
+  "nome": "Xtrackers S&P 500 Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XSPX",
+  "yahoo": "XSPX.MI"
  },
  "LU2196472984": {
-  "yahoo": null,
-  "nome": "Xtrackers S&P 500 Swap UCITS ETF 5C EUR Hedged"
+  "nome": "Xtrackers S&P 500 Swap UCITS ETF 5C EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XS5E",
+  "yahoo": "XS5E.MI"
  },
  "LU0322253229": {
-  "yahoo": null,
-  "nome": "Xtrackers S&P Global Infrastructure Swap UCITS ETF 1C"
+  "nome": "Xtrackers S&P Global Infrastructure Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XSGI",
+  "yahoo": "XSGI.MI"
  },
  "LU0328476410": {
-  "yahoo": null,
-  "nome": "LU0322253229 Xtrackers S&P Global Infrastructure Swap UCITS ETF 1C Xtrackers S&P Select Frontier Swap UCITS ETF 1C"
+  "nome": "LU0322253229 Xtrackers S&P Global Infrastructure Swap UCITS ETF 1C Xtrackers S&P Select Frontier Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XSFR",
+  "yahoo": "XSFR.MI"
  },
  "LU0328475792": {
-  "yahoo": null,
-  "nome": "Xtrackers S&P Select Frontier Swap UCITS ETF 1C Xtrackers Stoxx Europe 600 UCITS ETF 1C"
+  "nome": "Xtrackers S&P Select Frontier Swap UCITS ETF 1C Xtrackers Stoxx Europe 600 UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XSX6",
+  "yahoo": "XSX6.MI"
  },
  "LU0274221281": {
-  "yahoo": null,
-  "nome": "Xtrackers Stoxx Europe 600 UCITS ETF 1C Xtrackers Switzerland UCITS ETF 1D"
+  "nome": "Xtrackers Stoxx Europe 600 UCITS ETF 1C Xtrackers Switzerland UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XSMI",
+  "yahoo": "XSMI.MI"
  },
  "LU2788421340": {
-  "yahoo": null,
-  "nome": "Xtrackers Switzerland UCITS ETF 1D Xtrackers CSI500 Swap UCITS ETF 1C"
+  "nome": "Xtrackers Switzerland UCITS ETF 1D Xtrackers CSI500 Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XCSI",
+  "yahoo": "XCSI.MI"
  },
  "LU0476289540": {
-  "yahoo": null,
-  "nome": "Xtrackers CSI500 Swap UCITS ETF 1C Xtrackers MSCI Canada ESG Screened UCITS ETF 1C"
+  "nome": "Xtrackers CSI500 Swap UCITS ETF 1C Xtrackers MSCI Canada ESG Screened UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XCAN",
+  "yahoo": "XCAN.MI"
  },
  "LU0292109856": {
-  "yahoo": null,
-  "nome": "Xtrackers FTSE China 50 UCITS ETF 1C"
+  "nome": "Xtrackers FTSE China 50 UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XX25",
+  "yahoo": "XX25.MI"
  },
  "LU0292107991": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI EM Asia ESG Screened Swap UCITS ETF"
+  "nome": "Xtrackers MSCI EM Asia ESG Screened Swap UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMAS",
+  "yahoo": "XMAS.MI"
  },
  "LU0292104469": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Europe In. T. Sc. UCITS ETF"
+  "nome": "Xtrackers MSCI Europe In. T. Sc. UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XS8R",
+  "yahoo": "XS8R.MI"
  },
  "LU0322253732": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Europe Screened UCITS ETF"
+  "nome": "Xtrackers MSCI Europe Screened UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEUM",
+  "yahoo": "XEUM.MI"
  },
  "LU0514695187": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI India Swap UCITS ETF 1C"
+  "nome": "Xtrackers MSCI India Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XCS5",
+  "yahoo": "XCS5.MI"
  },
  "LU0322252338": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Pacific ex Japan ESG Screened UCITS ETF 1C"
+  "nome": "Xtrackers MSCI Pacific ex Japan ESG Screened UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XPXJ",
+  "yahoo": "XPXJ.MI"
  },
  "LU1875395870": {
-  "yahoo": null,
-  "nome": "LU0322252338 Xtrackers MSCI Pacific ex Japan ESG Screened UCITS ETF 1C Xtrackers Nikkei 225 UCITS ETF 2D EUR Hedged Securities Lending Transactions"
+  "nome": "LU0322252338 Xtrackers MSCI Pacific ex Japan ESG Screened UCITS ETF 1C Xtrackers Nikkei 225 UCITS ETF 2D EUR Hedged Securities Lending Transactions",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDJE",
+  "yahoo": "XDJE.MI"
  },
  "IE00BF8J5974": {
-  "yahoo": null,
-  "nome": "Xtrackers Nikkei 225 UCITS ETF 2D EUR Hedged Securities Lending Transactions"
+  "nome": "Xtrackers Nikkei 225 UCITS ETF 2D EUR Hedged Securities Lending Transactions",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XYLD",
+  "yahoo": "XYLD.MI"
  },
  "IE00BL58LJ19": {
-  "yahoo": null,
-  "nome": "Xtrackers USD Corporate Bond SRI PAB UCITS ETF"
+  "nome": "Xtrackers USD Corporate Bond SRI PAB UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZBU",
+  "yahoo": "XZBU.MI"
  },
  "IE00BD4DXB77": {
-  "yahoo": null,
-  "nome": "Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF 2D - EUR Hedged"
+  "nome": "Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF 2D - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XQUE",
+  "yahoo": "XQUE.MI"
  },
  "IE00BD4DX952": {
-  "yahoo": null,
-  "nome": "Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF 1D"
+  "nome": "Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XQUA",
+  "yahoo": "XQUA.MI"
  },
  "IE00BYPHT736": {
-  "yahoo": null,
-  "nome": "Xtrackers iBoxx EUR Corporate Bond Yield Plus UCITS ETF 1D"
+  "nome": "Xtrackers iBoxx EUR Corporate Bond Yield Plus UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDEP",
+  "yahoo": "XDEP.MI"
  },
  "IE00BGV5VN51": {
-  "yahoo": null,
-  "nome": "IE00BYPHT736 Xtrackers Artificial Intelligence & Big Data UCITS ETF"
+  "nome": "IE00BYPHT736 Xtrackers Artificial Intelligence & Big Data UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XAIX",
+  "yahoo": "XAIX.MI"
  },
  "IE00BFMNHK08": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Europe ESG UCITS ETF"
+  "nome": "Xtrackers MSCI Europe ESG UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZEU",
+  "yahoo": "XZEU.MI"
  },
  "IE000MCVFK47": {
-  "yahoo": null,
-  "nome": "IE00BFMNHK08 Xtrackers MSCI Europe ESG UCITS ETF"
+  "nome": "IE00BFMNHK08 Xtrackers MSCI Europe ESG UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGBE",
+  "yahoo": "XGBE.MI"
  },
  "IE00BGV5VR99": {
-  "yahoo": null,
-  "nome": "Xtrackers Future Mobility UCITS ETF"
+  "nome": "Xtrackers Future Mobility UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMOV",
+  "yahoo": "XMOV.MI"
  },
  "IE000QVYFUT7": {
-  "yahoo": null,
-  "nome": "Xtrackers II India Government Bond UCITS ETF 1C"
+  "nome": "Xtrackers II India Government Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XIGB",
+  "yahoo": "XIGB.MI"
  },
  "IE00BTJRMP35": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Emerging Markets UCITS ETF 1C"
+  "nome": "Xtrackers MSCI Emerging Markets UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMME",
+  "yahoo": "XMME.MI"
  },
  "IE00BG370F43": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Emerging Markets ESG UCITS ETF"
+  "nome": "Xtrackers MSCI Emerging Markets ESG UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZEM",
+  "yahoo": "XZEM.MI"
  },
  "IE000YDOORK7": {
-  "yahoo": null,
-  "nome": "IE00BG370F43 Xtrackers MSCI Emerging Markets ESG UCITS ETF Xtrackers MSCI Fintech Innovation UCITS ETF 1C"
+  "nome": "IE00BG370F43 Xtrackers MSCI Emerging Markets ESG UCITS ETF Xtrackers MSCI Fintech Innovation UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XFNT",
+  "yahoo": "XFNT.MI"
  },
  "IE000KD0BZ68": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Genomic Healthcare Innovation UCITS 1C"
+  "nome": "Xtrackers MSCI Genomic Healthcare Innovation UCITS 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGEN",
+  "yahoo": "XGEN.MI"
  },
  "IE00036F4K40": {
-  "yahoo": null,
-  "nome": "IE000KD0BZ68 Xtrackers MSCI Genomic Healthcare Innovation UCITS 1C Xtrackers MSCI Global SDG 3 Good Health UCITS ETF"
+  "nome": "IE000KD0BZ68 Xtrackers MSCI Genomic Healthcare Innovation UCITS 1C Xtrackers MSCI Global SDG 3 Good Health UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDG3",
+  "yahoo": "XDG3.MI"
  },
  "IE0006FFX5U1": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Global SDG 3 Good Health UCITS ETF Xtrackers MSCI Innovation UCITS ETF 1C"
+  "nome": "Xtrackers MSCI Global SDG 3 Good Health UCITS ETF Xtrackers MSCI Innovation UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XNNV",
+  "yahoo": "XNNV.MI"
  },
  "IE00BG36TC12": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Japan ESG UCITS ETF"
+  "nome": "Xtrackers MSCI Japan ESG UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZMJ",
+  "yahoo": "XZMJ.MI"
  },
  "IE000XOQ9TK4": {
-  "yahoo": null,
-  "nome": "IE00BG36TC12 Xtrackers MSCI Japan ESG UCITS ETF Xtrackers MSCI Next Generation Internet Innovation UCITS ETF 1C"
+  "nome": "IE00BG36TC12 Xtrackers MSCI Japan ESG UCITS ETF Xtrackers MSCI Next Generation Internet Innovation UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XNGI",
+  "yahoo": "XNGI.MI"
  },
  "IE00BFMNPS42": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI USA ESG UCITS ETF"
+  "nome": "Xtrackers MSCI USA ESG UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZMU",
+  "yahoo": "XZMU.MI"
  },
  "IE0000MMQ5M5": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI USA ESG UCITS ETF 2C – EUR Hedged"
+  "nome": "Xtrackers MSCI USA ESG UCITS ETF 2C – EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZME",
+  "yahoo": "XZME.MI"
  },
  "IE00BGQYRS42": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI USA Information Tech. UCITS ETF 1D"
+  "nome": "Xtrackers MSCI USA Information Tech. UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XUTC",
+  "yahoo": "XUTC.MI"
  },
  "IE00BJ0KDR00": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI USA UCITS ETF 1C"
+  "nome": "Xtrackers MSCI USA UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XD9U",
+  "yahoo": "XD9U.MI"
  },
  "IE00BM67HR47": {
-  "yahoo": null,
-  "nome": "IE00BJ0KDR00 Xtrackers MSCI USA UCITS ETF 1C Xtrackers MSCI World Telecom Services UCITS ETF 1C"
+  "nome": "IE00BJ0KDR00 Xtrackers MSCI USA UCITS ETF 1C Xtrackers MSCI World Telecom Services UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XWTS",
+  "yahoo": "XWTS.MI"
  },
  "IE00BM67HP23": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Telecom Services UCITS ETF 1C Xtrackers MSCI World Consumer Discretionary UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Telecom Services UCITS ETF 1C Xtrackers MSCI World Consumer Discretionary UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWC",
+  "yahoo": "XDWC.MI"
  },
  "IE00BM67HN09": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Consumer Discretionary UCITS ETF 1C Xtrackers MSCI World Consumer Staples UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Consumer Discretionary UCITS ETF 1C Xtrackers MSCI World Consumer Staples UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWS",
+  "yahoo": "XDWS.MI"
  },
  "IE00BM67HM91": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Energy UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Energy UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDW0",
+  "yahoo": "XDW0.MI"
  },
  "IE00BZ02LR44": {
-  "yahoo": null,
-  "nome": "IE00BM67HM91 Xtrackers MSCI World Energy UCITS ETF 1C Xtrackers MSCI World ESG UCITS ETF"
+  "nome": "IE00BM67HM91 Xtrackers MSCI World Energy UCITS ETF 1C Xtrackers MSCI World ESG UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZW0",
+  "yahoo": "XZW0.MI"
  },
  "IE00BMY76136": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World ESG UCITS ETF 2C - EUR hedged"
+  "nome": "Xtrackers MSCI World ESG UCITS ETF 2C - EUR hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZWE",
+  "yahoo": "XZWE.MI"
  },
  "IE00BM67HL84": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Financials UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Financials UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWF",
+  "yahoo": "XDWF.MI"
  },
  "IE00BM67HK77": {
-  "yahoo": null,
-  "nome": "IE00BM67HL84 Xtrackers MSCI World Financials UCITS ETF 1C Xtrackers MSCI World Health Care UCITS ETF 1C"
+  "nome": "IE00BM67HL84 Xtrackers MSCI World Financials UCITS ETF 1C Xtrackers MSCI World Health Care UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWH",
+  "yahoo": "XDWH.MI"
  },
  "IE00BM67HV82": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Industrials UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Industrials UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWI",
+  "yahoo": "XDWI.MI"
  },
  "IE00BM67HT60": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Information Technology UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Information Technology UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWT",
+  "yahoo": "XDWT.MI"
  },
  "IE00BM67HS53": {
-  "yahoo": null,
-  "nome": "IE00BM67HT60 Xtrackers MSCI World Information Technology UCITS ETF 1C Xtrackers MSCI World Materials UCITS ETF 1C"
+  "nome": "IE00BM67HT60 Xtrackers MSCI World Information Technology UCITS ETF 1C Xtrackers MSCI World Materials UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWM",
+  "yahoo": "XDWM.MI"
  },
  "IE00BL25JN58": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Materials UCITS ETF 1C Xtrackers MSCI World Minimum Volatility UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Materials UCITS ETF 1C Xtrackers MSCI World Minimum Volatility UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDEB",
+  "yahoo": "XDEB.MI"
  },
  "IE00BL25JP72": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Minimum Volatility UCITS ETF 1C Xtrackers MSCI World Momentum UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Minimum Volatility UCITS ETF 1C Xtrackers MSCI World Momentum UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDEM",
+  "yahoo": "XDEM.MI"
  },
  "IE00BL25JL35": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Quality UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Quality UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDEQ",
+  "yahoo": "XDEQ.MI"
  },
  "IE00BJ0KDQ92": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWD",
+  "yahoo": "XDWD.MI"
  },
  "IE00BM67HQ30": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Utilities UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Utilities UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWU",
+  "yahoo": "XDWU.MI"
  },
  "IE00BL25JM42": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Value UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Value UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDEV",
+  "yahoo": "XDEV.MI"
  },
  "IE00BMFKG444": {
-  "yahoo": null,
-  "nome": "Xtrackers NASDAQ 100 UCITS ETF"
+  "nome": "Xtrackers NASDAQ 100 UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XNAS",
+  "yahoo": "XNAS.MI"
  },
  "IE00B3Y8D011": {
-  "yahoo": null,
-  "nome": "Xtrackers Portfolio Income UCITS ETF 1D"
+  "nome": "Xtrackers Portfolio Income UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XS7W",
+  "yahoo": "XS7W.MI"
  },
  "IE00BJZ2DD79": {
-  "yahoo": null,
-  "nome": "Xtrackers Russell 2000 UCITS ETF 1C"
+  "nome": "Xtrackers Russell 2000 UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XRS2",
+  "yahoo": "XRS2.MI"
  },
  "IE0002EI5AG0": {
-  "yahoo": null,
-  "nome": "IE00BJZ2DD79 Xtrackers Russell 2000 UCITS ETF 1C Xtrackers S&P 500 Equal Weight UCITS ETF 2C - EUR Hedged"
+  "nome": "IE00BJZ2DD79 Xtrackers Russell 2000 UCITS ETF 1C Xtrackers S&P 500 Equal Weight UCITS ETF 2C - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDEE",
+  "yahoo": "XDEE.MI"
  },
  "IE00BLNMYC90": {
-  "yahoo": null,
-  "nome": "Xtrackers S&P 500 Equal Weight UCITS ETF 1C"
+  "nome": "Xtrackers S&P 500 Equal Weight UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDEW",
+  "yahoo": "XDEW.MI"
  },
  "IE00BM67HW99": {
-  "yahoo": null,
-  "nome": "Xtrackers S&P 500 UCITS ETF 1C - EUR Hedged"
+  "nome": "Xtrackers S&P 500 UCITS ETF 1C - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDPE",
+  "yahoo": "XDPE.MI"
  },
  "IE00BZ036J45": {
-  "yahoo": null,
-  "nome": "Xtrackers USD Corporate Bond UCITS ETF 2D - EUR Hedged"
+  "nome": "Xtrackers USD Corporate Bond UCITS ETF 2D - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDGE",
+  "yahoo": "XDGE.MI"
  },
  "IE00BZ036H21": {
-  "yahoo": null,
-  "nome": "Xtrackers USD Corporate Bond UCITS ETF 1D"
+  "nome": "Xtrackers USD Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDGU",
+  "yahoo": "XDGU.MI"
  },
  "IE00BDR5HM97": {
-  "yahoo": null,
-  "nome": "Xtrackers USD High Yield Corporate Bond UCITS ETF 1D"
+  "nome": "Xtrackers USD High Yield Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XUHY",
+  "yahoo": "XUHY.MI"
  },
  "IE000VXC51U5": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI AC World ESG Screened UCITS ETF 2C – EUR Hedged"
+  "nome": "Xtrackers MSCI AC World ESG Screened UCITS ETF 2C – EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMAE",
+  "yahoo": "XMAE.MI"
  },
  "IE00BGHQ0G80": {
-  "yahoo": "XMAW.MI",
-  "nome": "Xtrackers MSCI AC World Screened UCITS ETF 1C"
+  "nome": "Xtrackers MSCI AC World ESG Screened UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMAW",
+  "yahoo": "XMAW.MI"
  },
  "IE00BM67HJ62": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Emerging Markets ESG Screened UCITS ETF 1C"
+  "nome": "Xtrackers MSCI Emerging Markets ESG Screened UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDEX",
+  "yahoo": "XDEX.MI"
  },
  "IE00BPVLQD13": {
-  "yahoo": null,
-  "nome": "IE00BM67HJ62 Xtrackers MSCI Emerging Markets ESG Screened UCITS ETF 1C Xtrackers MSCI Japan ESG Screened UCITS ETF"
+  "nome": "IE00BM67HJ62 Xtrackers MSCI Emerging Markets ESG Screened UCITS ETF 1C Xtrackers MSCI Japan ESG Screened UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDNY",
+  "yahoo": "XDNY.MI"
  },
  "IE00BRB36B93": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI Japan ESG Screened UCITS ETF Xtrackers MSCI Japan ESG Screened UCITS ETF – EUR Hedged"
+  "nome": "Xtrackers MSCI Japan ESG Screened UCITS ETF Xtrackers MSCI Japan ESG Screened UCITS ETF – EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDNE",
+  "yahoo": "XDNE.MI"
  },
  "IE000TSML5I8": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI USA ESG Screened UCITS ETF 2C - Eur Hedged"
+  "nome": "Xtrackers MSCI USA ESG Screened UCITS ETF 2C - Eur Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XRME",
+  "yahoo": "XRME.MI"
  },
  "IE00BJZ2DC62": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI USA ESG Screened UCITS ETF"
+  "nome": "Xtrackers MSCI USA ESG Screened UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XRSM",
+  "yahoo": "XRSM.MI"
  },
  "IE0003NQ0IY5": {
-  "yahoo": null,
-  "nome": "IE00BJZ2DC62 Xtrackers MSCI USA ESG Screened UCITS ETF Xtrackers MSCI World Quality ESG UCITS ETF 1C Securities Lending Transactions"
+  "nome": "IE00BJZ2DC62 Xtrackers MSCI USA ESG Screened UCITS ETF Xtrackers MSCI World Quality ESG UCITS ETF 1C Securities Lending Transactions",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XWEQ",
+  "yahoo": "XWEQ.MI"
  },
  "IE00BCHWNQ94": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World ESG Screened UCITS ETF"
+  "nome": "Xtrackers MSCI World ESG Screened UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDWY",
+  "yahoo": "XDWY.MI"
  },
  "IE000LAUZQT6": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World Value ESG UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World Value ESG UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XWEV",
+  "yahoo": "XWEV.MI"
  },
  "IE0006WW1TQ4": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World ex USA UCITS ETF 1C Securities Lending Transactions"
+  "nome": "Xtrackers MSCI World ex USA UCITS ETF 1C Securities Lending Transactions",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EXUS",
+  "yahoo": "EXUS.MI"
  },
  "IE0004MFRED4": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World ex USA UCITS ETF 1C Securities Lending Transactions Xtrackers S&P 500 Equal Weight ESG UCITS ETF 1C"
+  "nome": "Xtrackers MSCI World ex USA UCITS ETF 1C Securities Lending Transactions Xtrackers S&P 500 Equal Weight ESG UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZEW",
+  "yahoo": "XZEW.MI"
  },
  "IE000IDLWOL4": {
-  "yahoo": null,
-  "nome": "Xtrackers S&P 500 Equal Weight Scored & Screened UCITS ETF 2C EUR Hdg"
+  "nome": "Xtrackers S&P 500 Equal Weight Scored & Screened UCITS ETF 2C EUR Hdg",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEWE",
+  "yahoo": "XEWE.MI"
  },
  "IE00BM97MR69": {
-  "yahoo": null,
-  "nome": "Xtrackers US Treasuries Ultrashort Bond UCITS ETF 1C"
+  "nome": "Xtrackers US Treasuries Ultrashort Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XT01",
+  "yahoo": "XT01.MI"
  },
  "LU2178481649": {
-  "yahoo": null,
-  "nome": "Xtrackers II EUR Corporate Bond Short Duration SRI PAB UCITS ETF"
+  "nome": "Xtrackers II EUR Corporate Bond Short Duration SRI PAB UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZE5",
+  "yahoo": "XZE5.MI"
  },
  "LU0925589839": {
-  "yahoo": null,
-  "nome": "LU2178481649"
+  "nome": "LU2178481649",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XYP1",
+  "yahoo": "XYP1.MI"
  },
  "LU1109942653": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II EUR High Yield Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XHYG",
+  "yahoo": "XHYG.MI"
  },
  "LU0962078753": {
-  "yahoo": null,
-  "nome": "Xtrackers II Global Inflation-Linked Bond UCITS ETF 1D - EUR Hedged"
+  "nome": "Xtrackers II Global Inflation-Linked Bond UCITS ETF 1D - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGII",
+  "yahoo": "XGII.MI"
  },
  "LU2385068593": {
-  "yahoo": "XZEG.MI",
-  "nome": "Xtrackers II ESG Global Government Bond UCITS ETF 4D EUR Income Hedged"
+  "nome": "Xtrackers II ESG Global Government Bond UCITS ETF 4D - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZEG",
+  "yahoo": "XZEG.MI"
  },
  "LU2385068163": {
-  "yahoo": null,
-  "nome": "Xtrackers II ESG Global Government Bond UCITS ETF 1D"
+  "nome": "Xtrackers II ESG Global Government Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XZWG",
+  "yahoo": "XZWG.MI"
  },
  "LU0484968812": {
-  "yahoo": null,
-  "nome": "Xtrackers II ESG EUR Corporate Bond SRI PAB UCITS ETF 1D"
+  "nome": "Xtrackers II ESG EUR Corporate Bond SRI PAB UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XB4F",
+  "yahoo": "XB4F.MI"
  },
  "LU2504537445": {
-  "yahoo": null,
-  "nome": "Xtrackers II Eurozone Government Bond ESG Tilted UCITS ETF 1D"
+  "nome": "Xtrackers II Eurozone Government Bond ESG Tilted UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEZB",
+  "yahoo": "XEZB.MI"
  },
  "LU0494592974": {
-  "yahoo": null,
-  "nome": "Xtrackers II Australia Government Bond UCITS ETF 1C"
+  "nome": "Xtrackers II Australia Government Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XCS2",
+  "yahoo": "XCS2.MI"
  },
  "LU0478205379": {
-  "yahoo": null,
-  "nome": "Xtrackers II EUR Corporate Bond UCITS ETF 1C"
+  "nome": "Xtrackers II EUR Corporate Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XBLC",
+  "yahoo": "XBLC.MI"
  },
  "LU0290357507": {
-  "yahoo": null,
-  "nome": "LU0478205379"
+  "nome": "LU0478205379",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "X15E",
+  "yahoo": "X15E.MI"
  },
  "LU0290357846": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Eurozone Government Bond 25+ UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "X25E",
+  "yahoo": "X25E.MI"
  },
  "LU0290356954": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Eurozone Government Bond 3-5 UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "X35E",
+  "yahoo": "X35E.MI"
  },
  "LU0290357176": {
-  "yahoo": null,
-  "nome": "Xtrackers II Eurozone Government Bond 5-7 UCITS ETF 1C"
+  "nome": "Xtrackers II Eurozone Government Bond 5-7 UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "X57E",
+  "yahoo": "X57E.MI"
  },
  "LU0290357259": {
-  "yahoo": null,
-  "nome": "Xtrackers II Eurozone Government Bond 7-10 UCITS ETF 1C"
+  "nome": "Xtrackers II Eurozone Government Bond 7-10 UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "X710",
+  "yahoo": "X710.MI"
  },
  "LU0290355717": {
-  "yahoo": null,
-  "nome": "Xtrackers II Eurozone Government Bond UCITS ETF 1C"
+  "nome": "Xtrackers II Eurozone Government Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGLE",
+  "yahoo": "XGLE.MI"
  },
  "LU0290358224": {
-  "yahoo": null,
-  "nome": "Xtrackers II Eurozone Inflation-Linked Bond UCITS ETF 1C"
+  "nome": "Xtrackers II Eurozone Inflation-Linked Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEIN",
+  "yahoo": "XEIN.MI"
  },
  "LU0378818131": {
-  "yahoo": null,
-  "nome": "LU0290358224"
+  "nome": "LU0290358224",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGSH",
+  "yahoo": "XGSH.MI"
  },
  "LU0690964092": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Global Government Bond UCITS ETF 1D - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGVD",
+  "yahoo": "XGVD.MI"
  },
  "LU0290357929": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Global Inflation-Linked Bond UCITS ETF 1C - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGIN",
+  "yahoo": "XGIN.MI"
  },
  "LU0908508814": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Global Inflation-Linked Bond UCITS ETF 5C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGIU",
+  "yahoo": "XGIU.MI"
  },
  "LU0908508731": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Global Government Bond UCITS ETF 5C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XG7S",
+  "yahoo": "XG7S.MI"
  },
  "LU1094612022": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Harvest China Government Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CGB",
+  "yahoo": "CGB.MI"
  },
  "LU0613540268": {
-  "yahoo": "XBOT.MI",
-  "nome": "Xtrackers II Italy Government Bond 0-1 Swap UCITS ETF 1C"
+  "nome": "Xtrackers II Italy Government Bond 0-1 Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XBOT",
+  "yahoo": "XBOT.MI"
  },
  "LU0952581584": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Japan Government Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XJSE",
+  "yahoo": "XJSE.MI"
  },
  "LU0677077884": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II J.P. Morgan USD Emerging Markets Bond UCITS ETF 2D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XUEM",
+  "yahoo": "XUEM.MI"
  },
  "LU2504532131": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II TIPS US Inflation-",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XTIP",
+  "yahoo": "XTIP.MI"
  },
  "LU0524480265": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II iBoxx Eurozone Government Bond Yield Plus UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XY4P",
+  "yahoo": "XY4P.MI"
  },
  "LU0321462953": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II J.P. Morgan USD Emerging Markets Bond UCITS ETF 1C - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEMB",
+  "yahoo": "XEMB.MI"
  },
  "LU1109939865": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Rolling Target Maturity Sept 2027 EUR High Yield UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XHY1",
+  "yahoo": "XHY1.MI"
  },
  "LU1109943388": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II EUR High Yield Corporate Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XHYA",
+  "yahoo": "XHYA.MI"
  },
  "LU0484969463": {
-  "yahoo": null,
-  "nome": "Xtrackers II Eurozone AAA Gov Bd Swap UCITS ETF"
+  "nome": "Xtrackers II Eurozone AAA Gov Bd Swap UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XBAT",
+  "yahoo": "XBAT.MI"
  },
  "LU2158769930": {
-  "yahoo": null,
-  "nome": "Xtrackers II Eurozone AAA Gov Bd Swap UCITS ETF"
+  "nome": "Xtrackers II Eurozone AAA Gov Bd Swap UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEML",
+  "yahoo": "XEML.MI"
  },
  "LU2673523218": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Target Maturity Sept 2027 EUR Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XB27",
+  "yahoo": "XB27.MI"
  },
  "LU2673523309": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Target Maturity Sept 2029 EUR Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XB29",
+  "yahoo": "XB29.MI"
  },
  "LU2673523481": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Target Maturity Sept 2031 EUR Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XB31",
+  "yahoo": "XB31.MI"
  },
  "LU2673523564": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Target Maturity Sept 2033 EUR Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XB33",
+  "yahoo": "XB33.MI"
  },
  "LU2673522913": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Target Maturity Sept 2029 EUR Corporate Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XM29",
+  "yahoo": "XM29.MI"
  },
  "LU2673523135": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Target Maturity Sept 2031 EUR Corporate Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XM31",
+  "yahoo": "XM31.MI"
  },
  "LU2673523051": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Target Maturity Se",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XM33",
+  "yahoo": "XM33.MI"
  },
  "LU2809864619": {
-  "yahoo": null,
-  "nome": ""
+  "nome": "Xtrackers II Target Maturity Sept 2034 EUR Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XB34",
+  "yahoo": "XB34.MI"
  },
  "LU0429458895": {
-  "yahoo": null,
-  "nome": "Xtrackers II US Treasuries 1-3 UCITS ETF 1D"
+  "nome": "Xtrackers II US Treasuries 1-3 UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XUT3",
+  "yahoo": "XUT3.MI"
  },
  "IE00094GSCQ4": {
-  "yahoo": null,
-  "nome": "Xtrackers World Equity Enhanced Active UCITS ETF 1C"
+  "nome": "Xtrackers World Equity Enhanced Active UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEEW",
+  "yahoo": "XEEW.MI"
  },
  "IE00002ZKAP0": {
-  "yahoo": null,
-  "nome": "Xtrackers Europe Equity Enhanced Active UCITS ETF 1C"
+  "nome": "Xtrackers Europe Equity Enhanced Active UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEEE",
+  "yahoo": "XEEE.MI"
  },
  "IE0002PGSLZ5": {
-  "yahoo": null,
-  "nome": "Xtrackers US Equity Enhanced Active UCITS ETF 1C"
+  "nome": "Xtrackers US Equity Enhanced Active UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEEU",
+  "yahoo": "XEEU.MI"
  },
  "IE000472H9T4": {
-  "yahoo": null,
-  "nome": "Xtrackers NASDAQ 100 Swap UCITS ETF 1C"
+  "nome": "Xtrackers NASDAQ 100 Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XNDQ",
+  "yahoo": "XNDQ.MI"
  },
  "LU1109941689": {
-  "yahoo": null,
-  "nome": "Xtrackers II Rolling Target Mat. Sept 2027 EUR HY UCITS ETF 1C"
+  "nome": "Xtrackers II Rolling Target Mat. Sept 2027 EUR HY UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XRTM",
+  "yahoo": "XRTM.MI"
  },
  "LU0839027447": {
-  "yahoo": null,
-  "nome": "Xtrackers Nikkei 225 UCITS ETF 1D"
+  "nome": "Xtrackers Nikkei 225 UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDJP",
+  "yahoo": "XDJP.MI"
  },
  "IE00BG04M077": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI USA UCITS ETF 2C - EUR Hedged"
+  "nome": "Xtrackers MSCI USA UCITS ETF 2C - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XD9E",
+  "yahoo": "XD9E.MI"
  },
  "LU0942970103": {
-  "yahoo": null,
-  "nome": "Xtrackers II ESG Global Aggregate Bond UCITS ETF 1D"
+  "nome": "Xtrackers II ESG Global Aggregate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XBAG",
+  "yahoo": "XBAG.MI"
  },
  "LU0942970798": {
-  "yahoo": null,
-  "nome": "Xtrackers II ESG Global Aggregate Bond UCITS ETF 5C - EUR Hedged"
+  "nome": "Xtrackers II ESG Global Aggregate Bond UCITS ETF 5C - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XBAE",
+  "yahoo": "XBAE.MI"
  },
  "LU0290356871": {
-  "yahoo": null,
-  "nome": "Xtrackers II Eurozone Government Bond 1-3 UCITS ETF 1C"
+  "nome": "Xtrackers II Eurozone Government Bond 1-3 UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "X13E",
+  "yahoo": "X13E.MI"
  },
  "LU1399300455": {
-  "yahoo": null,
-  "nome": "Xtrackers II US Treasuries UCITS ETF 2D - EUR Hedged"
+  "nome": "Xtrackers II US Treasuries UCITS ETF 2D - EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XUTE",
+  "yahoo": "XUTE.MI"
  },
  "LU0429459356": {
-  "yahoo": null,
-  "nome": "Xtrackers II US Treasuries UCITS ETF 1D"
+  "nome": "Xtrackers II US Treasuries UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XUTD",
+  "yahoo": "XUTD.MI"
  },
  "LU0321465469": {
-  "yahoo": null,
-  "nome": "Xtrackers II USD Overnight Rate Swap UCITS ETF 1C"
+  "nome": "Xtrackers II USD Overnight Rate Swap UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XFFE",
+  "yahoo": "XFFE.MI"
  },
  "LU0643975161": {
-  "yahoo": null,
-  "nome": "Xtrackers II Germany Government Bond UCITS ETF 1C"
+  "nome": "Xtrackers II Germany Government Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "X03G",
+  "yahoo": "X03G.MI"
  },
  "LU2673522830": {
-  "yahoo": null,
-  "nome": "Xtrackers II Target Maturity Sept 2027 EUR Corporate Bond UCITS ETF 1C"
+  "nome": "Xtrackers II Target Maturity Sept 2027 EUR Corporate Bond UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XM27",
+  "yahoo": "XM27.MI"
  },
  "LU2810185665": {
-  "yahoo": null,
-  "nome": "Xtrackers II Target Maturity Sept 2028 EUR Corporate Bond UCITS ETF 1D"
+  "nome": "Xtrackers II Target Maturity Sept 2028 EUR Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XB28",
+  "yahoo": "XB28.MI"
  },
  "LU2809864296": {
-  "yahoo": null,
-  "nome": "Xtrackers II Target Maturity Sept 2030 EUR Corporate Bond UCITS ETF 1D"
+  "nome": "Xtrackers II Target Maturity Sept 2030 EUR Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XB30",
+  "yahoo": "XB30.MI"
  },
  "LU2809864452": {
-  "yahoo": null,
-  "nome": "Xtrackers II Target Maturity Sept 2032 EUR Corporate Bond UCITS ETF 1D"
+  "nome": "Xtrackers II Target Maturity Sept 2032 EUR Corporate Bond UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XB32",
+  "yahoo": "XB32.MI"
  },
  "LU3116008346": {
-  "yahoo": null,
-  "nome": "Xtrackers Diversified Portfolio 20% Equity UCITS ETF"
+  "nome": "Xtrackers Diversified Portfolio 20% Equity UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEQ2",
+  "yahoo": "XEQ2.MI"
  },
  "LU3116008429": {
-  "yahoo": null,
-  "nome": "Xtrackers Diversified Portfolio 40% Equity UCITS ETF"
+  "nome": "Xtrackers Diversified Portfolio 40% Equity UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEQ4",
+  "yahoo": "XEQ4.MI"
  },
  "LU3116008692": {
-  "yahoo": null,
-  "nome": "Xtrackers Diversified Portfolio 60% Equity UCITS ETF"
+  "nome": "Xtrackers Diversified Portfolio 60% Equity UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEQ6",
+  "yahoo": "XEQ6.MI"
  },
  "LU3116008775": {
-  "yahoo": null,
-  "nome": "Xtrackers Diversified Portfolio 80% Equity UCITS ETF"
+  "nome": "Xtrackers Diversified Portfolio 80% Equity UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XEQ8",
+  "yahoo": "XEQ8.MI"
  },
  "IE000F04HGE5": {
-  "yahoo": null,
-  "nome": "Xtrackers Floating Rate Notes Active UCITS ETF"
+  "nome": "Xtrackers Floating Rate Notes Active UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XFLN",
+  "yahoo": "XFLN.MI"
  },
  "LU3061478973": {
-  "yahoo": null,
-  "nome": "Xtrackers Europe Defence Technologies UCITS ETF 1C"
+  "nome": "Xtrackers Europe Defence Technologies UCITS ETF 1C",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XDEF",
+  "yahoo": "XDEF.MI"
  },
  "LU0292096186": {
-  "yahoo": null,
-  "nome": "Xtrackers Stoxx Global Select Dividend 100 Swap UCITS ETF 1D"
+  "nome": "Xtrackers Stoxx Global Select Dividend 100 Swap UCITS ETF 1D",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGSD",
+  "yahoo": "XGSD.MI"
  },
  "IE000L6ZMMC4": {
-  "yahoo": null,
-  "nome": "Xtrackers FTSE All-World UCITS ETF"
+  "nome": "Xtrackers FTSE All-World UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ALLW",
+  "yahoo": "ALLW.MI"
  },
  "IE000YKHGYN2": {
-  "yahoo": null,
-  "nome": "Xtrackers FTSE All-World ex US UCITS ETF"
+  "nome": "Xtrackers FTSE All-World ex US UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AWEX",
+  "yahoo": "AWEX.MI"
  },
  "IE000X1GW0A7": {
-  "yahoo": null,
-  "nome": "Xtrackers MSCI World IMI UCITS ETF"
+  "nome": "Xtrackers MSCI World IMI UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WIMI",
+  "yahoo": "WIMI.MI"
  },
  "IE000O7Q2E56": {
-  "yahoo": null,
-  "nome": "Xtrackers Electrification Technologies & Smart Grid UCITS ETF"
+  "nome": "Xtrackers Electrification Technologies & Smart Grid UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WIRE",
+  "yahoo": "WIRE.MI"
  },
  "IE000M8F3JA6": {
-  "yahoo": null,
-  "nome": "Xtrackers Global Growth Leaders Active UCITS ETF"
+  "nome": "Xtrackers Global Growth Leaders Active UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XGLA",
+  "yahoo": "XGLA.MI"
  },
  "IE000X4A4GV2": {
-  "yahoo": null,
-  "nome": "Xtrackers Global Equity Top Active UCITS ETF"
+  "nome": "Xtrackers Global Equity Top Active UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XTAX",
+  "yahoo": "XTAX.MI"
  },
  "IE00B4L5Y983": {
-  "yahoo": null,
-  "nome": "iShares Core MSCI World UCITS ETF"
+  "nome": "iShares Core MSCI World UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "SWDA",
+  "yahoo": "SWDA.MI"
  },
  "IE000JJPY166": {
-  "yahoo": null,
-  "nome": "iShares € Cash UCITS ETF EUR (Acc)"
+  "nome": "iShares € Cash UCITS ETF EUR (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "YCSH",
+  "yahoo": "YCSH.MI"
  },
  "IE000P1IQS65": {
-  "yahoo": "WOEH.MI",
-  "nome": "iShares World Equity Enhanced Active UCITS ETF EUR Hedged (Acc)"
+  "nome": "iShares World Equity Enhanced Active UCITS ETF EUR Hedged (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WOEH",
+  "yahoo": "WOEH.MI"
  },
  "IE00BLLZQ805": {
-  "yahoo": null,
-  "nome": "iShares Growth Portfolio UCITS ETF EUR (Acc)"
+  "nome": "iShares Growth Portfolio UCITS ETF EUR (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MAGR",
+  "yahoo": "MAGR.MI"
  },
  "IE00BLP53M98": {
-  "yahoo": null,
-  "nome": "iShares Conservative Portfolio UCITS ETF EUR (Acc)"
+  "nome": "iShares Conservative Portfolio UCITS ETF EUR (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MACV",
+  "yahoo": "MACV.MI"
  },
  "IE00BLLZQS08": {
-  "yahoo": null,
-  "nome": "iShares Moderate Portfolio UCITS ETF EUR (Acc)"
+  "nome": "iShares Moderate Portfolio UCITS ETF EUR (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MODR",
+  "yahoo": "MODR.MI"
  },
  "IE00BYZK4883": {
-  "yahoo": null,
-  "nome": "iShares Digitalisation UCITS ETF USD (Acc)"
+  "nome": "iShares Digitalisation UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "DGTL",
+  "yahoo": "DGTL.MI"
  },
  "IE000IAXNM41": {
-  "yahoo": null,
-  "nome": "iShares Europe Defence UCITS ETF EUR (Acc)"
+  "nome": "iShares Europe Defence UCITS ETF EUR (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE00BJ5JP212": {
-  "yahoo": null,
-  "nome": "Trend dei consumi"
+  "nome": "Trend dei consumi",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE00BG0J4C88": {
-  "yahoo": null,
-  "nome": "iShares Digital Security UCITS ETF"
+  "nome": "iShares Digital Security UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "LOCK",
+  "yahoo": "LOCK.MI"
  },
  "IE000ROSD5J6": {
-  "yahoo": null,
-  "nome": "iShares Essential Metals Producers UCITS ETF USD (Acc)"
+  "nome": "iShares Essential Metals Producers UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "METL",
+  "yahoo": "METL.MI"
  },
  "IE000U58J0M1": {
-  "yahoo": null,
-  "nome": "iShares Global Clean Energy Transition UCITS ETF USD (Acc)"
+  "nome": "iShares Global Clean Energy Transition UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE000A9G9R73": {
-  "yahoo": null,
-  "nome": "iShares Space Technologies UCITS ETF USD (Acc)"
+  "nome": "iShares Space Technologies UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ST4R",
+  "yahoo": "ST4R.MI"
  },
  "IE000X59ZHE2": {
-  "yahoo": null,
-  "nome": "iShares AI Infrastructure UCITS ETF USD (Acc)"
+  "nome": "iShares AI Infrastructure UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AINF",
+  "yahoo": "AINF.MI"
  },
  "IE0009QS7W62": {
-  "yahoo": null,
-  "nome": "iShares Healthcare Innovation UCITS ETF USD (Acc)"
+  "nome": "iShares Healthcare Innovation UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE00BYZK4669": {
-  "yahoo": null,
-  "nome": "iShares Ageing Population UCITS ETF USD (Acc)"
+  "nome": "iShares Ageing Population UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AGED",
+  "yahoo": "AGED.MI"
  },
  "IE00BYZK4776": {
-  "yahoo": null,
-  "nome": "iShares MSCI World Health Care Sector Advanced UCITS ETF USD (Acc)"
+  "nome": "iShares MSCI World Health Care Sector Advanced UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "HEAL",
+  "yahoo": "HEAL.MI"
  },
  "IE00B6R52143": {
-  "yahoo": null,
-  "nome": "iShares Agribusiness UCITS ETF USD (Acc)"
+  "nome": "iShares Agribusiness UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ISAG",
+  "yahoo": "ISAG.MI"
  },
  "IE00023EZQ82": {
-  "yahoo": null,
-  "nome": "iShares Digital Entertainment and Education UCITS ETF USD (Acc)"
+  "nome": "iShares Digital Entertainment and Education UCITS ETF USD (Acc)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681045537": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World Ex Europe UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI World Ex Europe UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1691909508": {
-  "yahoo": null,
-  "nome": "Amundi Global Gender Equality UCITS ETF Acc"
+  "nome": "Amundi Global Gender Equality UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681048713": {
-  "yahoo": null,
-  "nome": "Amundi S&P Global Luxury UCITS ETF - USD (C)"
+  "nome": "Amundi S&P Global Luxury UCITS ETF - USD (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "DE000ETF9082": {
-  "yahoo": null,
-  "nome": "Amundi TecDAX UCITS ETF Dist"
+  "nome": "Amundi TecDAX UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0010821819": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe Ex EMU ESG Selection UCITS ETF Acc"
+  "nome": "Amundi MSCI Europe Ex EMU ESG Selection UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1834983634": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Basic Materials UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Basic Materials UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CHM",
+  "yahoo": "CHM.MI"
  },
  "LU2082997516": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Healthcare UCITS ETF Dist"
+  "nome": "Amundi STOXX Europe 600 Healthcare UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2082999215": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Utilities UCITS ETF Dist"
+  "nome": "Amundi STOXX Europe 600 Utilities UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0011857234": {
-  "yahoo": null,
-  "nome": "Amundi MDAX UCITS ETF Dist"
+  "nome": "Amundi MDAX UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681038326": {
-  "yahoo": null,
-  "nome": "Amundi NASDAQ-100 UCITS ETF - USD (C)"
+  "nome": "Amundi NASDAQ-100 UCITS ETF - USD (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2269164310": {
-  "yahoo": null,
-  "nome": "Equity"
+  "nome": "Equity",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681046345": {
-  "yahoo": null,
-  "nome": "Fixed Income"
+  "nome": "Fixed Income",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "X13G",
+  "yahoo": "X13G.MI"
  },
  "LU1650487926": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond 1-3Y UCITS ETF Dist"
+  "nome": "Amundi Euro Government Bond 1-3Y UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1650488817": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond 3-5Y UCITS ETF Dist"
+  "nome": "Amundi Euro Government Bond 3-5Y UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2090062949": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond 7-10Y UCITS ETF Dist"
+  "nome": "Amundi Euro Government Bond 7-10Y UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2090062782": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond 15+Y UCITS ETF Dist"
+  "nome": "Amundi Euro Government Bond 15+Y UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1686831030": {
-  "yahoo": "EMBHI.MI",
-  "nome": "Amundi Index Solutions - Amundi USD Emerging Markets Government Bond UCITS ETF EUR Hedged Dist"
+  "nome": "Amundi J.P. Morgan USD Emerging Markets Bond UCITS ETF EUR Hedged Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMBHI",
+  "yahoo": "EMBHI.MI"
  },
  "LU2099296274": {
-  "yahoo": "GHYEH.MI",
-  "nome": "Amundi Global High Yield Corporate Bond ESG Monthly Hedged to EUR Acc"
+  "nome": "Fixed Income",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "GHYEH",
+  "yahoo": "GHYEH.MI"
  },
  "LU1435356495": {
-  "yahoo": null,
-  "nome": "Amundi USD High Yield Corporate Bond ESG UCITS ETF EUR Hedged Dist"
+  "nome": "Amundi USD High Yield Corporate Bond ESG UCITS ETF EUR Hedged Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USYH",
+  "yahoo": "USYH.MI"
  },
  "LU1563454823": {
-  "yahoo": null,
-  "nome": "Amundi Global Aggregate Green Bond UCITS ETF EUR Hedged Acc"
+  "nome": "Amundi Global Aggregate Green Bond UCITS ETF EUR Hedged Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0010315770": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World II UCITS ETF Dist"
+  "nome": "Amundi MSCI World II UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WLD",
+  "yahoo": "WLD.MI"
  },
  "FR0011660927": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World II UCITS ETF EUR Hedged Dist"
+  "nome": "Amundi MSCI World II UCITS ETF EUR Hedged Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WLDH",
+  "yahoo": "WLDH.MI"
  },
  "FR0010756114": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World Ex EMU UCITS ETF"
+  "nome": "Amundi MSCI World Ex EMU UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CM9",
+  "yahoo": "CM9.MI"
  },
  "FR0007075494": {
-  "yahoo": null,
-  "nome": "Amundi DJ Global Titans 50 UCITS ETF Dist"
+  "nome": "Amundi DJ Global Titans 50 UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MGT",
+  "yahoo": "MGT.MI"
  },
  "LU1829220216": {
-  "yahoo": null,
-  "nome": "Amundi MSCI All Country World UCITS ETF EUR Acc"
+  "nome": "Amundi MSCI All Country World UCITS ETF EUR Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ACWI",
+  "yahoo": "ACWI.MI"
  },
  "FR0014003IY1": {
-  "yahoo": "WLDC.MI",
-  "nome": "Amundi MSCI World Swap II UCITS ETF Acc"
+  "nome": "Amundi MSCI World II UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WLDC",
+  "yahoo": "WLDC.MI"
  },
  "FR0014003N93": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World II UCITS ETF EUR Hedged Acc"
+  "nome": "Amundi MSCI World II UCITS ETF EUR Hedged Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0013209921": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World Ex EMU SRI Climate Paris Aligned UCITS ETF Acc"
+  "nome": "Amundi MSCI World Ex EMU SRI Climate Paris Aligned UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WLDX",
+  "yahoo": "WLDX.MI"
  },
  "LU1681043599": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI World UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CW8",
+  "yahoo": "CW8.MI"
  },
  "LU0533032859": {
-  "yahoo": "FINSW.MI",
-  "nome": "Amundi MSCI World Financials UCITS ETF EUR Acc"
+  "nome": "Amundi MSCI World Financials UCITS ETF EUR Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FINSW",
+  "yahoo": "FINSW.MI"
  },
  "LU1832418773": {
-  "yahoo": null,
-  "nome": "Amundi FTSE EPRA NAREIT Global Developed - UCITS ETF Dist"
+  "nome": "Amundi FTSE EPRA NAREIT Global Developed - UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "REWLD",
+  "yahoo": "REWLD.MI"
  },
  "LU0533033667": {
-  "yahoo": "TNOW.MI",
-  "nome": "Amundi MSCI World Information Technology UCITS ETF EUR Acc"
+  "nome": "Amundi MSCI World Information Technology UCITS ETF EUR Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "TNOW",
+  "yahoo": "TNOW.MI"
  },
  "LU0533033238": {
-  "yahoo": "HLTW.MI",
-  "nome": "Amundi MSCI World Health Care UCITS ETF EUR Acc"
+  "nome": "Amundi MSCI World Health Care UCITS ETF EUR Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "HLTW",
+  "yahoo": "HLTW.MI"
  },
  "LU0832436512": {
-  "yahoo": null,
-  "nome": "Amundi Global Equity Quality Income UCITS ETF Dist"
+  "nome": "Amundi Global Equity Quality Income UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681046006": {
-  "yahoo": null,
-  "nome": "Amundi Global Bioenergy UCITS ETF EUR Acc"
+  "nome": "Amundi Global Bioenergy UCITS ETF EUR Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CWE",
+  "yahoo": "CWE.MI"
  },
  "LU2023678449": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Millennials UCITS ETF Acc"
+  "nome": "Amundi MSCI Millennials UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MILL",
+  "yahoo": "MILL.MI"
  },
  "FR0014002CH1": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Water UCITS ETF Acc"
+  "nome": "Amundi MSCI Water UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WATC",
+  "yahoo": "WATC.MI"
  },
  "FR0010524777": {
-  "yahoo": null,
-  "nome": "Amundi MSCI New Energy UCITS ETF Dist"
+  "nome": "Amundi MSCI New Energy UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ENER",
+  "yahoo": "ENER.MI"
  },
  "LU2023678878": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Digital Economy UCITS ETF Acc"
+  "nome": "Amundi MSCI Digital Economy UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EBUY",
+  "yahoo": "EBUY.MI"
  },
  "FR0010930644": {
-  "yahoo": null,
-  "nome": "Amundi Global Hydrogen UCITS ETF - Acc"
+  "nome": "Amundi Global Hydrogen UCITS ETF - Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0010527275": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Water UCITS ETF Dist"
+  "nome": "Amundi MSCI Water UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WAT",
+  "yahoo": "WAT.MI"
  },
  "LU1900066033": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Semiconductors UCITS ETF Acc"
+  "nome": "Amundi MSCI Semiconductors UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CHIP",
+  "yahoo": "CHIP.MI"
  },
  "FR0014002CG3": {
-  "yahoo": "NRJC.MI",
-  "nome": "Amundi MSCI New Energy UCITS ETF Acc"
+  "nome": "Amundi MSCI New Energy UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NRJC",
+  "yahoo": "NRJC.MI"
  },
  "LU2023679090": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Smart Mobility UCITS ETF Acc"
+  "nome": "Amundi MSCI Smart Mobility UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ELCR",
+  "yahoo": "ELCR.MI"
  },
  "LU2023678282": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Disruptive Technology UCITS ETF Acc"
+  "nome": "Amundi MSCI Disruptive Technology UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "UNIC",
+  "yahoo": "UNIC.MI"
  },
  "LU2216829809": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World Catholic Principles UCITS ETF Acc"
+  "nome": "Amundi MSCI World Catholic Principles UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CATH",
+  "yahoo": "CATH.MI"
  },
  "LU1681048630": {
-  "yahoo": "GLUX.MI",
-  "nome": "Amundi Index Solutions - Amundi Global Luxury UCITS ETF EUR Acc"
+  "nome": "Amundi S&P Global Luxury UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "GLUX",
+  "yahoo": "GLUX.MI"
  },
  "LU0252633754": {
-  "yahoo": null,
-  "nome": "Amundi DAX III UCITS ETF Acc"
+  "nome": "Amundi DAX III UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "DAXX",
+  "yahoo": "DAXX.MI"
  },
  "FR0007052782": {
-  "yahoo": null,
-  "nome": "Amundi CAC 40 UCITS ETF Dist"
+  "nome": "Amundi CAC 40 UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0010010827": {
-  "yahoo": null,
-  "nome": "Amundi FTSE MIB UCITS ETF Dist"
+  "nome": "Amundi FTSE MIB UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ETFMIB",
+  "yahoo": "ETFMIB.MI"
  },
  "LU2240851688": {
-  "yahoo": null,
-  "nome": "Amundi DAX 50 ESG UCITS ETF DR - EUR (C)"
+  "nome": "Amundi DAX 50 ESG UCITS ETF DR - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "DAXESG",
+  "yahoo": "DAXESG.MI"
  },
  "LU1681046931": {
-  "yahoo": null,
-  "nome": "Amundi CAC 40 ESG UCITS ETF DR - EUR (C)"
+  "nome": "Amundi CAC 40 ESG UCITS ETF DR - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "C40",
+  "yahoo": "C40.MI"
  },
  "LU1681044993": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Switzerland UCITS ETF - CHF (C)"
+  "nome": "Amundi MSCI Switzerland UCITS ETF - CHF (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2090062436": {
-  "yahoo": null,
-  "nome": "Amundi DAX III UCITS ETF Dist"
+  "nome": "Amundi DAX III UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681047079": {
-  "yahoo": null,
-  "nome": "Amundi CAC 40 ESG UCITS ETF DR - EUR (D)"
+  "nome": "Amundi CAC 40 ESG UCITS ETF DR - EUR (D)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0013380607": {
-  "yahoo": null,
-  "nome": "Amundi CAC 40 UCITS ETF Acc"
+  "nome": "Amundi CAC 40 UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681044720": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Switzerland UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI Switzerland UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0010251744": {
-  "yahoo": null,
-  "nome": "Amundi IBEX 35 UCITS ETF Dist"
+  "nome": "Amundi IBEX 35 UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0010655746": {
-  "yahoo": null,
-  "nome": "Amundi IBEX 35 UCITS ETF Acc"
+  "nome": "Amundi IBEX 35 UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0014002H76": {
-  "yahoo": null,
-  "nome": "Amundi FTSE MIB UCITS ETF Acc"
+  "nome": "Amundi FTSE MIB UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MIBA",
+  "yahoo": "MIBA.MI"
  },
  "LU2195226068": {
-  "yahoo": null,
-  "nome": "Amundi S&P Eurozone Climate Paris Aligned UCITS ETF Acc"
+  "nome": "Amundi S&P Eurozone Climate Paris Aligned UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "PABEZ",
+  "yahoo": "PABEZ.MI"
  },
  "LU1602144575": {
-  "yahoo": null,
-  "nome": "Amundi MSCI EMU ESG Selection UCITS ETF DR - EUR (C)"
+  "nome": "Amundi MSCI EMU ESG Selection UCITS ETF DR - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CMU",
+  "yahoo": "CMU.MI"
  },
  "LU2182388582": {
-  "yahoo": null,
-  "nome": "Amundi MSCI EMU Climate Paris Aligned UCITS ETF Acc"
+  "nome": "Amundi MSCI EMU Climate Paris Aligned UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2109787635": {
-  "yahoo": null,
-  "nome": "Amundi MSCI EMU SRI Climate Paris Aligned UCITS ETF DR (C)"
+  "nome": "Amundi MSCI EMU SRI Climate Paris Aligned UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CMUSRI",
+  "yahoo": "CMUSRI.MI"
  },
  "FR0007054358": {
-  "yahoo": null,
-  "nome": "Amundi EURO STOXX 50 II UCITS ETF Acc"
+  "nome": "Amundi EURO STOXX 50 II UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MSE",
+  "yahoo": "MSE.MI"
  },
  "LU1861137484": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe SRI Climate Paris Aligned UCITS ETF DR (C)"
+  "nome": "Amundi MSCI Europe SRI Climate Paris Aligned UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EUSRI",
+  "yahoo": "EUSRI.MI"
  },
  "LU1940199711": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe ESG Selection UCITS ETF Acc"
+  "nome": "Amundi MSCI Europe ESG Selection UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ESGE",
+  "yahoo": "ESGE.MI"
  },
  "LU1681042609": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe ESG Broad Transition UCITS ETF DR - EUR (C)"
+  "nome": "Amundi MSCI Europe ESG Broad Transition UCITS ETF DR - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CEU",
+  "yahoo": "CEU.MI"
  },
  "LU1681044647": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Nordic UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI Nordic UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CN1",
+  "yahoo": "CN1.MI"
  },
  "LU2130768844": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe Climate Paris Aligned UCITS ETF Acc"
+  "nome": "Amundi MSCI Europe Climate Paris Aligned UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "LWCE",
+  "yahoo": "LWCE.MI"
  },
  "FR0010261198": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe II UCITS ETF Acc"
+  "nome": "Amundi MSCI Europe II UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MEU",
+  "yahoo": "MEU.MI"
  },
  "FR0010790980": {
-  "yahoo": null,
-  "nome": "Amundi Stoxx Europe 50 UCITS ETF"
+  "nome": "Amundi Stoxx Europe 50 UCITS ETF",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2059756598": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe SRI Climate Paris Aligned UCITS ETF DR (D)"
+  "nome": "Amundi MSCI Europe SRI Climate Paris Aligned UCITS ETF DR (D)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EDSRI",
+  "yahoo": "EDSRI.MI"
  },
  "DE000ETF9603": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 ESG II UCITS ETF Dist"
+  "nome": "Amundi STOXX Europe 600 ESG II UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1940199984": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe ESG Selection UCITS ETF EUR Hedged Acc"
+  "nome": "Amundi MSCI Europe ESG Selection UCITS ETF EUR Hedged Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ESGH",
+  "yahoo": "ESGH.MI"
  },
  "LU1834988278": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Energy Screened UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Energy Screened UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ENRG",
+  "yahoo": "ENRG.MI"
  },
  "LU1834986900": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Healthcare UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Healthcare UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "HLT",
+  "yahoo": "HLT.MI"
  },
  "LU1812091194": {
-  "yahoo": null,
-  "nome": "Amundi FTSE Epra Europe Real Estate UCITS ETF - EUR (D)"
+  "nome": "Amundi FTSE Epra Europe Real Estate UCITS ETF - EUR (D)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "REEU",
+  "yahoo": "REEU.MI"
  },
  "LU1834988781": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Consumer Discretionary UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Consumer Discretionary UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "TRVL",
+  "yahoo": "TRVL.MI"
  },
  "LU1834987973": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Insurance UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Insurance UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "INS",
+  "yahoo": "INS.MI"
  },
  "LU1834983477": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Banks UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Banks UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "BNK",
+  "yahoo": "BNK.MI"
  },
  "LU1834987890": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Industrials UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Industrials UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "INDG",
+  "yahoo": "INDG.MI"
  },
  "LU1834988518": {
-  "yahoo": "TNO.MI",
-  "nome": "Multi Units Luxembourg - Amundi STOXX Europe 600 Technology UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Technology UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "TNO",
+  "yahoo": "TNO.MI"
  },
  "LU1681039480": {
-  "yahoo": "EPRE.MI",
-  "nome": "Amundi Index Solutions - Amundi FTSE EPRA Europe Real Estate UCITS ETF-C"
+  "nome": "Amundi FTSE Epra Europe Real Estate UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EPRE",
+  "yahoo": "EPRE.MI"
  },
  "LU1834988864": {
-  "yahoo": "UTI.MI",
-  "nome": "Multi Units Luxembourg - Amundi STOXX Europe 600 Utilities UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Utilities UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "UTI",
+  "yahoo": "UTI.MI"
  },
  "LU1834988609": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Telecommunications UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Telecommunications UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "TELE",
+  "yahoo": "TELE.MI"
  },
  "LU1829219390": {
-  "yahoo": null,
-  "nome": "Amundi Euro Stoxx Banks UCITS ETF Acc"
+  "nome": "Amundi Euro Stoxx Banks UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "BNKE",
+  "yahoo": "BNKE.MI"
  },
  "LU2082998167": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Energy Screened UCITS ETF Dist"
+  "nome": "Amundi STOXX Europe 600 Energy Screened UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2082996112": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Banks UCITS ETF Dist"
+  "nome": "Amundi STOXX Europe 600 Banks UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1834985845": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Consumer Staples UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Consumer Staples UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FOO",
+  "yahoo": "FOO.MI"
  },
  "LU1834983550": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Basic Resources UCITS ETF Acc"
+  "nome": "Amundi STOXX Europe 600 Basic Resources UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "BRES",
+  "yahoo": "BRES.MI"
  },
  "LU2082997946": {
-  "yahoo": null,
-  "nome": "Amundi STOXX Europe 600 Insurance UCITS ETF Dist"
+  "nome": "Amundi STOXX Europe 600 Insurance UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1812092168": {
-  "yahoo": null,
-  "nome": "Amundi Stoxx Europe Select Dividend 30 - UCITS ETF Dist"
+  "nome": "Amundi Stoxx Europe Select Dividend 30 - UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "SEL",
+  "yahoo": "SEL.MI"
  },
  "LU1681042518": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe Value Factor UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI Europe Value Factor UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "VCEU",
+  "yahoo": "VCEU.MI"
  },
  "LU1598688189": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe Growth UCITS ETF Dist"
+  "nome": "Amundi MSCI Europe Growth UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "GWT",
+  "yahoo": "GWT.MI"
  },
  "LU0959210781": {
-  "yahoo": null,
-  "nome": "Amundi S&P Eurozone Dividend Aristocrat Screened UCITS ETF Acc"
+  "nome": "Amundi S&P Eurozone Dividend Aristocrat Screened UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1598690169": {
-  "yahoo": "VAL.MI",
-  "nome": "Amundi MSCI EMU Value Factor ETF Distribution"
+  "nome": "Amundi MSCI EMU Value Factor UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "VAL",
+  "yahoo": "VAL.MI"
  },
  "DE000ETF9033": {
-  "yahoo": null,
-  "nome": "Amundi DivDax II UCITS ETF Dist"
+  "nome": "Amundi DivDax II UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681041973": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe High Dividend Factor UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI Europe High Dividend Factor UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681041890": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe Quality Factor UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI Europe Quality Factor UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "QCEU",
+  "yahoo": "QCEU.MI"
  },
  "LU1681041627": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe Minimum Volatility Factor UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI Europe Minimum Volatility Factor UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681042435": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe Growth UCITS ETF Acc"
+  "nome": "Amundi MSCI Europe Growth UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681041460": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Europe Momentum Factor UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI Europe Momentum Factor UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1598689153": {
-  "yahoo": "MMS.MI",
-  "nome": "Amundi MSCI EMU Small Cap ESG Broad Transition UCITS ETF DIST"
+  "nome": "Amundi MSCI EMU Small Cap ESG Broad Transition UCITS ETF DIST",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MMS",
+  "yahoo": "MMS.MI"
  },
  "FR0007056841": {
-  "yahoo": null,
-  "nome": "Amundi Dow Jones Industrial Average UCITS ETF Dist"
+  "nome": "Amundi Dow Jones Industrial Average UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "DJE",
+  "yahoo": "DJE.MI"
  },
  "LU1681049018": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 UCITS ETF - USD (C)"
+  "nome": "Amundi S&P 500 UCITS ETF - USD (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681038599": {
-  "yahoo": null,
-  "nome": "Amundi NASDAQ-100 UCITS ETF - Daily Hedged EUR (C)"
+  "nome": "Amundi NASDAQ-100 UCITS ETF - Daily Hedged EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NDXH",
+  "yahoo": "NDXH.MI"
  },
  "LU1829221024": {
-  "yahoo": null,
-  "nome": "Amundi Nasdaq-100 II UCITS ETF Acc"
+  "nome": "Amundi Nasdaq-100 II UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "UST",
+  "yahoo": "UST.MI"
  },
  "LU1681049109": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 UCITS ETF - DAILY HEDGED EUR (C)"
+  "nome": "Amundi S&P 500 UCITS ETF - DAILY HEDGED EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "500H",
+  "yahoo": "500H.MI"
  },
  "LU1681048804": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 UCITS ETF - EUR (C)"
+  "nome": "Amundi S&P 500 UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "A500",
+  "yahoo": "A500.MI"
  },
  "LU2197908721": {
-  "yahoo": null,
-  "nome": "Amundi Nasdaq-100 II UCITS ETF Dist"
+  "nome": "Amundi Nasdaq-100 II UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681038243": {
-  "yahoo": null,
-  "nome": "Amundi NASDAQ-100 UCITS ETF - EUR (C)"
+  "nome": "Amundi NASDAQ-100 UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ANX",
+  "yahoo": "ANX.MI"
  },
  "LU1589349734": {
-  "yahoo": null,
-  "nome": "Amundi MSCI USA Minimum Volatility Factor UCITS ETF (C)"
+  "nome": "Amundi MSCI USA Minimum Volatility Factor UCITS ETF (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681038672": {
-  "yahoo": null,
-  "nome": "Amundi Russell 2000 UCITS ETF - EUR (C)"
+  "nome": "Amundi Russell 2000 UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "RS2K",
+  "yahoo": "RS2K.MI"
  },
  "LU1681048127": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 Buyback UCITS ETF - EUR (C)"
+  "nome": "Amundi S&P 500 Buyback UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "B500",
+  "yahoo": "B500.MI"
  },
  "FR0010245514": {
-  "yahoo": null,
-  "nome": "Amundi Japan TOPIX II UCITS ETF EUR Dist"
+  "nome": "Amundi Japan TOPIX II UCITS ETF EUR Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "JPN",
+  "yahoo": "JPN.MI"
  },
  "LU0496786905": {
-  "yahoo": null,
-  "nome": "Amundi Australia S&P/ASX 200 UCITS ETF Dist"
+  "nome": "Amundi Australia S&P/ASX 200 UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AUST",
+  "yahoo": "AUST.MI"
  },
  "LU1602144732": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Japan ESG Broad Transition UCITS ETF EUR Acc"
+  "nome": "Amundi MSCI Japan ESG Broad Transition UCITS ETF EUR Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CJ1",
+  "yahoo": "CJ1.MI"
  },
  "LU1681037864": {
-  "yahoo": null,
-  "nome": "Amundi Japan Topix UCITS ETF - DAILY HEDGED EUR (C)"
+  "nome": "Amundi Japan Topix UCITS ETF - DAILY HEDGED EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "TPXH",
+  "yahoo": "TPXH.MI"
  },
  "FR0011475078": {
-  "yahoo": null,
-  "nome": "Amundi Japan TOPIX II UCITS ETF EUR Hedged Dist"
+  "nome": "Amundi Japan TOPIX II UCITS ETF EUR Hedged Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "JPNH",
+  "yahoo": "JPNH.MI"
  },
  "LU1681038912": {
-  "yahoo": null,
-  "nome": "Amundi JPX-Nikkei 400 UCITS ETF - EUR (C)"
+  "nome": "Amundi JPX-Nikkei 400 UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681039134": {
-  "yahoo": null,
-  "nome": "Amundi JPX-Nikkei 400 UCITS ETF - DAILY HEDGED EUR (C)"
+  "nome": "Amundi JPX-Nikkei 400 UCITS ETF - DAILY HEDGED EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1900068328": {
-  "yahoo": null,
-  "nome": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc"
+  "nome": "Amundi MSCI AC Asia Pacific Ex Japan UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AEJ",
+  "yahoo": "AEJ.MI"
  },
  "LU1900068161": {
-  "yahoo": null,
-  "nome": "Amundi MSCI AC Asia Ex Japan UCITS ETF Acc"
+  "nome": "Amundi MSCI AC Asia Ex Japan UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "APEX",
+  "yahoo": "APEX.MI"
  },
  "LU2009202107": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Emerging Ex China UCITS ETF Acc"
+  "nome": "Amundi MSCI Emerging Ex China UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMXC",
+  "yahoo": "EMXC.MI"
  },
  "LU2109787049": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Emerging Markets ESG Broad Transition UCITS ETF DR (C)"
+  "nome": "Amundi MSCI Emerging Markets ESG Broad Transition UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CLEM",
+  "yahoo": "CLEM.MI"
  },
  "LU1861138961": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Emerging Markets SRI Climate Paris Aligned UCITS ETF DR (C)"
+  "nome": "Amundi MSCI Emerging Markets SRI Climate Paris Aligned UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMSRI",
+  "yahoo": "EMSRI.MI"
  },
  "LU2109787551": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Emerging Markets ESG Selection UCITS ETF DR (C)"
+  "nome": "Amundi MSCI Emerging Markets ESG Selection UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMESG",
+  "yahoo": "EMESG.MI"
  },
  "FR0010429068": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Emerging Markets III UCITS ETF EUR Acc"
+  "nome": "Amundi MSCI Emerging Markets III UCITS ETF EUR Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMKT",
+  "yahoo": "EMKT.MI"
  },
  "LU1900068914": {
-  "yahoo": null,
-  "nome": "Amundi MSCI China ESG Selection Extra UCITS ETF Acc"
+  "nome": "Amundi MSCI China ESG Selection Extra UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CINA",
+  "yahoo": "CINA.MI"
  },
  "LU1900067940": {
-  "yahoo": null,
-  "nome": "Amundi MSCI China ESG Selection Extra UCITS ETF Dist"
+  "nome": "Amundi MSCI China ESG Selection Extra UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "HK",
+  "yahoo": "HK.MI"
  },
  "LU1681043086": {
-  "yahoo": null,
-  "nome": "Amundi MSCI India UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI India UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CI2",
+  "yahoo": "CI2.MI"
  },
  "LU1900066975": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Korea UCITS ETF Acc"
+  "nome": "Amundi MSCI Korea UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "KOR",
+  "yahoo": "KOR.MI"
  },
  "LU1900065811": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Indonesia UCITS ETF Acc"
+  "nome": "Amundi MSCI Indonesia UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "INDO",
+  "yahoo": "INDO.MI"
  },
  "LU1900067601": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Turkey UCITS ETF Acc"
+  "nome": "Amundi MSCI Turkey UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "TUR",
+  "yahoo": "TUR.MI"
  },
  "FR0011720911": {
-  "yahoo": null,
-  "nome": "Amundi MSCI China A UCITS ETF Acc"
+  "nome": "Amundi MSCI China A UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CNAA",
+  "yahoo": "CNAA.MI"
  },
  "FR0010405431": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Greece UCITS ETF Dist"
+  "nome": "Amundi MSCI Greece UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "GRC",
+  "yahoo": "GRC.MI"
  },
  "FR0010361683": {
-  "yahoo": null,
-  "nome": "Amundi MSCI India II UCITS ETF EUR Acc"
+  "nome": "Amundi MSCI India II UCITS ETF EUR Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "INDI",
+  "yahoo": "INDI.MI"
  },
  "LU1900066207": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Brazil UCITS ETF Acc"
+  "nome": "Amundi MSCI Brazil UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "BRA",
+  "yahoo": "BRA.MI"
  },
  "LU1900066462": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Eastern Europe Ex Russia UCITS ETF Acc"
+  "nome": "Amundi MSCI Eastern Europe Ex Russia UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EST",
+  "yahoo": "EST.MI"
  },
  "LU1681044480": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Em Asia UCITS ETF - EUR (C)"
+  "nome": "Amundi MSCI Em Asia UCITS ETF - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AASI",
+  "yahoo": "AASI.MI"
  },
  "LU1287022708": {
-  "yahoo": "LAFRI.MI",
-  "nome": "Amundi Pan Africa UCITS ETF Acc"
+  "nome": "Amundi Pan Africa UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "LAFRI",
+  "yahoo": "LAFRI.MI"
  },
  "LU1681043912": {
-  "yahoo": null,
-  "nome": "Amundi MSCI China Tech UCITS ETF EUR"
+  "nome": "Amundi MSCI China Tech UCITS ETF EUR",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CC1",
+  "yahoo": "CC1.MI"
  },
  "LU1437018598": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond UCITS ETF Acc"
+  "nome": "Amundi Euro Government Bond UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EGOV",
+  "yahoo": "EGOV.MI"
  },
  "LU1737653714": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond UCITS ETF Dist"
+  "nome": "Amundi Euro Government Bond UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MTIG",
+  "yahoo": "MTIG.MI"
  },
  "FR0010754200": {
-  "yahoo": null,
-  "nome": "Amundi Govies 0-6 Months Euro Investment Grade UCITS ETF DR (C)"
+  "nome": "Amundi Govies 0-6 Months Euro Investment Grade UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "C3M",
+  "yahoo": "C3M.MI"
  },
  "LU1650489385": {
-  "yahoo": "EM1015.MI",
-  "nome": "Amundi Euro Government Bond 10-15Y UCITS ETF Acc"
+  "nome": "Amundi Euro Government Bond 10-15Y UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EM1015",
+  "yahoo": "EM1015.MI"
  },
  "LU1829219713": {
-  "yahoo": null,
-  "nome": "Fixed Income"
+  "nome": "Fixed Income",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AAA35",
+  "yahoo": "AAA35.MI"
  },
  "LU1681046774": {
-  "yahoo": null,
-  "nome": "Fixed Income"
+  "nome": "Fixed Income",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "X1G",
+  "yahoo": "X1G.MI"
  },
  "LU1681046691": {
-  "yahoo": null,
-  "nome": "Fixed Income"
+  "nome": "Fixed Income",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AM3A",
+  "yahoo": "AM3A.MI"
  },
  "LU1650487413": {
-  "yahoo": "EM13.MI",
-  "nome": "Amundi Euro Government Bond 1-3Y UCITS ETF Acc"
+  "nome": "Amundi Euro Government Bond 1-3Y UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EM13",
+  "yahoo": "EM13.MI"
  },
  "LU1287023003": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond 5-7Y UCITS ETF Acc"
+  "nome": "Amundi Euro Government Bond 5-7Y UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EM57",
+  "yahoo": "EM57.MI"
  },
  "LU1287023268": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond 15+Y UCITS ETF Acc"
+  "nome": "Amundi Euro Government Bond 15+Y UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EM15",
+  "yahoo": "EM15.MI"
  },
  "LU1598691217": {
-  "yahoo": "BTP10.MI",
-  "nome": "Amundi Italy BTP Government Bond 10Y UCITS ETF Acc"
+  "nome": "Amundi Italy BTP Government Bond 10Y UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "BTP10",
+  "yahoo": "BTP10.MI"
  },
  "LU1287023342": {
-  "yahoo": null,
-  "nome": "Amundi Euro Highest Rated Macro-Weighted Government Bond UCITS ETF Acc"
+  "nome": "Amundi Euro Highest Rated Macro-Weighted Government Bond UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMAAA",
+  "yahoo": "EMAAA.MI"
  },
  "LU2356220926": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Green Bond UCITS ETF Acc"
+  "nome": "Amundi Euro Government Green Bond UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ERTH",
+  "yahoo": "ERTH.MI"
  },
  "LU1681046261": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Tilted Green Bond UCITS ETF Acc"
+  "nome": "Amundi Euro Government Tilted Green Bond UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CB3",
+  "yahoo": "CB3.MI"
  },
  "LU1650488494": {
-  "yahoo": "EM35.MI",
-  "nome": "Amundi Euro Government Bond 3-5Y UCITS ETF Acc"
+  "nome": "Amundi Euro Government Bond 3-5Y UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EM35",
+  "yahoo": "EM35.MI"
  },
  "LU1287023185": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond 7-10Y UCITS ETF Acc"
+  "nome": "Amundi Euro Government Bond 7-10Y UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EM710",
+  "yahoo": "EM710.MI"
  },
  "LU1650489898": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond 10-15Y UCITS ETF Dist"
+  "nome": "Amundi Euro Government Bond 10-15Y UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2090062865": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Bond 5-7Y UCITS ETF Dist"
+  "nome": "Amundi Euro Government Bond 5-7Y UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1829219556": {
-  "yahoo": null,
-  "nome": "Fixed Income"
+  "nome": "Fixed Income",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AAA13",
+  "yahoo": "AAA13.MI"
  },
  "LU1598691050": {
-  "yahoo": "BTP13.MI",
-  "nome": "Amundi Italy BTP Government Bond 1-3Y UCITS ETF Acc"
+  "nome": "Amundi Italy BTP Government Bond 1-3Y UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "BTP13",
+  "yahoo": "BTP13.MI"
  },
  "LU1437016204": {
-  "yahoo": null,
-  "nome": "Amundi Index J.P. Morgan GBI Global Govies UCITS ETF DR (C)"
+  "nome": "Amundi Index J.P. Morgan GBI Global Govies UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "GGOV",
+  "yahoo": "GGOV.MI"
  },
  "LU1708330235": {
-  "yahoo": null,
-  "nome": "Fixed Income"
+  "nome": "Fixed Income",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "GOVH",
+  "yahoo": "GOVH.MI"
  },
  "LU1681041205": {
-  "yahoo": null,
-  "nome": "Amundi J.P. Morgan USD Emerging Markets Bond UCITS ETF Acc"
+  "nome": "Amundi J.P. Morgan USD Emerging Markets Bond UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AGEB",
+  "yahoo": "AGEB.MI"
  },
  "LU1686830909": {
-  "yahoo": null,
-  "nome": "Amundi J.P. Morgan USD Emerging Markets Bond UCITS ETF Dist"
+  "nome": "Amundi J.P. Morgan USD Emerging Markets Bond UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMKTB",
+  "yahoo": "EMKTB.MI"
  },
  "LU1650491282": {
-  "yahoo": "EMI.MI",
-  "nome": "Amundi Euro Government Inflation-Linked Bond UCITS ETF Acc"
+  "nome": "Amundi Euro Government Inflation-Linked Bond UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EMI",
+  "yahoo": "EMI.MI"
  },
  "LU1650491795": {
-  "yahoo": null,
-  "nome": "Amundi Euro Government Inflation-Linked Bond UCITS ETF Dist"
+  "nome": "Amundi Euro Government Inflation-Linked Bond UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1437018168": {
-  "yahoo": null,
-  "nome": "Amundi EUR Corporate Bond ESG UCITS ETF DR (C)"
+  "nome": "Amundi EUR Corporate Bond ESG UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ECRP",
+  "yahoo": "ECRP.MI"
  },
  "LU1525418643": {
-  "yahoo": null,
-  "nome": "Amundi EUR Corporate Bond 1-5Y ESG UCITS ETF Acc"
+  "nome": "Amundi EUR Corporate Bond 1-5Y ESG UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EBBB",
+  "yahoo": "EBBB.MI"
  },
  "LU1681040496": {
-  "yahoo": null,
-  "nome": "Amundi Euro High Yield Bond ESG UCITS ETF Acc"
+  "nome": "Amundi Euro High Yield Bond ESG UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AHYE",
+  "yahoo": "AHYE.MI"
  },
  "LU2037748774": {
-  "yahoo": null,
-  "nome": "Amundi EUR Corporate Bond 0-3Y ESG UCITS ETF DR (C)"
+  "nome": "Amundi EUR Corporate Bond 0-3Y ESG UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ECRP3",
+  "yahoo": "ECRP3.MI"
  },
  "LU1617164998": {
-  "yahoo": "HYS.MI",
-  "nome": "Amundi EUR Short Term High Yield Corporate Bond ESG UCITS ETF D"
+  "nome": "Amundi EUR Short Term High Yield Corporate Bond ESG UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "HYS",
+  "yahoo": "HYS.MI"
  },
  "LU1829219127": {
-  "yahoo": null,
-  "nome": "Amundi EUR Corporate Bond Climate Paris Aligned UCITS ETF Acc"
+  "nome": "Amundi EUR Corporate Bond Climate Paris Aligned UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CRPE",
+  "yahoo": "CRPE.MI"
  },
  "LU1829218822": {
-  "yahoo": "CBEF.MI",
-  "nome": "Amundi EUR Corporate Bond ex-Financials ESG UCITS ETF Acc"
+  "nome": "Amundi EUR Corporate Bond ex-Financials ESG UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CBEF",
+  "yahoo": "CBEF.MI"
  },
  "LU1681039647": {
-  "yahoo": null,
-  "nome": "Amundi EUR Corporate Bond ESG UCITS ETF 2 DR - EUR (C)"
+  "nome": "Amundi EUR Corporate Bond ESG UCITS ETF 2 DR - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CC4",
+  "yahoo": "CC4.MI"
  },
  "LU1681041114": {
-  "yahoo": null,
-  "nome": "Amundi EUR Floating Rate Corporate Bond ESG UCITS ETF Acc"
+  "nome": "Amundi EUR Floating Rate Corporate Bond ESG UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AFRN",
+  "yahoo": "AFRN.MI"
  },
  "LU1215415214": {
-  "yahoo": null,
-  "nome": "Amundi Euro High Yield Bond ESG UCITS ETF Dist"
+  "nome": "Amundi Euro High Yield Bond ESG UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "HYBB",
+  "yahoo": "HYBB.MI"
  },
  "LU2370241684": {
-  "yahoo": null,
-  "nome": "Amundi Corporate Proceeds Bond UCITS ETF Acc"
+  "nome": "Amundi Corporate Proceeds Bond UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "PLAN",
+  "yahoo": "PLAN.MI"
  },
  "LU2099295466": {
-  "yahoo": null,
-  "nome": "Amundi Global High Yield Corporate Bond ESG UCITS ETF DR - USD (C)"
+  "nome": "Amundi Global High Yield Corporate Bond ESG UCITS ETF DR - USD (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "GHYE",
+  "yahoo": "GHYE.MI"
  },
  "LU1525418726": {
-  "yahoo": null,
-  "nome": "Amundi Global Corporate Bond 1-5Y ESG UCITS ETF DR (C)"
+  "nome": "Amundi Global Corporate Bond 1-5Y ESG UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "UBBB",
+  "yahoo": "UBBB.MI"
  },
  "LU1285959703": {
-  "yahoo": null,
-  "nome": "Amundi USD Corporate Bond Climate Paris Aligned UCITS ETF Dist"
+  "nome": "Amundi USD Corporate Bond Climate Paris Aligned UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USIG",
+  "yahoo": "USIG.MI"
  },
  "LU1681040900": {
-  "yahoo": null,
-  "nome": "Amundi USD Floating Rate Corporate Bond ESG UCITS ETF Acc"
+  "nome": "Amundi USD Floating Rate Corporate Bond ESG UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USFRN",
+  "yahoo": "USFRN.MI"
  },
  "LU1681041031": {
-  "yahoo": null,
-  "nome": "Amundi USD Floating Rate Corporate Bond ESG UCITS ETF EUR Hedged Acc"
+  "nome": "Amundi USD Floating Rate Corporate Bond ESG UCITS ETF EUR Hedged Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "HFRN",
+  "yahoo": "HFRN.MI"
  },
  "LU1435356149": {
-  "yahoo": null,
-  "nome": "Amundi USD High Yield Corporate Bond ESG UCITS ETF Dist"
+  "nome": "Amundi USD High Yield Corporate Bond ESG UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USHY",
+  "yahoo": "USHY.MI"
  },
  "LU1806495575": {
-  "yahoo": null,
-  "nome": "Amundi USD Corporate Bond ESG UCITS ETF DR (C)"
+  "nome": "Amundi USD Corporate Bond ESG UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "UCRP",
+  "yahoo": "UCRP.MI"
  },
  "LU1285959885": {
-  "yahoo": null,
-  "nome": "Amundi USD Corporate Bond Climate Paris Aligned UCITS ETF Acc"
+  "nome": "Amundi USD Corporate Bond Climate Paris Aligned UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USIC",
+  "yahoo": "USIC.MI"
  },
  "LU1285960032": {
-  "yahoo": null,
-  "nome": "Fixed Income"
+  "nome": "Fixed Income",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USIH",
+  "yahoo": "USIH.MI"
  },
  "LU1435356065": {
-  "yahoo": null,
-  "nome": "Amundi USD High Yield Corporate Bond ESG UCITS ETF Acc"
+  "nome": "Amundi USD High Yield Corporate Bond ESG UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USHYC",
+  "yahoo": "USHYC.MI"
  },
  "LU2182388236": {
-  "yahoo": null,
-  "nome": "Amundi Euro Aggregate Bond ESG UCITS ETF DR (C)"
+  "nome": "Amundi Euro Aggregate Bond ESG UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "EGRI",
+  "yahoo": "EGRI.MI"
  },
  "LU1563454310": {
-  "yahoo": null,
-  "nome": "Amundi Global Aggregate Green Bond UCITS ETF Acc"
+  "nome": "Amundi Global Aggregate Green Bond UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CLIM",
+  "yahoo": "CLIM.MI"
  },
  "LU1563454401": {
-  "yahoo": "CLMD.MI",
-  "nome": "Amundi Global Aggregate Green Bond UCITS ETF Dist"
+  "nome": "Amundi Global Aggregate Green Bond UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CLMD",
+  "yahoo": "CLMD.MI"
  },
  "LU1981859819": {
-  "yahoo": null,
-  "nome": "Amundi Global Aggregate Proceeds Bond 1-10Y UCITS ETF Acc"
+  "nome": "Amundi Global Aggregate Proceeds Bond 1-10Y UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1900069219": {
-  "yahoo": "COMH.MI",
-  "nome": "Amdi Blg Eql-wght Com ex-Agrc U"
+  "nome": "Broad Commodities",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "COMH",
+  "yahoo": "COMH.MI"
  },
  "LU1829218749": {
-  "yahoo": null,
-  "nome": "Amundi Bloomberg Equal-weight Commodity ex-Agriculture UCITS ETF Acc"
+  "nome": "Amundi Bloomberg Equal-weight Commodity ex-Agriculture UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "COMO",
+  "yahoo": "COMO.MI"
  },
  "DE000ETF7011": {
-  "yahoo": null,
-  "nome": "Amundi Multi-Asset Portfolio UCITS ETF Dist"
+  "nome": "Amundi Multi-Asset Portfolio UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "DE000ETF7029": {
-  "yahoo": null,
-  "nome": "Amundi Multi-Asset Portfolio Defensive UCITS ETF Dist"
+  "nome": "Amundi Multi-Asset Portfolio Defensive UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "DE000ETF7037": {
-  "yahoo": null,
-  "nome": "Amundi Multi-Asset Portfolio Offensive UCITS ETF Dist"
+  "nome": "Amundi Multi-Asset Portfolio Offensive UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE00085PWS28": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World Ex USA UCITS ETF Acc"
+  "nome": "Amundi MSCI World Ex USA UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE0009BI8Z04": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World Ex USA UCITS ETF Dist"
+  "nome": "Amundi MSCI World Ex USA UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE0001GSQ2O9": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World ESG Broad Transition UCITS ETF Acc"
+  "nome": "Amundi MSCI World ESG Broad Transition UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "LWCR",
+  "yahoo": "LWCR.MI"
  },
  "LU2572257124": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World III UCITS ETF Dist"
+  "nome": "Amundi MSCI World III UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681043672": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World UCITS ETF - USD (C)"
+  "nome": "Amundi MSCI World UCITS ETF - USD (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2655993207": {
-  "yahoo": null,
-  "nome": "Amundi MSCI World UCITS ETF - EUR (D)"
+  "nome": "Amundi MSCI World UCITS ETF - EUR (D)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1829220133": {
-  "yahoo": null,
-  "nome": "Amundi MSCI All Country World UCITS ETF USD Acc"
+  "nome": "Amundi MSCI All Country World UCITS ETF USD Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE000KYX7IP4": {
-  "yahoo": null,
-  "nome": "Amundi S&P World Financials Screened UCITS ETF Acc"
+  "nome": "Amundi S&P World Financials Screened UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681046188": {
-  "yahoo": null,
-  "nome": "Amundi Global Bioenergy UCITS ETF USD Acc"
+  "nome": "Amundi Global Bioenergy UCITS ETF USD Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1861132840": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Robotics & AI UCITS ETF Acc"
+  "nome": "Amundi MSCI Robotics & AI UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "GOAI",
+  "yahoo": "GOAI.MI"
  },
  "LU2090063327": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Semiconductors UCITS ETF Dist"
+  "nome": "Amundi MSCI Semiconductors UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2037748345": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Smart Cities UCITS ETF ACC"
+  "nome": "Amundi MSCI Smart Cities UCITS ETF ACC",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "SCITY",
+  "yahoo": "SCITY.MI"
  },
  "LU1681037518": {
-  "yahoo": "FMI.MI",
-  "nome": "Amundi Index Solutions - Amundi ITALY MIB ESG UCITS ETF DR - EUR C"
+  "nome": "Amundi Italy MIB ESG UCITS ETF DR - EUR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "FMI",
+  "yahoo": "FMI.MI"
  },
  "LU0908501132": {
-  "yahoo": "MFDD.MI",
-  "nome": "Amundi MSCI EMU ESG Broad Transition UCITS ETF DIST"
+  "nome": "Amundi MSCI EMU ESG Broad Transition UCITS ETF DIST",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "MFDD",
+  "yahoo": "MFDD.MI"
  },
  "LU1437015735": {
-  "yahoo": null,
-  "nome": "Amundi Index MSCI Europe UCITS ETF DR (C)"
+  "nome": "Amundi Index MSCI Europe UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "CEU2",
+  "yahoo": "CEU2.MI"
  },
  "LU1574142243": {
-  "yahoo": null,
-  "nome": "Amundi Stoxx Europe 600 UCITS ETF EUR Hedged Dist"
+  "nome": "Amundi Stoxx Europe 600 UCITS ETF EUR Hedged Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681040223": {
-  "yahoo": null,
-  "nome": "Amundi Stoxx Europe 600 ESG UCITS ETF Acc"
+  "nome": "Amundi Stoxx Europe 600 ESG UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU0959210278": {
-  "yahoo": null,
-  "nome": "Amundi S&P Eurozone Dividend Aristocrat Screened UCITS ETF Dist"
+  "nome": "Amundi S&P Eurozone Dividend Aristocrat Screened UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2611732558": {
-  "yahoo": null,
-  "nome": "Amundi Euro Stoxx Select Dividend30 UCITS ETF Dist"
+  "nome": "Amundi Euro Stoxx Select Dividend30 UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2611731741": {
-  "yahoo": null,
-  "nome": "Amundi DIVDAX UCITS ETF Dist"
+  "nome": "Amundi DIVDAX UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU3038520774": {
-  "yahoo": null,
-  "nome": "Amundi Stoxx Europe Defense UCITS ETF Acc"
+  "nome": "Amundi Stoxx Europe Defense UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "DEFS",
+  "yahoo": "DEFS.MI"
  },
  "IE000KXCEXR3": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 Screened UCITS ETF - Acc"
+  "nome": "Amundi S&P 500 Screened UCITS ETF - Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "S500",
+  "yahoo": "S500.MI"
  },
  "LU2991918421": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 Equal Weight UCITS ETF Acc"
+  "nome": "Amundi S&P 500 Equal Weight UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE000PEAJOT0": {
-  "yahoo": null,
-  "nome": "Amundi MSCI USA ESG Selection UCITS ETF Acc"
+  "nome": "Amundi MSCI USA ESG Selection UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ESGUSA",
+  "yahoo": "ESGUSA.MI"
  },
  "IE0008TKP6O7": {
-  "yahoo": null,
-  "nome": "Amundi MSCI USA ESG Selection Extra UCITS ETF DR - USD (D)"
+  "nome": "Amundi MSCI USA ESG Selection Extra UCITS ETF DR - USD (D)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "UESG",
+  "yahoo": "UESG.MI"
  },
  "LU2391437253": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 UCITS ETF - USD (D)"
+  "nome": "Amundi S&P 500 UCITS ETF - USD (D)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE000IP0UC52": {
-  "yahoo": null,
-  "nome": "Amundi MSCI USA ESG Selection UCITS ETF Acc EUR Hedged"
+  "nome": "Amundi MSCI USA ESG Selection UCITS ETF Acc EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE0004TFW0R5": {
-  "yahoo": null,
-  "nome": "Amundi MSCI USA ESG Selection Extra UCITS ETF ACC EUR Hedged"
+  "nome": "Amundi MSCI USA ESG Selection Extra UCITS ETF ACC EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE000LAP5Z18": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 Equal Weight ESG UCITS ETF Acc"
+  "nome": "Amundi S&P 500 Equal Weight ESG UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "WELE",
+  "yahoo": "WELE.MI"
  },
  "IE000R85HL30": {
-  "yahoo": null,
-  "nome": "Amundi MSCI USA SRI Climate Paris Aligned UCITS ETF Acc"
+  "nome": "Amundi MSCI USA SRI Climate Paris Aligned UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USRI",
+  "yahoo": "USRI.MI"
  },
  "IE000M86QRT4": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 Equal Weight ESG UCITS ETF EUR Hedged Acc"
+  "nome": "Amundi S&P 500 Equal Weight ESG UCITS ETF EUR Hedged Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "IE0000U24AJ9": {
-  "yahoo": "USRIH.MI",
-  "nome": "Amundi MSCI USA SRI Climate Paris Aligned UCITS ETF Acc EUR HEDGED"
+  "nome": "Amundi MSCI USA SRI Climate Paris Aligned UCITS ETF Acc EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USRIH",
+  "yahoo": "USRIH.MI"
  },
  "IE00058B19U6": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 Climate Paris Aligned UCITS ETF Acc EUR Hedged"
+  "nome": "Amundi S&P 500 Climate Paris Aligned UCITS ETF Acc EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1954152853": {
-  "yahoo": null,
-  "nome": "Amundi Nasdaq-100 II UCITS ETF EUR Hedged Acc"
+  "nome": "Amundi Nasdaq-100 II UCITS ETF EUR Hedged Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "USTH",
+  "yahoo": "USTH.MI"
  },
  "IE00058MW3M8": {
-  "yahoo": null,
-  "nome": "Amundi S&P 500 Screened UCITS ETF - Acc EUR Hedged"
+  "nome": "Amundi S&P 500 Screened UCITS ETF - Acc EUR Hedged",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "S500H",
+  "yahoo": "S500H.MI"
  },
  "IE000XL4IXU1": {
-  "yahoo": null,
-  "nome": "Amundi MSCI USA Ex Mega Cap UCITS ETF Acc"
+  "nome": "Amundi MSCI USA Ex Mega Cap UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "XMGA",
+  "yahoo": "XMGA.MI"
  },
  "IE000YBGJ9I4": {
-  "yahoo": null,
-  "nome": "Amundi MSCI USA Mega Cap UCITS ETF Acc"
+  "nome": "Amundi MSCI USA Mega Cap UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1437017350": {
-  "yahoo": null,
-  "nome": "Amundi Index MSCI Emerging Markets UCITS ETF DR (C)"
+  "nome": "Amundi Index MSCI Emerging Markets UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AEME",
+  "yahoo": "AEME.MI"
  },
  "LU1737652583": {
-  "yahoo": null,
-  "nome": "Amundi Index MSCI Emerging Markets UCITS ETF DR (D)"
+  "nome": "Amundi Index MSCI Emerging Markets UCITS ETF DR (D)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "AEMD",
+  "yahoo": "AEMD.MI"
  },
  "LU1437024729": {
-  "yahoo": null,
-  "nome": "Amundi Global Aggregate Bond UCITS ETF DR (C)"
+  "nome": "Amundi Global Aggregate Bond UCITS ETF DR (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "GAGG",
+  "yahoo": "GAGG.MI"
  },
  "LU1190417599": {
-  "yahoo": null,
-  "nome": "Amundi Smart Overnight Return UCITS ETF Acc"
+  "nome": "Amundi Smart Overnight Return UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "SMART",
+  "yahoo": "SMART.MI"
  },
  "LU2082999306": {
-  "yahoo": null,
-  "nome": "Amundi Smart Overnight Return UCITS ETF Dist"
+  "nome": "Amundi Smart Overnight Return UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0010510800": {
-  "yahoo": null,
-  "nome": "Amundi EUR Overnight Return UCITS ETF Acc"
+  "nome": "Amundi EUR Overnight Return UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "LEONIA",
+  "yahoo": "LEONIA.MI"
  },
  "FR0013416716": {
-  "yahoo": null,
-  "nome": "AMUNDI PHYSICAL GOLD ETC (C)"
+  "nome": "AMUNDI PHYSICAL GOLD ETC (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2872292243": {
-  "yahoo": null,
-  "nome": "Amundi Lifecycle 2039 UCITS ETF Acc"
+  "nome": "Amundi Lifecycle 2039 UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2872292169": {
-  "yahoo": null,
-  "nome": "Amundi Lifecycle 2036 UCITS ETF Acc"
+  "nome": "Amundi Lifecycle 2036 UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2872291948": {
-  "yahoo": null,
-  "nome": "Amundi Lifecycle 2030 UCITS ETF Acc"
+  "nome": "Amundi Lifecycle 2030 UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2872292086": {
-  "yahoo": null,
-  "nome": "Amundi Lifecycle 2033 UCITS ETF Acc"
+  "nome": "Amundi Lifecycle 2033 UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0011758085": {
-  "yahoo": null,
-  "nome": "Amundi FTSE Italia PMI PIR 2020 UCITS ETF Acc"
+  "nome": "Amundi FTSE Italia PMI PIR 2020 UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "ITAMID",
+  "yahoo": "ITAMID.MI"
  },
  "LU2611731824": {
-  "yahoo": null,
-  "nome": "Amundi NYSE Arca Gold Bugs UCITS ETF Dist"
+  "nome": "Amundi NYSE Arca Gold Bugs UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0000021842": {
-  "yahoo": null,
-  "nome": "Amundi BEL 20 UCITS ETF Dist"
+  "nome": "Amundi BEL 20 UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2611732475": {
-  "yahoo": null,
-  "nome": "Amundi SDAX UCITS ETF Dist"
+  "nome": "Amundi SDAX UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0010435297": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Emerging Markets III UCITS ETF USD Acc"
+  "nome": "Amundi MSCI Emerging Markets III UCITS ETF USD Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "FR0010375766": {
-  "yahoo": null,
-  "nome": "Amundi MSCI India II UCITS ETF USD Acc"
+  "nome": "Amundi MSCI India II UCITS ETF USD Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681043169": {
-  "yahoo": null,
-  "nome": "Amundi MSCI India UCITS ETF - USD (C)"
+  "nome": "Amundi MSCI India UCITS ETF - USD (C)",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU2090063160": {
-  "yahoo": null,
-  "nome": "Amundi MSCI Eastern Europe Ex Russia UCITS ETF Dist"
+  "nome": "Amundi MSCI Eastern Europe Ex Russia UCITS ETF Dist",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU1681044050": {
-  "yahoo": null,
-  "nome": "Amundi MSCI China Tech UCITS ETF USD"
+  "nome": "Amundi MSCI China Tech UCITS ETF USD",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "NQ",
+  "yahoo": null
  },
  "LU0832435464": {
-  "yahoo": "LVO.MI",
-  "nome": "Amundi S&P 500 VIX Futures Enhanced Roll UCITS ETF Acc"
+  "nome": "Amundi S&P 500 VIX Futures Enhanced Roll UCITS ETF Acc",
+  "tentativi": 1,
+  "aggiornato": "2026-09-09",
+  "bi": "LVO",
+  "yahoo": "LVO.MI"
  }
 }

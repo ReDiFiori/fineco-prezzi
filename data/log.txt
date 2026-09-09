@@ -1,6 +1,7 @@
-run 2026-09-09 00:23 UTC
-ETF in lista: 478, risolti su Borsa Italiana: 54, nuove risoluzioni: 478
-chiusure del 2026-09-08 mancanti: 168, ricavate dall'intraday: 165
-strumenti con dati: 173 su 187 (etf promo 53, altri etf 37, azioni 83)
-senza dati: FAMTEL, IUSN, IUIT, IUHC, IUFS, IDTL, IBTL, CBUE, IEMS, CSIN, EXV1, EXH1, EXV3, LVE
-ultima data: 2026-09-08; strumenti non aggiornati a quella data: 0
+run 2026-09-09 00:34 UTC
+ETF in lista: 478, con codice Borsa Italiana: 388, con dati Yahoo (.MI): 388, non quotati a Milano: 90, irrisolti: 0 (ritentati questa volta: 478, risolti ora: 388)
+chiusure del 2026-09-08 mancanti: 479, ricavate dall'intraday: 467
+barre scartate perche' implausibili: 1: 3DEL.MI 2026-05-11
+strumenti con dati: 509 su 509 (etf promo 388, altri etf 38, azioni 83)
+senza dati: 
+ultima data: 2026-09-08; strumenti non aggiornati a quella data: 36
