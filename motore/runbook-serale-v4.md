@@ -1,6 +1,6 @@
 # Runbook del segnale serale · versione 4 (motore v4, dal 9 settembre 2026)
 
-Ogni sera alle 19:45 ora italiana, tutti i giorni, nella sessione pianificata "Segnale serale Fineco". Tutti i comandi in Bash nel container, in una cartella pulita `/home/claude/run`. Lavora in autonomia: nessuno legge in tempo reale, non fare domande. Nei testi mai il trattino lungo.
+Ogni sera alle 19:45 ora italiana, tutti i giorni, nella sessione pianificata "Segnale serale Fineco". Tutti i comandi in Bash nel container, in una cartella NUOVA creata al momento, per esempio `/home/claude/run-$(date +%H%M%S)`: mai cancellare file con `rm` (il comando `rm -f *` fa scattare una richiesta di permesso che nessuno può approvare e blocca la sessione per sempre). Lavora in autonomia: nessuno legge in tempo reale, non fare domande. Nei testi mai il trattino lungo.
 
 ## 0. Dove stanno le cose
 
@@ -13,7 +13,7 @@ Ogni sera alle 19:45 ora italiana, tutti i giorni, nella sessione pianificata "S
 ## 1. Preparazione
 
 1. `date -u; TZ=Europe/Rome date`. Se è sabato, domenica o festività di Borsa Italiana (1 gennaio, Venerdì Santo, Lunedì dell'Angelo, 1 maggio, 15 agosto, 24, 25, 26 e 31 dicembre): esegui solo i passi 2, 3 (leggi_canale) e 6 (salvataggio), nessun segnale.
-2. `mkdir -p /home/claude/run && cd /home/claude/run`. Scarica il motore: `curl -sS -o segnali_v4.py "https://raw.githubusercontent.com/ReDiFiori/fineco-prezzi/main/motore/segnali_v4.py?nocache=$(date +%s)"`. Controlla: `head -3 segnali_v4.py` deve contenere "Motore dei segnali v4" e `python3 -m py_compile segnali_v4.py` deve passare. Se no, fermati e vai alla sezione Errori.
+2. `R=/home/claude/run-$(date +%H%M%S); mkdir -p $R && cd $R` (cartella nuova, niente rm). Scarica il motore: `curl -sS -o segnali_v4.py "https://raw.githubusercontent.com/ReDiFiori/fineco-prezzi/main/motore/segnali_v4.py?nocache=$(date +%s)"`. Controlla: `head -3 segnali_v4.py` deve contenere "Motore dei segnali v4" e `python3 -m py_compile segnali_v4.py` deve passare. Se no, fermati e vai alla sezione Errori.
 3. Con Projects leggi `claude/stato-portafoglio.json` e salvalo come `stato.json` (contenuto identico). Leggi `claude/telegram-config.md`: scrivi le due righe `TG_TOKEN=...` e `TG_CHAT=...` in un file `.env` con `chmod 600`, e caricale con `set -a; . ./.env; set +a` nello stesso comando Bash che usa il motore. Non scrivere mai i valori sulla riga di comando, nei messaggi, nel diario o nella memoria.
 4. Scarica i dati: `data/log.txt`, `data/strumenti.csv`, `data/prezzi.csv` (stessa forma di URL con nocache). Freschezza: nel log la riga "ultima data: AAAA-MM-GG" deve essere la seduta di oggi (o l'ultima seduta di Borsa se oggi è festivo). Se i dati sono vecchi, aspetta 10 minuti e riprova una volta (`sleep 600`), poi sezione Errori.
 
@@ -49,6 +49,7 @@ Salva il messaggio in `messaggio.txt` e invia: `set -a; . ./.env; set +a; python
 
 ## 7. Errori
 
+- Regola generale: se un comando Bash chiede un permesso (rm, sudo, rete non consentita), non insistere: usa un'alternativa che non lo richieda (cartella nuova invece di cancellare, file diverso invece di sovrascrivere).
 - Motore non scaricabile o non compilabile: non inviare segnali. Invia nel canale una riga: "Segnale serale non disponibile: motore non raggiungibile. Nessuna operazione per domani." Salva lo stato com'è e scrivi nel diario.
 - Dati vecchi dopo il secondo tentativo: come sopra, con "dati non aggiornati". Se c'è una posizione aperta, ricorda nel messaggio che stop e take profit sul conto restano validi.
 - Errore del motore in analizza: come sopra, con il testo dell'errore (una riga). Mai inventare prezzi o livelli, mai scrivere istruzioni operative non prodotte dal motore.
