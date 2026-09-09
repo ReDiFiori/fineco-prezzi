@@ -1,0 +1,87 @@
+# Azioni negoziabili in contanti su Fineco: un ticker Yahoo per riga, seguito da ; e dal nome. Le righe con # sono ignorate.
+# Solo Borsa Italiana (.MI) e Xetra (.DE): sul profilo Fineco a commissioni variabili costano 0,19% min 2,95. Le italiane pagano la Tobin tax 0,1% in acquisto.
+# FTSE MIB
+A2A.MI;A2A
+AMP.MI;Amplifon
+AZM.MI;Azimut
+BGN.MI;Banca Generali
+BMED.MI;Banca Mediolanum
+BAMI.MI;Banco BPM
+BPE.MI;BPER Banca
+BMPS.MI;Monte dei Paschi
+BC.MI;Brunello Cucinelli
+BZU.MI;Buzzi
+CPR.MI;Campari
+DIA.MI;DiaSorin
+ENEL.MI;Enel
+ENI.MI;Eni
+ERG.MI;ERG
+RACE.MI;Ferrari
+FBK.MI;FinecoBank
+G.MI;Generali
+HER.MI;Hera
+IP.MI;Interpump
+ISP.MI;Intesa Sanpaolo
+INW.MI;Inwit
+IG.MI;Italgas
+IVG.MI;Iveco
+LDO.MI;Leonardo
+LTMC.MI;Lottomatica
+MB.MI;Mediobanca
+MONC.MI;Moncler
+NEXI.MI;Nexi
+PIRC.MI;Pirelli
+PST.MI;Poste Italiane
+PRY.MI;Prysmian
+REC.MI;Recordati
+SPM.MI;Saipem
+SRG.MI;Snam
+STLAM.MI;Stellantis
+STMMI.MI;STMicroelectronics
+TIT.MI;Telecom Italia
+TEN.MI;Tenaris
+TRN.MI;Terna
+UCG.MI;UniCredit
+UNI.MI;Unipol
+# DAX 40
+ADS.DE;Adidas
+AIR.DE;Airbus
+ALV.DE;Allianz
+BAS.DE;BASF
+BAYN.DE;Bayer
+BEI.DE;Beiersdorf
+BMW.DE;BMW
+BNR.DE;Brenntag
+CBK.DE;Commerzbank
+CON.DE;Continental
+1COV.DE;Covestro
+DTG.DE;Daimler Truck
+DBK.DE;Deutsche Bank
+DB1.DE;Deutsche Boerse
+DHL.DE;DHL Group
+DTE.DE;Deutsche Telekom
+EOAN.DE;E.ON
+FRE.DE;Fresenius
+FME.DE;Fresenius Medical Care
+HNR1.DE;Hannover Rueck
+HEI.DE;Heidelberg Materials
+HEN3.DE;Henkel
+IFX.DE;Infineon
+MBG.DE;Mercedes-Benz
+MRK.DE;Merck KGaA
+MTX.DE;MTU Aero Engines
+MUV2.DE;Munich Re
+P911.DE;Porsche AG
+PAH3.DE;Porsche SE
+QIA.DE;Qiagen
+RHM.DE;Rheinmetall
+RWE.DE;RWE
+SAP.DE;SAP
+SRT3.DE;Sartorius
+SIE.DE;Siemens
+ENR.DE;Siemens Energy
+SHL.DE;Siemens Healthineers
+SY1.DE;Symrise
+VOW3.DE;Volkswagen
+VNA.DE;Vonovia
+ZAL.DE;Zalando

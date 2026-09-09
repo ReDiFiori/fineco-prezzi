@@ -1,0 +1,52 @@
+# Altri ETF/ETC su Borsa Italiana fuori dalla promozione Fineco (2,95 in acquisto e 2,95 in vendita).
+# Un ticker Yahoo per riga (.MI), seguito da ; e dal nome. Le righe con # sono ignorate. I ticker senza dati vengono scartati dal log.
+CSSPX.MI;iShares Core S&P 500
+CSNDX.MI;iShares Nasdaq 100
+EQQQ.MI;Invesco Nasdaq 100
+VUSA.MI;Vanguard S&P 500
+VWCE.MI;Vanguard FTSE All-World
+EIMI.MI;iShares Core MSCI EM IMI
+SMEA.MI;iShares Core MSCI EMU
+IMIB.MI;iShares FTSE MIB
+IUSN.MI;iShares MSCI World Small Cap
+IWMO.MI;iShares MSCI World Momentum
+IWQU.MI;iShares MSCI World Quality
+IUIT.MI;iShares S&P 500 Information Technology
+IUHC.MI;iShares S&P 500 Health Care
+IUFS.MI;iShares S&P 500 Financials
+INRG.MI;iShares Global Clean Energy
+ECAR.MI;iShares Electric Vehicles
+HEAL.MI;iShares Healthcare Innovation
+IDTL.MI;iShares $ Treasury 20+yr
+IBTL.MI;iShares $ Treasury 20+yr EUR hedged
+IHYG.MI;iShares Euro High Yield
+SGLD.MI;Invesco Physical Gold
+PHAU.MI;WisdomTree Physical Gold
+PHAG.MI;WisdomTree Physical Silver
+PHPT.MI;WisdomTree Physical Platinum
+COPA.MI;WisdomTree Copper
+BRNT.MI;WisdomTree Brent Crude Oil
+SMH.MI;VanEck Semiconductor
+DFNS.MI;VanEck Defense
+ESPO.MI;VanEck Video Gaming and eSports
+ROBO.MI;L&G ROBO Global Robotics
+WCLD.MI;WisdomTree Cloud Computing
+EMQQ.MI;EMQQ Emerging Markets Internet
+CBUE.MI;iShares MSCI World Energy
+IEMS.MI;iShares MSCI EM Small Cap
+CSKR.MI;iShares MSCI Korea
+CSJP.MI;iShares Core MSCI Japan
+CSIN.MI;iShares MSCI India
+FXC.MI;iShares China Large Cap
+IBZL.MI;iShares MSCI Brazil
+ITKY.MI;iShares MSCI Turkey
+EXSA.MI;iShares Stoxx Europe 600
+EXV1.MI;iShares Stoxx Europe 600 Banks
+EXH1.MI;iShares Stoxx Europe 600 Oil & Gas
+EXV3.MI;iShares Stoxx Europe 600 Technology
+LEVMIB.MI;Lyxor FTSE MIB Daily 2x Leveraged
+LVE.MI;Lyxor Euro Stoxx 50 Daily 2x Leveraged
+LQQ.MI;Amundi Nasdaq-100 Daily 2x Leveraged
+3USL.MI;WisdomTree S&P 500 3x Daily Leveraged
+3ITL.MI;WisdomTree FTSE MIB 3x Daily Leveraged
+3DEL.MI;WisdomTree DAX 3x Daily Leveraged
