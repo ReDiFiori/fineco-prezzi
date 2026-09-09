@@ -105,7 +105,7 @@ def verifica_yahoo(simboli):
                 pass
     return ok
 
-da_risolvere = [i for i in etf if i not in mappa or (not mappa[i].get("yahoo") and mappa[i].get("tentativi", 0) < MAX_TENTATIVI)]
+da_risolvere = [i for i in etf if i not in mappa or (not mappa[i].get("yahoo") and mappa[i].get("bi") != "NQ" and mappa[i].get("tentativi", 0) < MAX_TENTATIVI)]
 proposte = {}   # isin -> lista candidati
 for n, isin in enumerate(da_risolvere, 1):
     voce = mappa.get(isin, {})
