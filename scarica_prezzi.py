@@ -13,7 +13,12 @@ Novita' della v5 rispetto alla v4:
   - corretto il bug della v4 per cui la chiusura ricavata dall'intraday veniva scritta su righe di altri strumenti
     (indici duplicati dopo la concatenazione dei blocchi): ora concat con ignore_index=True.
   - filtro di plausibilita' sulle barre (massimo/minimo incoerenti con la chiusura): le righe scartate finiscono nel log.
-Se Yahoo non ha ancora la chiusura ufficiale del giorno, la ricava dall'ultimo minuto scambiato."""
+Se Yahoo non ha ancora la chiusura ufficiale del giorno, la ricava dall'ultimo minuto scambiato.
+
+Novita' del 10 settembre 2026: prezzi.csv non viene piu' riscritto da zero, ma unito allo storico gia' salvato sulla chiave
+(data, ticker), con la riga nuova che vince su quella vecchia. Yahoo consolida le chiusure di Borsa Italiana con un paio di
+giorni di ritardo e nel frattempo restituisce la barra con close nulla: senza l'unione, ogni run cancellava le chiusure che il
+run precedente aveva ricavato dall'intraday (il 9/9 le barre dell'8/9 erano scese da 473 a 88). Il log riporta le barre per data."""
 import csv, datetime as dt, json, os, re, sys, time
 import pandas as pd
 import requests
@@ -220,9 +225,35 @@ if anomale.any():
 # ---------------------------------------------------------------- output
 meta = {s[4]: s for s in strumenti}
 df["ticker"] = df["yahoo"].map(lambda y: meta[y][0])
-df = df[["date", "ticker", "open", "high", "low", "close", "volume"]].sort_values(["ticker", "date"])
-df.to_csv("data/prezzi.csv", index=False, float_format="%.4f")
+df = df[["date", "ticker", "open", "high", "low", "close", "volume"]]
+df["date"] = df["date"].astype(str)
+
+# Unione con lo storico gia' salvato. Yahoo consolida le chiusure di Borsa Italiana con un paio di giorni di ritardo e nel
+# frattempo restituisce la barra con close nulla, che il dropna qui sopra elimina; la ricostruzione dall'intraday copre solo
+# l'ultimo giorno. Senza unione ogni run cancella le chiusure ricostruite dal run precedente: il 9/9/2026 le barre dell'8/9
+# sono passate da 473 a 88. Vince sempre la riga nuova (chiusura consolidata) se c'e', altrimenti si tiene quella vecchia.
+STORICO = "data/prezzi.csv"
+universo = {s[0] for s in strumenti}
+conservate = 0
+if os.path.exists(STORICO):
+    try:
+        vecchio = pd.read_csv(STORICO, dtype={"date": str, "ticker": str})
+        vecchio = vecchio[vecchio["ticker"].isin(universo)]
+        nuove = len(df)
+        df = pd.concat([vecchio, df], ignore_index=True).drop_duplicates(subset=["date", "ticker"], keep="last")
+        conservate = len(df) - nuove
+    except Exception as e:
+        log.append(f"unione con lo storico fallita, scrivo solo il download di oggi: {e}")
+log.append(f"barre scaricate: {len(df) - conservate}, conservate dallo storico: {conservate}, totale: {len(df)}")
+
+df = df.sort_values(["ticker", "date"])
+df.to_csv(STORICO, index=False, float_format="%.4f")
 presenti = set(df["ticker"])
+per_data = df["date"].value_counts().sort_index()
+log.append("barre per data (ultime 6): " + ", ".join(f"{d} {n}" for d, n in per_data.tail(6).items()))
+scarse = [f"{d} {n}" for d, n in per_data.tail(6).items() if n < 0.8 * per_data.tail(30).median()]
+if scarse:
+    log.append("ATTENZIONE, sedute con poche barre (chiusure non ancora consolidate su Yahoo): " + ", ".join(scarse))
 with open("data/strumenti.csv", "w", newline="") as f:
     w = csv.writer(f); w.writerow(["ticker", "tipo", "isin", "nome", "yahoo", "mercato"])
     for s in strumenti:
