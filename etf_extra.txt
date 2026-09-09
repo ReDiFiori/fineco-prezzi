@@ -8,17 +8,17 @@ VWCE.MI;Vanguard FTSE All-World
 EIMI.MI;iShares Core MSCI EM IMI
 SMEA.MI;iShares Core MSCI EMU
 IMIB.MI;iShares FTSE MIB
-IUSN.MI;iShares MSCI World Small Cap
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): IUSN.MI;iShares MSCI World Small Cap
 IWMO.MI;iShares MSCI World Momentum
 IWQU.MI;iShares MSCI World Quality
-IUIT.MI;iShares S&P 500 Information Technology
-IUHC.MI;iShares S&P 500 Health Care
-IUFS.MI;iShares S&P 500 Financials
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): IUIT.MI;iShares S&P 500 Information Technology
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): IUHC.MI;iShares S&P 500 Health Care
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): IUFS.MI;iShares S&P 500 Financials
 INRG.MI;iShares Global Clean Energy
 ECAR.MI;iShares Electric Vehicles
 HEAL.MI;iShares Healthcare Innovation
-IDTL.MI;iShares $ Treasury 20+yr
-IBTL.MI;iShares $ Treasury 20+yr EUR hedged
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): IDTL.MI;iShares $ Treasury 20+yr
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): IBTL.MI;iShares $ Treasury 20+yr EUR hedged
 IHYG.MI;iShares Euro High Yield
 SGLD.MI;Invesco Physical Gold
 PHAU.MI;WisdomTree Physical Gold
@@ -32,20 +32,19 @@ ESPO.MI;VanEck Video Gaming and eSports
 ROBO.MI;L&G ROBO Global Robotics
 WCLD.MI;WisdomTree Cloud Computing
 EMQQ.MI;EMQQ Emerging Markets Internet
-CBUE.MI;iShares MSCI World Energy
-IEMS.MI;iShares MSCI EM Small Cap
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): IEMS.MI;iShares MSCI EM Small Cap
 CSKR.MI;iShares MSCI Korea
 CSJP.MI;iShares Core MSCI Japan
-CSIN.MI;iShares MSCI India
+NDIA.MI;iShares MSCI India
 FXC.MI;iShares China Large Cap
 IBZL.MI;iShares MSCI Brazil
 ITKY.MI;iShares MSCI Turkey
 EXSA.MI;iShares Stoxx Europe 600
-EXV1.MI;iShares Stoxx Europe 600 Banks
-EXH1.MI;iShares Stoxx Europe 600 Oil & Gas
-EXV3.MI;iShares Stoxx Europe 600 Technology
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): EXV1.MI;iShares Stoxx Europe 600 Banks
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): EXH1.MI;iShares Stoxx Europe 600 Oil & Gas
+# DA VERIFICARE (nessun dato Yahoo con questo codice, il ticker di Milano e' diverso o lo strumento non e' quotato a Milano): EXV3.MI;iShares Stoxx Europe 600 Technology
 LEVMIB.MI;Lyxor FTSE MIB Daily 2x Leveraged
-LVE.MI;Lyxor Euro Stoxx 50 Daily 2x Leveraged
+DJLEV.MI;Amundi Euro Stoxx 50 Daily 2x Leveraged
 LQQ.MI;Amundi Nasdaq-100 Daily 2x Leveraged
 3USL.MI;WisdomTree S&P 500 3x Daily Leveraged
 3ITL.MI;WisdomTree FTSE MIB 3x Daily Leveraged
