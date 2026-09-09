@@ -1,4 +1,4 @@
-run 2026-09-09 18:13 UTC
+run 2026-09-09 18:16 UTC
 ETF in lista: 478, con codice Borsa Italiana: 388, con dati Yahoo (.MI): 388, non quotati a Milano: 90, irrisolti: 0 (ritentati questa volta: 0, risolti ora: 0)
 chiusure del 2026-09-09 mancanti: 0, ricavate dall'intraday: 0
 barre scartate perche' implausibili: 1: 3DEL.MI 2026-05-11
