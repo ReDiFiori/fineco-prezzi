@@ -1,54 +1,6 @@
-run 2026-09-08 23:46 UTC
-  SWDA.MI: chiusura del 2026-09-08 ricavata dall'intraday: 127.160
-  SWDA: 503 barre, ultima 2026-09-08 close 127.160
-  XSPX.MI: chiusura del 2026-09-08 ricavata dall'intraday: 133.740
-  XSPX: 503 barre, ultima 2026-09-08 close 133.740
-  A500.MI: chiusura del 2026-09-08 ricavata dall'intraday: 132.110
-  A500: 503 barre, ultima 2026-09-08 close 132.110
-  XNAS.MI: chiusura del 2026-09-08 ricavata dall'intraday: 59.030
-  XNAS: 503 barre, ultima 2026-09-08 close 59.030
-  ANX.MI: chiusura del 2026-09-08 ricavata dall'intraday: 291.400
-  ANX: 503 barre, ultima 2026-09-08 close 291.400
-  XRS2.MI: chiusura del 2026-09-08 ricavata dall'intraday: 377.980
-  XRS2: 503 barre, ultima 2026-09-08 close 377.980
-  XESC.MI: chiusura del 2026-09-08 ricavata dall'intraday: 114.400
-  XESC: 503 barre, ultima 2026-09-08 close 114.400
-  XDAX.MI: chiusura del 2026-09-08 ricavata dall'intraday: 242.300
-  XDAX: 503 barre, ultima 2026-09-08 close 242.300
-  XSX6.MI: chiusura del 2026-09-08 ricavata dall'intraday: 169.520
-  XSX6: 503 barre, ultima 2026-09-08 close 169.520
-  XMEM.MI: chiusura del 2026-09-08 ricavata dall'intraday: 74.820
-  XMEM: 503 barre, ultima 2026-09-08 close 74.820
-  XMJP.MI: chiusura del 2026-09-08 ricavata dall'intraday: 106.270
-  XMJP: 503 barre, ultima 2026-09-08 close 106.270
-  XCS6.MI: chiusura del 2026-09-08 ricavata dall'intraday: 15.548
-  XCS6: 503 barre, ultima 2026-09-08 close 15.548
-  CI2.MI: chiusura del 2026-09-08 ricavata dall'intraday: 790.410
-  CI2: 503 barre, ultima 2026-09-08 close 790.410
-  KOR.MI: chiusura del 2026-09-08 ricavata dall'intraday: 186.060
-  KOR: 503 barre, ultima 2026-09-08 close 186.060
-  BRA: 442 barre, ultima 2026-09-08 close 27.185
-  CHIP.MI: chiusura del 2026-09-08 ricavata dall'intraday: 112.820
-  CHIP: 503 barre, ultima 2026-09-08 close 112.820
-  GOAI: 502 barre, ultima 2026-09-07 close 140.210
-  AINF.MI: chiusura del 2026-09-08 ricavata dall'intraday: 9.717
-  AINF: 432 barre, ultima 2026-09-08 close 9.717
-  XDWT.MI: chiusura del 2026-09-08 ricavata dall'intraday: 125.840
-  XDWT: 503 barre, ultima 2026-09-08 close 125.840
-  XDWH.MI: chiusura del 2026-09-08 ricavata dall'intraday: 52.860
-  XDWH: 503 barre, ultima 2026-09-08 close 52.860
-  XDW0.MI: chiusura del 2026-09-08 ricavata dall'intraday: 67.000
-  XDW0: 503 barre, ultima 2026-09-08 close 67.000
-  BNK.MI: chiusura del 2026-09-08 ricavata dall'intraday: 75.680
-  BNK: 503 barre, ultima 2026-09-08 close 75.680
-  TNO.MI: chiusura del 2026-09-08 ricavata dall'intraday: 117.000
-  TNO: 503 barre, ultima 2026-09-08 close 117.000
-  DEFS: 317 barre, ultima 2026-09-08 close 5.876
-  NRJC.MI: chiusura del 2026-09-08 ricavata dall'intraday: 20.445
-  NRJC: 505 barre, ultima 2026-09-08 close 20.445
-  GOLD.MI: chiusura del 2026-09-08 ricavata dall'intraday: 149.850
-  GOLD: 503 barre, ultima 2026-09-08 close 149.850
-  EM15.MI: chiusura del 2026-09-08 ricavata dall'intraday: 168.040
-  EM15: 503 barre, ultima 2026-09-08 close 168.040
-  XUTD.MI: chiusura del 2026-09-08 ricavata dall'intraday: 162.960
-  XUTD: 503 barre, ultima 2026-09-08 close 162.960
+run 2026-09-09 00:23 UTC
+ETF in lista: 478, risolti su Borsa Italiana: 54, nuove risoluzioni: 478
+chiusure del 2026-09-08 mancanti: 168, ricavate dall'intraday: 165
+strumenti con dati: 173 su 187 (etf promo 53, altri etf 37, azioni 83)
+senza dati: FAMTEL, IUSN, IUIT, IUHC, IUFS, IDTL, IBTL, CBUE, IEMS, CSIN, EXV1, EXH1, EXV3, LVE
+ultima data: 2026-09-08; strumenti non aggiornati a quella data: 0

@@ -1,0 +1,174 @@
+ticker,tipo,isin,nome,yahoo,mercato
+FAMMAI,etf_promo,IE000VYO9NT0,FINECO AM MSCI ACWI IMI Cyber Security UCITS ETF A EUR Acc,FAMMAI.MI,Borsa Italiana
+FAMEUS,etf_promo,IE000O2G7VL0,Fineco AM MSCI EUR HY SRI P-Series Corporate Bond UCITS ETF A EUR Acc,FAMEUS.MI,Borsa Italiana
+FAMSF3,etf_promo,IE000W6ZFH20,Fineco AM MSCI EUR IG SRI P-Series ex Fossil Fuel (1-3Y) Corporate Bond UCITS ETF A EUR Acc,FAMSF3.MI,Borsa Italiana
+FAMSFF,etf_promo,IE000NPK2VI6,Fineco AM MSCI EUR IG SRI P-Series ex Fossil Fuel Corporate Bond UCITS ETF A EUR Acc,FAMSFF.MI,Borsa Italiana
+FAMUSS,etf_promo,IE0000JVOLK2,Fineco AM MSCI USD HY SRI P-Series Corporate Bond UCITS ETF A EUR Acc,FAMUSS.MI,Borsa Italiana
+FAMLSS,etf_promo,IE000WMJVNE9,Fineco AM MSCI USD IG Liquid SRI P-Series Corporate Bond UCITS ETF A EUR Acc,FAMLSS.MI,Borsa Italiana
+FAMWCS,etf_promo,IE0006XQ3YX3,Fineco AM MSCI World Consumer Staples Sustainable Selection P-Series UCITS ETF A EUR Acc,FAMWCS.MI,Borsa Italiana
+FAMMWF,etf_promo,IE000VDP6OY8,Fineco AM MSCI World Financials Sustainable Selection P-Series UCITS ETF A EUR Acc,FAMMWF.MI,Borsa Italiana
+FAMAMW,etf_promo,IE000EE3Q489,Fineco AM MSCI World Metals and Mining UCITS ETF A EUR Acc,FAMAMW.MI,Borsa Italiana
+FAMMWS,etf_promo,IE000C87OS21,Fineco AM MSCI World Semiconductors and Semiconductor Equipment 20% Capped UCITS ETF A EUR Acc,FAMMWS.MI,Borsa Italiana
+AI4UJ,etf_promo,IE000J8VOMQ9,Fineco AM MarketVector Artificial Intelligence Sustainable UCITS ETF J,AI4UJ.MI,Borsa Italiana
+AI4U,etf_promo,IE000QU8JEH5,Fineco AM MarketVector Artificial Intelligence Sustainable UCITS ETF A Acc,AI4U.MI,Borsa Italiana
+BTECH,etf_promo,IE000RWFQT12,Fineco AM MarketVector Bioproduction Tech and Tools Sustainable UCITS ETF A Acc,BTECH.MI,Borsa Italiana
+BTECJ,etf_promo,IE000YXUZAN8,Fineco AM MarketVector Bioproduction Tech and Tools Sustainable UCITS ETF J Acc,BTECJ.MI,Borsa Italiana
+EMOVJ,etf_promo,IE000VAKCHT4,Fineco AM MarketVector Global Clean Energy Transition Sustainable UCITS ETF J Acc,EMOVJ.MI,Borsa Italiana
+EMOVE,etf_promo,IE000PN3F926,Fineco AM MarketVector Global Clean Energy Transition Sustainable UCITS ETF A Acc,EMOVE.MI,Borsa Italiana
+METAA,etf_promo,IE000WCPJOV4,Fineco AM MarketVector Global Metaverse and e-Games Sustainable UCITS ETF A Acc,METAA.MI,Borsa Italiana
+METAJ,etf_promo,IE000HA0OM03,Fineco AM MarketVector Global Metaverse and e-Games Sustainable UCITS ETF J Acc,METAJ.MI,Borsa Italiana
+JPMQ,etf_promo,IE000QCDDND5,Fineco AM MarketVector Japan Quality Tilt Sustainable UCITS ETF A Acc,JPMQ.MI,Borsa Italiana
+JPMQJ,etf_promo,IE000SM6I1K9,Fineco AM MarketVector Japan Quality Tilt Sustainable UCITS ETF J Acc,JPMQJ.MI,Borsa Italiana
+XMK9,etf_promo,LU0659580079,Xtrackers MSCI Japan UCITS ETF 4C EUR Hedged,XMK9.MI,Borsa Italiana
+XMAW,etf_promo,IE00BGHQ0G80,Xtrackers MSCI AC World Screened UCITS ETF 1C,XMAW.MI,Borsa Italiana
+XZEG,etf_promo,LU2385068593,Xtrackers II ESG Global Government Bond UCITS ETF 4D EUR Income Hedged,XZEG.MI,Borsa Italiana
+XBOT,etf_promo,LU0613540268,Xtrackers II Italy Government Bond 0-1 Swap UCITS ETF 1C,XBOT.MI,Borsa Italiana
+WOEH,etf_promo,IE000P1IQS65,iShares World Equity Enhanced Active UCITS ETF EUR Hedged (Acc),WOEH.MI,Borsa Italiana
+EMBHI,etf_promo,LU1686831030,Amundi Index Solutions - Amundi USD Emerging Markets Government Bond UCITS ETF EUR Hedged Dist,EMBHI.MI,Borsa Italiana
+GHYEH,etf_promo,LU2099296274,Amundi Global High Yield Corporate Bond ESG Monthly Hedged to EUR Acc,GHYEH.MI,Borsa Italiana
+WLDC,etf_promo,FR0014003IY1,Amundi MSCI World Swap II UCITS ETF Acc,WLDC.MI,Borsa Italiana
+FINSW,etf_promo,LU0533032859,Amundi MSCI World Financials UCITS ETF EUR Acc,FINSW.MI,Borsa Italiana
+TNOW,etf_promo,LU0533033667,Amundi MSCI World Information Technology UCITS ETF EUR Acc,TNOW.MI,Borsa Italiana
+HLTW,etf_promo,LU0533033238,Amundi MSCI World Health Care UCITS ETF EUR Acc,HLTW.MI,Borsa Italiana
+NRJC,etf_promo,FR0014002CG3,Amundi MSCI New Energy UCITS ETF Acc,NRJC.MI,Borsa Italiana
+GLUX,etf_promo,LU1681048630,Amundi Index Solutions - Amundi Global Luxury UCITS ETF EUR Acc,GLUX.MI,Borsa Italiana
+TNO,etf_promo,LU1834988518,Multi Units Luxembourg - Amundi STOXX Europe 600 Technology UCITS ETF Acc,TNO.MI,Borsa Italiana
+EPRE,etf_promo,LU1681039480,Amundi Index Solutions - Amundi FTSE EPRA Europe Real Estate UCITS ETF-C,EPRE.MI,Borsa Italiana
+UTI,etf_promo,LU1834988864,Multi Units Luxembourg - Amundi STOXX Europe 600 Utilities UCITS ETF Acc,UTI.MI,Borsa Italiana
+VAL,etf_promo,LU1598690169,Amundi MSCI EMU Value Factor ETF Distribution,VAL.MI,Borsa Italiana
+MMS,etf_promo,LU1598689153,Amundi MSCI EMU Small Cap ESG Broad Transition UCITS ETF DIST,MMS.MI,Borsa Italiana
+LAFRI,etf_promo,LU1287022708,Amundi Pan Africa UCITS ETF Acc,LAFRI.MI,Borsa Italiana
+EM1015,etf_promo,LU1650489385,Amundi Euro Government Bond 10-15Y UCITS ETF Acc,EM1015.MI,Borsa Italiana
+EM13,etf_promo,LU1650487413,Amundi Euro Government Bond 1-3Y UCITS ETF Acc,EM13.MI,Borsa Italiana
+BTP10,etf_promo,LU1598691217,Amundi Italy BTP Government Bond 10Y UCITS ETF Acc,BTP10.MI,Borsa Italiana
+EM35,etf_promo,LU1650488494,Amundi Euro Government Bond 3-5Y UCITS ETF Acc,EM35.MI,Borsa Italiana
+BTP13,etf_promo,LU1598691050,Amundi Italy BTP Government Bond 1-3Y UCITS ETF Acc,BTP13.MI,Borsa Italiana
+EMI,etf_promo,LU1650491282,Amundi Euro Government Inflation-Linked Bond UCITS ETF Acc,EMI.MI,Borsa Italiana
+HYS,etf_promo,LU1617164998,Amundi EUR Short Term High Yield Corporate Bond ESG UCITS ETF D,HYS.MI,Borsa Italiana
+CBEF,etf_promo,LU1829218822,Amundi EUR Corporate Bond ex-Financials ESG UCITS ETF Acc,CBEF.MI,Borsa Italiana
+CLMD,etf_promo,LU1563454401,Amundi Global Aggregate Green Bond UCITS ETF Dist,CLMD.MI,Borsa Italiana
+COMH,etf_promo,LU1900069219,Amdi Blg Eql-wght Com ex-Agrc U,COMH.MI,Borsa Italiana
+FMI,etf_promo,LU1681037518,Amundi Index Solutions - Amundi ITALY MIB ESG UCITS ETF DR - EUR C,FMI.MI,Borsa Italiana
+MFDD,etf_promo,LU0908501132,Amundi MSCI EMU ESG Broad Transition UCITS ETF DIST,MFDD.MI,Borsa Italiana
+USRIH,etf_promo,IE0000U24AJ9,Amundi MSCI USA SRI Climate Paris Aligned UCITS ETF Acc EUR HEDGED,USRIH.MI,Borsa Italiana
+LVO,etf_promo,LU0832435464,Amundi S&P 500 VIX Futures Enhanced Roll UCITS ETF Acc,LVO.MI,Borsa Italiana
+CSSPX,etf,,iShares Core S&P 500,CSSPX.MI,Borsa Italiana
+CSNDX,etf,,iShares Nasdaq 100,CSNDX.MI,Borsa Italiana
+EQQQ,etf,,Invesco Nasdaq 100,EQQQ.MI,Borsa Italiana
+VUSA,etf,,Vanguard S&P 500,VUSA.MI,Borsa Italiana
+VWCE,etf,,Vanguard FTSE All-World,VWCE.MI,Borsa Italiana
+EIMI,etf,,iShares Core MSCI EM IMI,EIMI.MI,Borsa Italiana
+SMEA,etf,,iShares Core MSCI EMU,SMEA.MI,Borsa Italiana
+IMIB,etf,,iShares FTSE MIB,IMIB.MI,Borsa Italiana
+IWMO,etf,,iShares MSCI World Momentum,IWMO.MI,Borsa Italiana
+IWQU,etf,,iShares MSCI World Quality,IWQU.MI,Borsa Italiana
+INRG,etf,,iShares Global Clean Energy,INRG.MI,Borsa Italiana
+ECAR,etf,,iShares Electric Vehicles,ECAR.MI,Borsa Italiana
+HEAL,etf,,iShares Healthcare Innovation,HEAL.MI,Borsa Italiana
+IHYG,etf,,iShares Euro High Yield,IHYG.MI,Borsa Italiana
+SGLD,etf,,Invesco Physical Gold,SGLD.MI,Borsa Italiana
+PHAU,etf,,WisdomTree Physical Gold,PHAU.MI,Borsa Italiana
+PHAG,etf,,WisdomTree Physical Silver,PHAG.MI,Borsa Italiana
+PHPT,etf,,WisdomTree Physical Platinum,PHPT.MI,Borsa Italiana
+COPA,etf,,WisdomTree Copper,COPA.MI,Borsa Italiana
+BRNT,etf,,WisdomTree Brent Crude Oil,BRNT.MI,Borsa Italiana
+SMH,etf,,VanEck Semiconductor,SMH.MI,Borsa Italiana
+DFNS,etf,,VanEck Defense,DFNS.MI,Borsa Italiana
+ESPO,etf,,VanEck Video Gaming and eSports,ESPO.MI,Borsa Italiana
+ROBO,etf,,L&G ROBO Global Robotics,ROBO.MI,Borsa Italiana
+WCLD,etf,,WisdomTree Cloud Computing,WCLD.MI,Borsa Italiana
+EMQQ,etf,,EMQQ Emerging Markets Internet,EMQQ.MI,Borsa Italiana
+CSKR,etf,,iShares MSCI Korea,CSKR.MI,Borsa Italiana
+CSJP,etf,,iShares Core MSCI Japan,CSJP.MI,Borsa Italiana
+FXC,etf,,iShares China Large Cap,FXC.MI,Borsa Italiana
+IBZL,etf,,iShares MSCI Brazil,IBZL.MI,Borsa Italiana
+ITKY,etf,,iShares MSCI Turkey,ITKY.MI,Borsa Italiana
+EXSA,etf,,iShares Stoxx Europe 600,EXSA.MI,Borsa Italiana
+LEVMIB,etf,,Lyxor FTSE MIB Daily 2x Leveraged,LEVMIB.MI,Borsa Italiana
+LQQ,etf,,Amundi Nasdaq-100 Daily 2x Leveraged,LQQ.MI,Borsa Italiana
+3USL,etf,,WisdomTree S&P 500 3x Daily Leveraged,3USL.MI,Borsa Italiana
+3ITL,etf,,WisdomTree FTSE MIB 3x Daily Leveraged,3ITL.MI,Borsa Italiana
+3DEL,etf,,WisdomTree DAX 3x Daily Leveraged,3DEL.MI,Borsa Italiana
+A2A.MI,azione,,A2A,A2A.MI,Borsa Italiana
+AMP.MI,azione,,Amplifon,AMP.MI,Borsa Italiana
+AZM.MI,azione,,Azimut,AZM.MI,Borsa Italiana
+BGN.MI,azione,,Banca Generali,BGN.MI,Borsa Italiana
+BMED.MI,azione,,Banca Mediolanum,BMED.MI,Borsa Italiana
+BAMI.MI,azione,,Banco BPM,BAMI.MI,Borsa Italiana
+BPE.MI,azione,,BPER Banca,BPE.MI,Borsa Italiana
+BMPS.MI,azione,,Monte dei Paschi,BMPS.MI,Borsa Italiana
+BC.MI,azione,,Brunello Cucinelli,BC.MI,Borsa Italiana
+BZU.MI,azione,,Buzzi,BZU.MI,Borsa Italiana
+CPR.MI,azione,,Campari,CPR.MI,Borsa Italiana
+DIA.MI,azione,,DiaSorin,DIA.MI,Borsa Italiana
+ENEL.MI,azione,,Enel,ENEL.MI,Borsa Italiana
+ENI.MI,azione,,Eni,ENI.MI,Borsa Italiana
+ERG.MI,azione,,ERG,ERG.MI,Borsa Italiana
+RACE.MI,azione,,Ferrari,RACE.MI,Borsa Italiana
+FBK.MI,azione,,FinecoBank,FBK.MI,Borsa Italiana
+G.MI,azione,,Generali,G.MI,Borsa Italiana
+HER.MI,azione,,Hera,HER.MI,Borsa Italiana
+IP.MI,azione,,Interpump,IP.MI,Borsa Italiana
+ISP.MI,azione,,Intesa Sanpaolo,ISP.MI,Borsa Italiana
+INW.MI,azione,,Inwit,INW.MI,Borsa Italiana
+IG.MI,azione,,Italgas,IG.MI,Borsa Italiana
+IVG.MI,azione,,Iveco,IVG.MI,Borsa Italiana
+LDO.MI,azione,,Leonardo,LDO.MI,Borsa Italiana
+LTMC.MI,azione,,Lottomatica,LTMC.MI,Borsa Italiana
+MB.MI,azione,,Mediobanca,MB.MI,Borsa Italiana
+MONC.MI,azione,,Moncler,MONC.MI,Borsa Italiana
+NEXI.MI,azione,,Nexi,NEXI.MI,Borsa Italiana
+PIRC.MI,azione,,Pirelli,PIRC.MI,Borsa Italiana
+PST.MI,azione,,Poste Italiane,PST.MI,Borsa Italiana
+PRY.MI,azione,,Prysmian,PRY.MI,Borsa Italiana
+REC.MI,azione,,Recordati,REC.MI,Borsa Italiana
+SPM.MI,azione,,Saipem,SPM.MI,Borsa Italiana
+SRG.MI,azione,,Snam,SRG.MI,Borsa Italiana
+STLAM.MI,azione,,Stellantis,STLAM.MI,Borsa Italiana
+STMMI.MI,azione,,STMicroelectronics,STMMI.MI,Borsa Italiana
+TIT.MI,azione,,Telecom Italia,TIT.MI,Borsa Italiana
+TEN.MI,azione,,Tenaris,TEN.MI,Borsa Italiana
+TRN.MI,azione,,Terna,TRN.MI,Borsa Italiana
+UCG.MI,azione,,UniCredit,UCG.MI,Borsa Italiana
+UNI.MI,azione,,Unipol,UNI.MI,Borsa Italiana
+ADS.DE,azione,,Adidas,ADS.DE,Xetra
+AIR.DE,azione,,Airbus,AIR.DE,Xetra
+ALV.DE,azione,,Allianz,ALV.DE,Xetra
+BAS.DE,azione,,BASF,BAS.DE,Xetra
+BAYN.DE,azione,,Bayer,BAYN.DE,Xetra
+BEI.DE,azione,,Beiersdorf,BEI.DE,Xetra
+BMW.DE,azione,,BMW,BMW.DE,Xetra
+BNR.DE,azione,,Brenntag,BNR.DE,Xetra
+CBK.DE,azione,,Commerzbank,CBK.DE,Xetra
+CON.DE,azione,,Continental,CON.DE,Xetra
+1COV.DE,azione,,Covestro,1COV.DE,Xetra
+DTG.DE,azione,,Daimler Truck,DTG.DE,Xetra
+DBK.DE,azione,,Deutsche Bank,DBK.DE,Xetra
+DB1.DE,azione,,Deutsche Boerse,DB1.DE,Xetra
+DHL.DE,azione,,DHL Group,DHL.DE,Xetra
+DTE.DE,azione,,Deutsche Telekom,DTE.DE,Xetra
+EOAN.DE,azione,,E.ON,EOAN.DE,Xetra
+FRE.DE,azione,,Fresenius,FRE.DE,Xetra
+FME.DE,azione,,Fresenius Medical Care,FME.DE,Xetra
+HNR1.DE,azione,,Hannover Rueck,HNR1.DE,Xetra
+HEI.DE,azione,,Heidelberg Materials,HEI.DE,Xetra
+HEN3.DE,azione,,Henkel,HEN3.DE,Xetra
+IFX.DE,azione,,Infineon,IFX.DE,Xetra
+MBG.DE,azione,,Mercedes-Benz,MBG.DE,Xetra
+MRK.DE,azione,,Merck KGaA,MRK.DE,Xetra
+MTX.DE,azione,,MTU Aero Engines,MTX.DE,Xetra
+MUV2.DE,azione,,Munich Re,MUV2.DE,Xetra
+P911.DE,azione,,Porsche AG,P911.DE,Xetra
+PAH3.DE,azione,,Porsche SE,PAH3.DE,Xetra
+QIA.DE,azione,,Qiagen,QIA.DE,Xetra
+RHM.DE,azione,,Rheinmetall,RHM.DE,Xetra
+RWE.DE,azione,,RWE,RWE.DE,Xetra
+SAP.DE,azione,,SAP,SAP.DE,Xetra
+SRT3.DE,azione,,Sartorius,SRT3.DE,Xetra
+SIE.DE,azione,,Siemens,SIE.DE,Xetra
+ENR.DE,azione,,Siemens Energy,ENR.DE,Xetra
+SHL.DE,azione,,Siemens Healthineers,SHL.DE,Xetra
+SY1.DE,azione,,Symrise,SY1.DE,Xetra
+VOW3.DE,azione,,Volkswagen,VOW3.DE,Xetra
+VNA.DE,azione,,Vonovia,VNA.DE,Xetra
+ZAL.DE,azione,,Zalando,ZAL.DE,Xetra
