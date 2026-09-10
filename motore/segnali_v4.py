@@ -154,16 +154,23 @@ def invia(testo):
     return tg_api("sendMessage", chat_id=chat, text=testo, parse_mode="HTML", disable_web_page_preview="true")
 
 def leggi_canale(stato):
+    """Legge gli aggiornamenti Telegram dal bot (getUpdates). Conserva in stato["tg_diagnostica"] cosa e' arrivato e cosa e' stato
+    scartato (chat diversa dal canale, messaggi senza testo), cosi' un comando non letto si puo' spiegare dal log."""
     chat = str(os.environ.get("TG_CHAT", ""))
-    res = tg_api("getUpdates", offset=stato.get("tg_last_update_id", 0) + 1, timeout=0, allowed_updates='["channel_post","message"]')
-    comandi = []
+    res = tg_api("getUpdates", offset=stato.get("tg_last_update_id", 0) + 1, timeout=0,
+                 allowed_updates='["channel_post","edited_channel_post","message","edited_message"]')
+    comandi = []; diag = {"ricevuti": 0, "scartati": []}
     for u in res.get("result", []):
+        diag["ricevuti"] += 1
         stato["tg_last_update_id"] = max(stato.get("tg_last_update_id", 0), u["update_id"])
-        m = u.get("channel_post") or u.get("message")
-        if not m or "text" not in m: continue
+        m = u.get("channel_post") or u.get("edited_channel_post") or u.get("message") or u.get("edited_message")
+        if not m or "text" not in m:
+            diag["scartati"].append(f"update {u['update_id']}: senza testo"); continue
         cid = str(m["chat"]["id"]); uname = "@" + m["chat"].get("username", "") if m["chat"].get("username") else ""
-        if chat and cid != chat and uname.lower() != chat.lower(): continue
+        if chat and cid != chat and uname.lower() != chat.lower():
+            diag["scartati"].append(f"update {u['update_id']}: chat {cid} '{m['chat'].get('title') or m['chat'].get('first_name', '')}' diversa dal canale: '{m['text'][:40]}'"); continue
         comandi.append({"data": dt.datetime.fromtimestamp(m["date"]).date().isoformat(), "testo": m["text"].strip()})
+    stato["tg_diagnostica"] = diag
     return comandi
 
 def _trova(lista, ticker):
@@ -456,7 +463,7 @@ def main():
     if a.comando == "leggi_canale":
         cmds = leggi_canale(stato); esiti = applica_comandi(stato, cmds)
         json.dump(stato, open(a.stato, "w"), indent=2, ensure_ascii=False)
-        print(json.dumps(dict(comandi=cmds, esiti=esiti), ensure_ascii=False, indent=2)); return
+        print(json.dumps(dict(comandi=cmds, esiti=esiti, diagnostica=stato.get("tg_diagnostica"), tg_last_update_id=stato.get("tg_last_update_id")), ensure_ascii=False, indent=2)); return
     df, meta = carica(a.dati, a.strumenti)
     oggi = dt.date.fromisoformat(a.oggi) if a.oggi else None
     res = analizza(df, meta, stato, oggi); res["messaggio"] = bozza_messaggio(res, stato)
