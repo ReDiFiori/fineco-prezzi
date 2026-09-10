@@ -215,6 +215,8 @@ def applica_comandi(stato, comandi):
                         p["sl_iniziale"] = p["sl"]; p["rischio_1r"] = prezzo - p["sl"]
                     stato["cash"] -= qta * prezzo + ca
                     esiti.append(f"ingresso {p['ticker']} corretto con il tuo eseguito: {qta} a {prezzo} (era dedotto dai prezzi). Stop {p['sl']}" + (f", take profit {p['tp']}" if p.get("tp") else ""))
+                elif stato["posizioni"] and stato["posizioni"][0]["qta"] == qta and abs(stato["posizioni"][0]["prezzo"] - prezzo) < 1e-9:
+                    esiti.append(f"ESEGUITO {qta} a {prezzo}: gia' registrato, nessuna modifica")
                 else: esiti.append("ESEGUITO: nessun ordine pendente e nessuna posizione dedotta da correggere")
             elif parti[0] in ("VENDUTO", "CHIUSO"):
                 nums = [x for x in parti[1:] if x.replace(".", "", 1).isdigit()]
