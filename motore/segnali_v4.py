@@ -203,7 +203,19 @@ def applica_comandi(stato, comandi):
                 if o:
                     p = apri_posizione(stato, o, qta, prezzo, c["data"], "confermato")
                     esiti.append(f"ingresso confermato: {o['ticker']} {qta} a {prezzo}. Stop {p['sl']}" + (f", take profit {p['tp']}" if p.get("tp") else ", nessun take profit") + (" (ricalcolati sul prezzo eseguito)" if P["ricalcolo_su_eseguito"] else ""))
-                else: esiti.append("ESEGUITO: nessun ordine pendente")
+                elif stato["posizioni"] and stato["posizioni"][0].get("fonte_eseguito") == "dedotto dai prezzi":
+                    # il motore aveva gia' dedotto l'ingresso dai prezzi (comando arrivato tardi o non letto): correggo prezzo, quantita' e livelli
+                    p = stato["posizioni"][0]
+                    stato["cash"] += p["qta"] * p["prezzo"] + p["costo_apertura"]
+                    ca = costo_acquisto(p["tipo"], p["mercato"], qta * prezzo)
+                    dist = p.get("dist_sl") or (p["prezzo"] - p["sl_iniziale"]) / p["prezzo"]; tp_pct = p.get("tp_pct", 0.0) if p.get("tp") else 0.0
+                    p.update(qta=qta, prezzo=float(prezzo), costo_apertura=round(ca, 2), fonte_eseguito="confermato (corretto)", max_dall_ingresso=max(p.get("max_dall_ingresso", prezzo), prezzo))
+                    if P["ricalcolo_su_eseguito"]:
+                        p["sl"], p["tp"] = livelli(prezzo, dist, tp_pct)
+                        p["sl_iniziale"] = p["sl"]; p["rischio_1r"] = prezzo - p["sl"]
+                    stato["cash"] -= qta * prezzo + ca
+                    esiti.append(f"ingresso {p['ticker']} corretto con il tuo eseguito: {qta} a {prezzo} (era dedotto dai prezzi). Stop {p['sl']}" + (f", take profit {p['tp']}" if p.get("tp") else ""))
+                else: esiti.append("ESEGUITO: nessun ordine pendente e nessuna posizione dedotta da correggere")
             elif parti[0] in ("VENDUTO", "CHIUSO"):
                 nums = [x for x in parti[1:] if x.replace(".", "", 1).isdigit()]
                 qta, prezzo = int(float(nums[-2])), float(nums[-1])
@@ -238,7 +250,8 @@ def apri_posizione(stato, ordine, qta, prezzo, data, fonte):
     if not P["usa_tp"]: pos["tp"] = None
     ca = costo_acquisto(ordine["tipo"], ordine["mercato"], qta * prezzo)
     pos.update(qta=qta, prezzo=prezzo, data=data, rischio_1r=prezzo - pos["sl"], fonte_eseguito=fonte,
-               sl_iniziale=pos["sl"], costo_apertura=round(ca, 2), max_dall_ingresso=prezzo)
+               sl_iniziale=pos["sl"], costo_apertura=round(ca, 2), max_dall_ingresso=prezzo,
+               dist_sl=ordine.get("dist_sl"), tp_pct=ordine.get("tp_pct", 0.0))
     stato["cash"] -= qta * prezzo + ca
     stato["posizioni"].append(pos)
     if ordine in stato["ordini_pendenti"]: stato["ordini_pendenti"].remove(ordine)
