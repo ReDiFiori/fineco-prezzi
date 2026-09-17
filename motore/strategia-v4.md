@@ -1,6 +1,6 @@
 # Strategia Fineco v4: rotazione momentum su ETF e azioni, con stop di struttura e ricalcolo sul prezzo eseguito
 
-Versione 4, 9 settembre 2026, PROPOSTA in attesa del via libera di Ugo. Nasce dalla prima operazione reale (BNK, 9/9: ingresso in gap negativo, stop toccato nella stessa seduta) e dal confronto con le pratiche consolidate del trend following e del momentum su ETF. Riprende dalla v3 tutto quello che non è citato qui: universo a tre livelli, costi Fineco, regime SWDA sopra/sotto media 200, filtri di trend, liquidità e storia, una posizione alla volta, massimo tre ingressi a settimana, rischio 7% per operazione (3,5% sotto i 425 €), kill switch a 350 €.
+Versione 4, 9 settembre 2026, APPROVATA da Ugo il 9 settembre e IN PRODUZIONE: dal 9 al 11 settembre nella routine cloud, dal 12 settembre 2026 sul Mac mini (job launchd delle 19:45, vedere HANDOFF sezione 15). Documenti successivi: `claude/proposta-v5-rotazione.md` (regola di rotazione, testata il 16/9 con `motore/bt5.py`, non adottata) e `claude/confronto-benchmark.md` (v4 contro S&P 500, 17/9). Nasce dalla prima operazione reale (BNK, 9/9: ingresso in gap negativo, stop toccato nella stessa seduta) e dal confronto con le pratiche consolidate del trend following e del momentum su ETF. Riprende dalla v3 tutto quello che non è citato qui: universo a tre livelli, costi Fineco, regime SWDA sopra/sotto media 200, filtri di trend, liquidità e storia, una posizione alla volta, massimo tre ingressi a settimana, rischio 7% per operazione (3,5% sotto i 425 €), kill switch a 350 €.
 
 Motore: `motore/segnali v4.py`. Con i parametri v4 spenti riproduce la v3 al centesimo (test bt4, configurazione v3eq: 585,60 €, 21 operazioni). Test comparativo: `motore/bt4.py`, risultati in `motore/bt4_risultati.json`.
 
@@ -68,7 +68,7 @@ Stessa meccanica di bt3: si parte da 500 €, si cicla il motore seduta per sedu
 
 Adottare la v4 con: ricalcolo sul prezzo eseguito, regola del gap a 0,5 ATR, stop iniziale 2 ATR (minimo 2,5%, massimo 6%), chandelier 3 ATR dal massimo dalla terza seduta, take profit 2R (tetto 15%), classifica v3, tre livelli di strumenti invariati. Stop di struttura, filtro gap storico e classifica Clenow restano disponibili ma spenti.
 
-## 7. Messa in produzione (dopo il via libera)
+## 7. Messa in produzione (fatta: 9/9 routine cloud, 12/9 Mac mini)
 
 1. Nel progetto claude.ai "Trading su Fineco": salvare `claude/strategia-v4.md` (questo file) e `claude/motore-segnali.py.md` con il codice di `segnali v4.py`; aggiornare `claude/runbook-serale.md` (nome del file segnali_v4.py, lettura degli esiti dei comandi nel messaggio, tabella stop/take profit). Lo stato attuale è compatibile (il motore aggiunge `eventi_pendenti` da solo).
 2. Aggiornare il prompt della routine "Segnale serale Fineco" (RemoteTrigger update) dove cita la v3 e segnali_v3.py.
