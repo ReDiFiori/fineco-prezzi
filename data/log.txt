@@ -1,9 +1,9 @@
-run 2026-09-17 20:27 UTC
+run 2026-09-18 17:15 UTC
 ETF in lista: 478, con codice Borsa Italiana: 388, con dati Yahoo (.MI): 388, non quotati a Milano: 90, irrisolti: 0 (ritentati questa volta: 0, risolti ora: 0)
-chiusure del 2026-09-17 mancanti: 0, ricavate dall'intraday: 0
+chiusure del 2026-09-18 mancanti: 0, ricavate dall'intraday: 0
 barre scartate perche' implausibili: 1: 3DEL.MI 2026-05-11
-barre scaricate: 245958, conservate dallo storico: 3166, totale: 249124
-barre per data (ultime 6): 2026-09-10 508, 2026-09-11 508, 2026-09-14 508, 2026-09-15 508, 2026-09-16 457, 2026-09-17 461
+barre scaricate: 246001, conservate dallo storico: 3719, totale: 249720
+barre per data (ultime 6): 2026-09-11 508, 2026-09-14 508, 2026-09-15 508, 2026-09-16 508, 2026-09-17 462, 2026-09-18 462
 strumenti con dati: 509 su 509 (etf promo 388, altri etf 38, azioni 83)
 senza dati: 
-ultima data: 2026-09-17; strumenti non aggiornati a quella data: 48
+ultima data: 2026-09-18; strumenti non aggiornati a quella data: 47
