@@ -246,6 +246,25 @@ if os.path.exists(STORICO):
         log.append(f"unione con lo storico fallita, scrivo solo il download di oggi: {e}")
 log.append(f"barre scaricate: {len(df) - conservate}, conservate dallo storico: {conservate}, totale: {len(df)}")
 
+# ---------------------------------------------------------------- salti anomali (bad tick isolati, split non rettificati)
+# Trovati il 21/9/2026: XDJP 24/10/2025 chiusura 5102 invece di 28,5 (barra isolata); 3DEL 12/5/2026 e LQQ 9/7/2026 (split non
+# rettificati da Yahoo); XS8R 17/2/2025. Un salto del genere falsa ATR, medie e momentum per mesi e puo' produrre un segnale falso.
+# Il controllo gira DOPO l'unione con lo storico: fatto prima (prima stesura del 21/9) rilevava i salti ma l'unione rimetteva
+# nel file le righe vecchie, e prezzi.csv restava identico (verificato con un run di prova il 21/9).
+df = df.sort_values(["ticker", "date"]).reset_index(drop=True)
+prev = df.groupby("ticker")["close"].shift(1); nxt = df.groupby("ticker")["close"].shift(-1)
+r_prev = df["close"] / prev; r_next = nxt / df["close"]
+spike = (((r_prev > 1.5) & (r_next < 0.67)) | ((r_prev < 0.67) & (r_next > 1.5))).fillna(False)
+if spike.any():
+    log.append(f"bad tick isolati scartati: {int(spike.sum())}: " + ", ".join(f"{r.ticker} {r.date} {r.close:.3f}" for r in df[spike].head(15).itertuples()))
+    df = df[~spike].reset_index(drop=True)
+prev = df.groupby("ticker")["close"].shift(1); salto = ((df["close"] / prev > 1.5) | (df["close"] / prev < 0.67)).fillna(False)
+giorni = pd.to_datetime(df["date"]); recenti = giorni >= (giorni.max() - pd.Timedelta(days=400))
+sospesi = sorted(set(df.loc[salto & recenti, "ticker"]))
+if sospesi:
+    log.append("strumenti esclusi per salto di prezzo non rettificato (split o errore) nell'ultimo anno: " + ", ".join(sospesi))
+    df = df[~df["ticker"].isin(sospesi)]
+
 df = df.sort_values(["ticker", "date"])
 df.to_csv(STORICO, index=False, float_format="%.4f")
 presenti = set(df["ticker"])
