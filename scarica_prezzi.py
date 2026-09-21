@@ -48,6 +48,9 @@ def leggi_lista(f):
     return d
 azioni = {**leggi_lista("azioni.txt"), **leggi_lista("azioni_extra.txt")}   # yahoo -> nome
 etf_extra = leggi_lista("etf_extra.txt")
+# Esclusioni manuali (esclusi.txt: ticker di Milano o simbolo Yahoo;motivo). Lo strumento esce da strumenti.csv e da prezzi.csv,
+# storico compreso. Serve per i casi che i controlli automatici non prendono (es. XS8R: salto del 17/2/2025, fuori finestra).
+esclusi = {k.upper() for k in leggi_lista("esclusi.txt")}
 
 # ---------------------------------------------------------------- risoluzione ISIN -> ticker di Milano
 BI_H = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127 Safari/537.36",
@@ -162,6 +165,10 @@ for y, nome in azioni.items():
         strumenti.append((y, "azione", "", nome, y, "Xetra" if y.endswith(".DE") else "Borsa Italiana")); visti.add(y)
 
 # ---------------------------------------------------------------- download
+if esclusi:
+    tolti = [s[0] for s in strumenti if s[0].upper() in esclusi or s[4].upper() in esclusi]
+    strumenti = [s for s in strumenti if s[0].upper() not in esclusi and s[4].upper() not in esclusi]
+    log.append("esclusi a mano (esclusi.txt): " + (", ".join(tolti) or "nessuno trovato nell'universo"))
 simboli = [s[4] for s in strumenti]
 pezzi = []
 for i in range(0, len(simboli), 80):

@@ -1,0 +1,2 @@
+# Strumenti esclusi a mano dal downloader: ticker di Milano (o simbolo Yahoo), poi ; e il motivo. Le righe con # sono ignorate.
+XS8R;salto di prezzo non rettificato il 17/2/2025, fuori dalla finestra dei controlli automatici (deciso da Ugo il 21/9/2026)
