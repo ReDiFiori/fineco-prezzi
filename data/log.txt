@@ -1,12 +1,12 @@
-run 2026-09-23 19:52 UTC
+run 2026-09-23 20:15 UTC
 ETF in lista: 478, con codice Borsa Italiana: 388, con dati Yahoo (.MI): 388, non quotati a Milano: 90, irrisolti: 0 (ritentati questa volta: 0, risolti ora: 0)
 esclusi a mano (esclusi.txt): XS8R
 chiusure del 2026-09-23 mancanti: 0, ricavate dall'intraday: 0
 barre scartate perche' implausibili: 1: 3DEL.MI 2026-05-11
-barre scaricate: 245706, conservate dallo storico: 5242, totale: 250948
+barre scaricate: 245592, conservate dallo storico: 5359, totale: 250951
 bad tick isolati scartati: 1: XDJP 2025-10-24 5102.542
-strumenti esclusi per salto di prezzo non rettificato (split o errore) nell'ultimo anno: 3DEL, COMH, LQQ
-barre per data (ultime 6): 2026-09-16 504, 2026-09-17 504, 2026-09-18 504, 2026-09-21 504, 2026-09-22 467, 2026-09-23 471
-strumenti con dati: 505 su 508 (etf promo 386, altri etf 36, azioni 83)
-senza dati: COMH, LQQ, 3DEL
+strumenti esclusi per salto di prezzo non rettificato (split o errore) nell'ultimo anno: 3DEL, LQQ
+barre per data (ultime 6): 2026-09-16 505, 2026-09-17 505, 2026-09-18 505, 2026-09-21 505, 2026-09-22 468, 2026-09-23 472
+strumenti con dati: 506 su 508 (etf promo 387, altri etf 36, azioni 83)
+senza dati: LQQ, 3DEL
 ultima data: 2026-09-23; strumenti non aggiornati a quella data: 34

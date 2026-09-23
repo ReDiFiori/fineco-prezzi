@@ -361,6 +361,7 @@ USHYC,etf_promo,LU1435356065,Amundi USD High Yield Corporate Bond ESG UCITS ETF 
 EGRI,etf_promo,LU2182388236,Amundi Euro Aggregate Bond ESG UCITS ETF DR (C),EGRI.MI,Borsa Italiana
 CLIM,etf_promo,LU1563454310,Amundi Global Aggregate Green Bond UCITS ETF Acc,CLIM.MI,Borsa Italiana
 CLMD,etf_promo,LU1563454401,Amundi Global Aggregate Green Bond UCITS ETF Dist,CLMD.MI,Borsa Italiana
+COMH,etf_promo,LU1900069219,Broad Commodities,COMH.MI,Borsa Italiana
 COMO,etf_promo,LU1829218749,Amundi Bloomberg Equal-weight Commodity ex-Agriculture UCITS ETF Acc,COMO.MI,Borsa Italiana
 LWCR,etf_promo,IE0001GSQ2O9,Amundi MSCI World ESG Broad Transition UCITS ETF Acc,LWCR.MI,Borsa Italiana
 GOAI,etf_promo,LU1861132840,Amundi MSCI Robotics & AI UCITS ETF Acc,GOAI.MI,Borsa Italiana
